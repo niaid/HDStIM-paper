@@ -1,12 +1,14 @@
 # HDStIM-paper
 Code to reproduce analysis for the HDStIM paper.
 
-
 ## Figures from bone marrow dataset.
-
 ### Figures 1 B & E. Supplementary figures 1 A & B.
 ```
 scripts/bone_marrow/HDStIM_vs_Bendall_paper.R
+```
+### Figure 1 C & D
+```
+scripts/bone_marrow/HDStIM_diagnostic_plots.R
 ```
 ### Figure 1 F
 ```
