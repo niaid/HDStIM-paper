@@ -1,0 +1,366 @@
+stim_type	state_marker	cluster
+BCR	pH3	Mature CD38lo B
+BCR	pPLCgamma2	Mature CD38mid B
+BCR	pP38	CD11bmid Monocyte
+BCR	pERK1_2	Plasma cell
+BCR	pPLCgamma2	Mature CD38lo B
+BCR	pCREB	Mature CD38mid B
+BCR	pSLP_76	Mature CD38lo B
+BCR	pSLP_76	Immature B
+BCR	pH3	CD11bmid Monocyte
+BCR	pSTAT3	Immature B
+BCR	pPLCgamma2	Immature B
+BCR	pCREB	Mature CD38lo B
+BCR	pH3	CD11b- Monocyte
+BCR	pH3	CD11bhi Monocyte
+Flt3L	pCREB	Plasmacytoid DC
+Flt3L	pH3	CD11b- Monocyte
+GCSF	pPLCgamma2	Platelet
+GCSF	pSTAT3	CD11bhi Monocyte
+GCSF	pH3	CD11b- Monocyte
+GCSF	pSTAT3	CD11bmid Monocyte
+GCSF	pP38	CD11b- Monocyte
+GCSF	pCREB	HSC
+GCSF	pSTAT3	Immature B
+GCSF	pSrcFK	CD11bhi Monocyte
+GCSF	pSTAT3	CD11b- Monocyte
+GCSF	pCrkL	Platelet
+GCSF	pSrcFK	CD11bmid Monocyte
+GCSF	pSTAT5	MPP
+GCSF	pP38	CD11bmid Monocyte
+GCSF	pP38	CD11bhi Monocyte
+GCSF	pSTAT3	HSC
+GCSF	pSTAT3	MPP
+GMCSF	pSTAT5	MPP
+GMCSF	pH3	Plasmacytoid DC
+GMCSF	pSTAT5	CD11bmid Monocyte
+GMCSF	pP38	CD11bmid Monocyte
+GMCSF	pP38	CD11bhi Monocyte
+GMCSF	pSTAT5	CD11bhi Monocyte
+GMCSF	pBtk_Itk	Mature CD38lo B
+GMCSF	pSTAT5	CD11b- Monocyte
+GMCSF	pH3	CD11bhi Monocyte
+GMCSF	pSTAT3	HSC
+GMCSF	pSTAT5	Plasmacytoid DC
+GMCSF	pBtk_Itk	HSC
+GMCSF	pSTAT5	MEP
+GMCSF	pCREB	Plasmacytoid DC
+GMCSF	pH3	CD11b- Monocyte
+GMCSF	pSTAT5	HSC
+IFNa	pSTAT3	Plasmacytoid DC
+IFNa	pSTAT5	Memory CD8+ T
+IFNa	pSTAT5	Mature CD38mid B
+IFNa	pSTAT5	Naive CD4+ T
+IFNa	pSrcFK	CD11bmid Monocyte
+IFNa	pSrcFK	CD11bhi Monocyte
+IFNa	pP38	CD11bmid Monocyte
+IFNa	pSTAT3	Pre-B II
+IFNa	pSrcFK	CD11b- Monocyte
+IFNa	pSTAT5	HSC
+IFNa	pSTAT3	MPP
+IFNa	pSTAT3	CMP
+IFNa	pSTAT3	Mature CD38lo B
+IFNa	pSTAT5	Mature CD38lo B
+IFNa	pSTAT5	CMP
+IFNa	pSTAT5	MEP
+IFNa	pSTAT3	MEP
+IFNa	pSTAT3	HSC
+IFNa	pSTAT5	Naive CD8+ T
+IFNa	pSTAT3	CD11bhi Monocyte
+IFNa	pSrcFK	Pre-B II
+IFNa	pSTAT3	Memory CD4+ T
+IFNa	IkBalpha	MEP
+IFNa	pSTAT3	Immature B
+IFNa	pSTAT5	Pre-B I
+IFNa	pSTAT3	CD11bmid Monocyte
+IFNa	pSTAT3	Memory CD8+ T
+IFNa	pSTAT3	CD11b- Monocyte
+IFNa	pSTAT3	NK
+IFNa	pSTAT3	Naive CD8+ T
+IFNa	pSTAT5	MPP
+IFNa	pSTAT3	Plasma cell
+IFNa	pSTAT5	Memory CD4+ T
+IFNa	pSTAT3	Naive CD4+ T
+IL3	pSTAT3	Immature B
+IL3	pSrcFK	CD11b- Monocyte
+IL3	pSTAT3	HSC
+IL3	pH3	Plasmacytoid DC
+IL3	pSrcFK	CD11bhi Monocyte
+IL3	pSTAT5	Plasmacytoid DC
+IL3	pS6	Plasmacytoid DC
+IL3	pSrcFK	Plasmacytoid DC
+IL3	pSTAT3	Plasmacytoid DC
+IL3	pCREB	Plasmacytoid DC
+IL3	pSTAT5	MEP
+IL3	pP38	CD11bmid Monocyte
+IL3	pSrcFK	CD11bmid Monocyte
+IL7	pSTAT5	Naive CD8+ T
+IL7	pSTAT5	Memory CD4+ T
+IL7	pSTAT5	Memory CD8+ T
+IL7	pSTAT5	Naive CD4+ T
+LPS	IkBalpha	CD11bhi Monocyte
+LPS	IkBalpha	MEP
+LPS	pP38	CD11b- Monocyte
+LPS	pH3	CD11bmid Monocyte
+LPS	IkBalpha	CD11b- Monocyte
+LPS	pP38	CD11bhi Monocyte
+LPS	IkBalpha	CD11bmid Monocyte
+LPS	pP38	CD11bmid Monocyte
+LPS	pH3	CD11b- Monocyte
+PMAiono	pS6	CD11b- Monocyte
+PMAiono	pCREB	Naive CD8+ T
+PMAiono	pERK1_2	HSC
+PMAiono	pP38	Memory CD4+ T
+PMAiono	pS6	Immature B
+PMAiono	pH3	HSC
+PMAiono	pS6	GMP
+PMAiono	pERK1_2	CD11bmid Monocyte
+PMAiono	pS6	CD11bmid Monocyte
+PMAiono	pERK1_2	Immature B
+PMAiono	pH3	MPP
+PMAiono	pNFkB	Naive CD8+ T
+PMAiono	pP38	HSC
+PMAiono	pH3	CD11bmid Monocyte
+PMAiono	pP38	CD11bmid Monocyte
+PMAiono	pS6	Memory CD8+ T
+PMAiono	pS6	Pre-B I
+PMAiono	pS6	HSC
+PMAiono	pERK1_2	CD11bhi Monocyte
+PMAiono	pNFkB	Naive CD4+ T
+PMAiono	pCREB	Mature CD38mid B
+PMAiono	pS6	Mature CD38lo B
+PMAiono	pS6	Memory CD4+ T
+PMAiono	pH3	CD11b- Monocyte
+PMAiono	pS6	Naive CD8+ T
+PMAiono	pH3	Memory CD4+ T
+PMAiono	pERK1_2	MEP
+PMAiono	pMAPKAPK2	Naive CD4+ T
+PMAiono	pS6	MEP
+PMAiono	pCREB	HSC
+PMAiono	pH3	Mature CD38lo B
+PMAiono	pERK1_2	Naive CD4+ T
+PMAiono	pCREB	Pre-B II
+PMAiono	pS6	Plasmacytoid DC
+PMAiono	pP38	Naive CD8+ T
+PMAiono	pMAPKAPK2	Naive CD8+ T
+PMAiono	pS6	Pre-B II
+PMAiono	pH3	CD11bhi Monocyte
+PMAiono	IkBalpha	CD11bhi Monocyte
+PMAiono	pCREB	Naive CD4+ T
+PMAiono	pP38	CD11bhi Monocyte
+PMAiono	pCREB	Plasmacytoid DC
+PMAiono	pH3	Immature B
+PMAiono	pH3	Naive CD4+ T
+PMAiono	pSrcFK	CD11bmid Monocyte
+PMAiono	pERK1_2	Plasma cell
+PMAiono	pCREB	Pre-B I
+PMAiono	pH3	Naive CD8+ T
+PMAiono	pSTAT3	Immature B
+PMAiono	pERK1_2	CD11b- Monocyte
+PMAiono	pSrcFK	CD11bhi Monocyte
+PMAiono	pS6	Naive CD4+ T
+PMAiono	pH3	Plasmacytoid DC
+PMAiono	pP38	Memory CD8+ T
+PMAiono	pCREB	Mature CD38lo B
+PVO4	pCrkL	CD11bhi Monocyte
+PVO4	pSHP2	Plasma cell
+PVO4	pZAP70_Syk	Memory CD4+ T
+PVO4	pSLP_76	Naive CD8+ T
+PVO4	pPLCgamma2	Memory CD8+ T
+PVO4	pCrkL	Memory CD8+ T
+PVO4	pSTAT3	Plasma cell
+PVO4	pPLCgamma2	Naive CD4+ T
+PVO4	pSLP_76	Myelocyte
+PVO4	pS6	Pre-B I
+PVO4	pPLCgamma2	CD11bhi Monocyte
+PVO4	pSTAT3	Immature B
+PVO4	pZAP70_Syk	Memory CD8+ T
+PVO4	pSTAT3	Pre-B II
+PVO4	pP38	Memory CD4+ T
+PVO4	pSTAT5	Memory CD8+ T
+PVO4	pZAP70_Syk	Immature B
+PVO4	pBtk_Itk	HSC
+PVO4	pZAP70_Syk	Naive CD4+ T
+PVO4	pCrkL	CD11bmid Monocyte
+PVO4	pSrcFK	Naive CD8+ T
+PVO4	pSTAT5	Naive CD4+ T
+PVO4	pCrkL	Naive CD4+ T
+PVO4	pP38	CD11bmid Monocyte
+PVO4	pS6	Naive CD4+ T
+PVO4	pSLP_76	HSC
+PVO4	pSrcFK	Mature CD38lo B
+PVO4	pSLP_76	Memory CD4+ T
+PVO4	pMAPKAPK2	Plasma cell
+PVO4	pP38	Plasma cell
+PVO4	pP38	Pre-B I
+PVO4	pPLCgamma2	Pre-B II
+PVO4	pSTAT5	Plasmacytoid DC
+PVO4	pSrcFK	Plasmacytoid DC
+PVO4	pSHP2	CD11bmid Monocyte
+PVO4	pPLCgamma2	Naive CD8+ T
+PVO4	pP38	MEP
+PVO4	pS6	Naive CD8+ T
+PVO4	pERK1_2	CD11b- Monocyte
+PVO4	pPLCgamma2	GMP
+PVO4	pP38	Naive CD8+ T
+PVO4	pSHP2	Memory CD4+ T
+PVO4	pSLP_76	Immature B
+PVO4	pSTAT5	Memory CD4+ T
+PVO4	pSHP2	CD11bhi Monocyte
+PVO4	pZAP70_Syk	CD11bmid Monocyte
+PVO4	pSLP_76	Mature CD38mid B
+PVO4	pSLP_76	Pre-B II
+PVO4	pSHP2	Memory CD8+ T
+PVO4	pMAPKAPK2	Memory CD8+ T
+PVO4	pSLP_76	Plasma cell
+PVO4	pP38	Plasmacytoid DC
+PVO4	pPLCgamma2	CMP
+PVO4	pERK1_2	MEP
+PVO4	IkBalpha	MEP
+PVO4	pSLP_76	MPP
+PVO4	pSrcFK	Memory CD4+ T
+PVO4	pSTAT5	Pre-B I
+PVO4	pERK1_2	Immature B
+PVO4	pSrcFK	Plasma cell
+PVO4	pERK1_2	CD11bmid Monocyte
+PVO4	pSHP2	Pre-B I
+PVO4	pPLCgamma2	Myelocyte
+PVO4	pSrcFK	CD11bmid Monocyte
+PVO4	pSLP_76	CD11bmid Monocyte
+PVO4	pSTAT5	Naive CD8+ T
+PVO4	pSHP2	CD11b- Monocyte
+PVO4	pSrcFK	Immature B
+PVO4	pERK1_2	Plasma cell
+PVO4	pCREB	MEP
+PVO4	pSHP2	Naive CD4+ T
+PVO4	pSLP_76	CD11bhi Monocyte
+PVO4	IkBalpha	CD11bmid Monocyte
+PVO4	pSrcFK	Pre-B I
+PVO4	pPLCgamma2	HSC
+PVO4	pP38	HSC
+PVO4	pSLP_76	Memory CD8+ T
+PVO4	pSLP_76	CD11b- Monocyte
+PVO4	pSTAT3	Memory CD4+ T
+PVO4	pSTAT3	CD11bmid Monocyte
+PVO4	pS6	Memory CD4+ T
+PVO4	pS6	MEP
+PVO4	pSrcFK	Pre-B II
+PVO4	pSTAT3	HSC
+PVO4	pERK1_2	Pre-B I
+PVO4	pCrkL	Pre-B I
+PVO4	pSTAT3	CD11b- Monocyte
+PVO4	pMAPKAPK2	Naive CD8+ T
+PVO4	pP38	CMP
+PVO4	pSTAT5	Immature B
+PVO4	pSTAT3	Naive CD8+ T
+PVO4	pMAPKAPK2	Memory CD4+ T
+PVO4	pCREB	Pre-B I
+PVO4	pSrcFK	Naive CD4+ T
+PVO4	pSHP2	Immature B
+PVO4	pZAP70_Syk	Naive CD8+ T
+PVO4	pERK1_2	Myelocyte
+PVO4	pCrkL	Naive CD8+ T
+PVO4	pPLCgamma2	Mature CD38mid B
+PVO4	pSLP_76	Pre-B I
+PVO4	pSTAT5	CD11bhi Monocyte
+PVO4	pP38	CD11bhi Monocyte
+PVO4	pPLCgamma2	Megakaryocyte
+PVO4	pS6	HSC
+PVO4	pSHP2	MEP
+PVO4	pMAPKAPK2	Immature B
+PVO4	pCREB	MPP
+PVO4	pCREB	Plasma cell
+PVO4	pNFkB	Pre-B I
+PVO4	pSTAT5	CD11b- Monocyte
+PVO4	pPLCgamma2	Immature B
+PVO4	pP38	GMP
+PVO4	pPLCgamma2	CD11b- Monocyte
+PVO4	pPLCgamma2	Plasma cell
+PVO4	pCREB	Naive CD4+ T
+PVO4	pCrkL	Pre-B II
+PVO4	pCrkL	Immature B
+PVO4	pSrcFK	CD11b- Monocyte
+PVO4	pCREB	HSC
+PVO4	pP38	Memory CD8+ T
+PVO4	pPLCgamma2	Platelet
+PVO4	pSrcFK	CD11bhi Monocyte
+PVO4	pP38	CD11b- Monocyte
+PVO4	pCrkL	CD11b- Monocyte
+PVO4	pPLCgamma2	Pre-B I
+PVO4	pPLCgamma2	MPP
+PVO4	pP38	MPP
+PVO4	pPLCgamma2	Memory CD4+ T
+PVO4	pPLCgamma2	MEP
+PVO4	pSHP2	Naive CD8+ T
+PVO4	pCREB	Naive CD8+ T
+PVO4	pP38	Naive CD4+ T
+PVO4	pSTAT3	CD11bhi Monocyte
+PVO4	pCREB	Plasmacytoid DC
+PVO4	pBtk_Itk	Mature CD38lo B
+PVO4	pP38	Pre-B II
+PVO4	pP38	NK
+PVO4	pSrcFK	Memory CD8+ T
+PVO4	pPLCgamma2	CD11bmid Monocyte
+PVO4	pSLP_76	Naive CD4+ T
+PVO4	pPLCgamma2	Erythroblast
+PVO4	pCrkL	Memory CD4+ T
+PVO4	pSTAT5	CD11bmid Monocyte
+PVO4	pSLP_76	Plasmacytoid DC
+SCF	pS6	HSC
+SCF	pSTAT3	Memory CD8+ T
+SCF	pBtk_Itk	HSC
+SCF	pSrcFK	CD11bhi Monocyte
+SCF	pSTAT3	CD11bmid Monocyte
+SCF	pCREB	MEP
+SCF	pSTAT3	Immature B
+SCF	pP38	CD11bmid Monocyte
+SCF	pSTAT3	HSC
+SCF	pSrcFK	CD11b- Monocyte
+SCF	pBtk_Itk	Mature CD38lo B
+SCF	pSTAT3	CD11bhi Monocyte
+SCF	pSTAT3	CD11b- Monocyte
+SCF	pSrcFK	CD11bmid Monocyte
+SCF	pSTAT3	Plasma cell
+SCF	pSTAT3	Memory CD4+ T
+SCF	pS6	Immature B
+SCF	pSTAT3	NK
+SCF	pS6	MEP
+SCF	pSTAT3	Naive CD4+ T
+SCF	pSTAT3	Naive CD8+ T
+SCF	pSrcFK	Pre-B II
+TNFa	pS6	MEP
+TNFa	pS6	CD11b- Monocyte
+TNFa	IkBalpha	CD11bhi Monocyte
+TNFa	pH3	CD11bmid Monocyte
+TNFa	IkBalpha	Plasmacytoid DC
+TNFa	pH3	CD11bhi Monocyte
+TNFa	IkBalpha	CD11b- Monocyte
+TNFa	pBtk_Itk	HSC
+TNFa	pCREB	MEP
+TNFa	IkBalpha	NK
+TNFa	IkBalpha	GMP
+TNFa	pCREB	Pre-B I
+TNFa	IkBalpha	CMP
+TNFa	pP38	CD11bhi Monocyte
+TNFa	pSrcFK	CD11b- Monocyte
+TNFa	pS6	HSC
+TNFa	pS6	CD11bmid Monocyte
+TNFa	IkBalpha	Pre-B I
+TNFa	pH3	MEP
+TNFa	pH3	CD11b- Monocyte
+TNFa	pCREB	HSC
+TNFa	pP38	CD11b- Monocyte
+TNFa	IkBalpha	CD11bmid Monocyte
+TNFa	pP38	CD11bmid Monocyte
+TNFa	pBtk_Itk	Memory CD8+ T
+TNFa	pSrcFK	CD11bhi Monocyte
+TNFa	pCREB	Plasmacytoid DC
+TNFa	IkBalpha	MEP
+TNFa	pH3	Plasmacytoid DC
+TNFa	pCREB	Naive CD4+ T
+TNFa	pBtk_Itk	Mature CD38lo B
+TPO	pP38	CD11bmid Monocyte
+TPO	pBtk_Itk	HSC
+TPO	pBtk_Itk	Mature CD38lo B
+TPO	pS6	MEP
+TPO	pSTAT5	MEP

@@ -1,0 +1,366 @@
+stim_type	state_marker	cell_population	adj_p_val
+PVO4	pSLP_76	CD11b- Monocytes	2.91E-04
+TNFa	IkBalpha	CD11b- Monocytes	2.28E-03
+LPS	IkBalpha	CD11b- Monocytes	5.42E-03
+PVO4	pCrkL	CD11b- Monocytes	6.75E-03
+PVO4	pERK1_2	CD11b- Monocytes	1.67E-03
+PMAiono	pERK1_2	CD11b- Monocytes	7.78E-03
+GCSF	pH3	CD11b- Monocytes	1.46E-02
+Flt3L	pH3	CD11b- Monocytes	2.78E-03
+PMAiono	pH3	CD11b- Monocytes	2.91E-04
+TNFa	pH3	CD11b- Monocytes	3.40E-04
+GMCSF	pH3	CD11b- Monocytes	5.87E-03
+LPS	pH3	CD11b- Monocytes	7.14E-03
+BCR	pH3	CD11b- Monocytes	7.31E-04
+GCSF	pP38	CD11b- Monocytes	1.82E-02
+LPS	pP38	CD11b- Monocytes	3.20E-03
+TNFa	pP38	CD11b- Monocytes	4.23E-02
+PVO4	pP38	CD11b- Monocytes	6.66E-05
+PVO4	pPLCgamma2	CD11b- Monocytes	5.00E-04
+PMAiono	pS6	CD11b- Monocytes	1.03E-02
+TNFa	pS6	CD11b- Monocytes	1.23E-02
+PVO4	pSHP2	CD11b- Monocytes	2.62E-03
+IL3	pSrcFK	CD11b- Monocytes	1.33E-02
+IFNad	pSrcFK	CD11b- Monocytes	1.81E-02
+SCF	pSrcFK	CD11b- Monocytes	2.23E-02
+TNFa	pSrcFK	CD11b- Monocytes	2.95E-02
+PVO4	pSrcFK	CD11b- Monocytes	6.21E-05
+SCF	pSTAT3	CD11b- Monocytes	2.52E-03
+PVO4	pSTAT3	CD11b- Monocytes	3.45E-03
+GCSF	pSTAT3	CD11b- Monocytes	3.94E-03
+IFNad	pSTAT3	CD11b- Monocytes	7.39E-03
+GMCSF	pSTAT5	CD11b- Monocytes	2.79E-03
+PVO4	pSTAT5	CD11b- Monocytes	4.79E-03
+TNFa	IkBalpha	CD11bhi Monocytes	1.23E-04
+LPS	IkBalpha	CD11bhi Monocytes	1.37E-04
+PMAiono	IkBalpha	CD11bhi Monocytes	4.84E-02
+PVO4	pCrkL	CD11bhi Monocytes	1.01E-02
+PMAiono	pERK1_2	CD11bhi Monocytes	2.17E-02
+TNFa	pH3	CD11bhi Monocytes	2.23E-02
+GMCSF	pH3	CD11bhi Monocytes	2.82E-02
+PMAiono	pH3	CD11bhi Monocytes	4.76E-03
+BCR	pH3	CD11bhi Monocytes	7.99E-03
+GMCSF	pP38	CD11bhi Monocytes	2.32E-02
+TNFa	pP38	CD11bhi Monocytes	2.78E-02
+PVO4	pP38	CD11bhi Monocytes	4.28E-05
+PMAiono	pP38	CD11bhi Monocytes	5.46E-03
+GCSF	pP38	CD11bhi Monocytes	5.50E-03
+LPS	pP38	CD11bhi Monocytes	5.69E-04
+PVO4	pPLCgamma2	CD11bhi Monocytes	1.16E-02
+PVO4	pSHP2	CD11bhi Monocytes	1.83E-02
+PVO4	pSLP_76	CD11bhi Monocytes	2.81E-03
+SCF	pSrcFK	CD11bhi Monocytes	1.60E-02
+IFNad	pSrcFK	CD11bhi Monocytes	1.75E-02
+IL3	pSrcFK	CD11bhi Monocytes	1.86E-02
+GCSF	pSrcFK	CD11bhi Monocytes	3.63E-02
+TNFa	pSrcFK	CD11bhi Monocytes	4.87E-02
+PVO4	pSrcFK	CD11bhi Monocytes	6.66E-05
+PMAiono	pSrcFK	CD11bhi Monocytes	8.36E-04
+GCSF	pSTAT3	CD11bhi Monocytes	1.39E-03
+SCF	pSTAT3	CD11bhi Monocytes	2.44E-03
+IFNad	pSTAT3	CD11bhi Monocytes	3.12E-03
+PVO4	pSTAT3	CD11bhi Monocytes	8.73E-03
+GMCSF	pSTAT5	CD11bhi Monocytes	2.40E-03
+PVO4	pSTAT5	CD11bhi Monocytes	4.24E-02
+PVO4	IkBalpha	CD11bmid Monocytes	2.83E-02
+TNFa	IkBalpha	CD11bmid Monocytes	4.30E-04
+LPS	IkBalpha	CD11bmid Monocytes	5.72E-04
+PVO4	pCrkL	CD11bmid Monocytes	1.33E-03
+PMAiono	pERK1_2	CD11bmid Monocytes	1.50E-02
+PVO4	pERK1_2	CD11bmid Monocytes	2.46E-03
+TNFa	pH3	CD11bmid Monocytes	1.34E-02
+PMAiono	pH3	CD11bmid Monocytes	1.86E-03
+LPS	pH3	CD11bmid Monocytes	4.03E-02
+BCR	pH3	CD11bmid Monocytes	4.65E-03
+PVO4	pP38	CD11bmid Monocytes	1.37E-06
+IFNad	pP38	CD11bmid Monocytes	1.76E-02
+TPO	pP38	CD11bmid Monocytes	1.81E-02
+PMAiono	pP38	CD11bmid Monocytes	1.90E-03
+SCF	pP38	CD11bmid Monocytes	1.98E-02
+GMCSF	pP38	CD11bmid Monocytes	2.27E-02
+BCR	pP38	CD11bmid Monocytes	2.46E-03
+TNFa	pP38	CD11bmid Monocytes	4.60E-03
+GCSF	pP38	CD11bmid Monocytes	5.15E-04
+IL3	pP38	CD11bmid Monocytes	6.09E-03
+LPS	pP38	CD11bmid Monocytes	6.28E-05
+PVO4	pPLCgamma2	CD11bmid Monocytes	9.18E-04
+PMAiono	pS6	CD11bmid Monocytes	1.51E-02
+TNFa	pS6	CD11bmid Monocytes	3.04E-02
+PVO4	pSHP2	CD11bmid Monocytes	1.61E-03
+PVO4	pSLP_76	CD11bmid Monocytes	2.58E-04
+IFNad	pSrcFK	CD11bmid Monocytes	1.68E-02
+PVO4	pSrcFK	CD11bmid Monocytes	2.54E-05
+SCF	pSrcFK	CD11bmid Monocytes	3.14E-02
+GCSF	pSrcFK	CD11bmid Monocytes	3.99E-02
+PMAiono	pSrcFK	CD11bmid Monocytes	6.24E-03
+IL3	pSrcFK	CD11bmid Monocytes	7.89E-03
+SCF	pSTAT3	CD11bmid Monocytes	1.65E-03
+GCSF	pSTAT3	CD11bmid Monocytes	1.76E-03
+PVO4	pSTAT3	CD11bmid Monocytes	2.97E-04
+IFNad	pSTAT3	CD11bmid Monocytes	5.33E-03
+GMCSF	pSTAT5	CD11bmid Monocytes	1.47E-03
+PVO4	pSTAT5	CD11bmid Monocytes	9.61E-04
+PVO4	pZAP70_Syk	CD11bmid Monocytes	1.88E-02
+TNFa	IkBalpha	CMP	2.69E-03
+PVO4	pP38	CMP	3.51E-03
+PVO4	pPLCgamma2	CMP	2.14E-03
+IFNad	pSTAT3	CMP	2.26E-02
+IFNad	pSTAT5	CMP	2.58E-02
+PVO4	pPLCgamma2	Erythroblast	9.47E-03
+TNFa	IkBalpha	GMP	2.45E-03
+PVO4	pP38	GMP	4.93E-02
+PVO4	pPLCgamma2	GMP	1.70E-02
+PMAiono	pS6	GMP	1.38E-02
+PVO4	pBtk_Itk	HSC	1.27E-02
+SCF	pBtk_Itk	HSC	1.47E-02
+TNFa	pBtk_Itk	HSC	2.29E-02
+TPO	pBtk_Itk	HSC	2.97E-02
+GMCSF	pBtk_Itk	HSC	3.98E-02
+GCSF	pCREB	HSC	1.89E-02
+PMAiono	pCREB	HSC	3.67E-02
+TNFa	pCREB	HSC	3.72E-02
+PVO4	pCREB	HSC	6.30E-03
+PMAiono	pERK1_2	HSC	1.19E-02
+PMAiono	pH3	HSC	1.36E-02
+PMAiono	pP38	HSC	1.85E-02
+PVO4	pP38	HSC	2.87E-03
+PVO4	pPLCgamma2	HSC	2.85E-02
+SCF	pS6	HSC	1.19E-02
+PMAiono	pS6	HSC	2.15E-02
+TNFa	pS6	HSC	3.00E-02
+PVO4	pS6	HSC	4.49E-02
+PVO4	pSLP_76	HSC	1.45E-02
+IL3	pSTAT3	HSC	1.42E-02
+SCF	pSTAT3	HSC	2.12E-03
+GMCSF	pSTAT3	HSC	2.88E-02
+IFNad	pSTAT3	HSC	2.93E-05
+PVO4	pSTAT3	HSC	3.34E-02
+GCSF	pSTAT3	HSC	9.27E-06
+IFNad	pSTAT5	HSC	1.84E-02
+GMCSF	pSTAT5	HSC	5.88E-03
+PVO4	pCrkL	Immature B	5.64E-04
+PMAiono	pERK1_2	Immature B	1.57E-02
+PVO4	pERK1_2	Immature B	2.42E-03
+PMAiono	pH3	Immature B	5.70E-03
+PVO4	pMAPKAPK2	Immature B	4.60E-02
+BCR	pPLCgamma2	Immature B	4.89E-03
+PVO4	pPLCgamma2	Immature B	4.90E-05
+PMAiono	pS6	Immature B	1.32E-02
+SCF	pS6	Immature B	4.76E-02
+PVO4	pSHP2	Immature B	3.74E-04
+PVO4	pSLP_76	Immature B	1.75E-05
+BCR	pSLP_76	Immature B	3.29E-02
+PVO4	pSrcFK	Immature B	2.63E-03
+IL3	pSTAT3	Immature B	1.03E-02
+PVO4	pSTAT3	Immature B	1.17E-05
+SCF	pSTAT3	Immature B	1.88E-02
+GCSF	pSTAT3	Immature B	2.23E-03
+IFNad	pSTAT3	Immature B	4.53E-05
+BCR	pSTAT3	Immature B	4.66E-02
+PMAiono	pSTAT3	Immature B	7.58E-03
+PVO4	pSTAT5	Immature B	3.52E-02
+PVO4	pZAP70_Syk	Immature B	1.25E-02
+SCF	pBtk_Itk	Mature CD38lo B	2.32E-02
+GMCSF	pBtk_Itk	Mature CD38lo B	2.78E-02
+TPO	pBtk_Itk	Mature CD38lo B	3.85E-02
+TNFa	pBtk_Itk	Mature CD38lo B	8.78E-03
+PVO4	pBtk_Itk	Mature CD38lo B	8.92E-03
+BCR	pCREB	Mature CD38lo B	5.81E-03
+PMAiono	pCREB	Mature CD38lo B	9.21E-03
+BCR	pH3	Mature CD38lo B	1.25E-02
+PMAiono	pH3	Mature CD38lo B	3.68E-03
+BCR	pPLCgamma2	Mature CD38lo B	2.91E-02
+PMAiono	pS6	Mature CD38lo B	2.42E-02
+BCR	pSLP_76	Mature CD38lo B	3.13E-02
+PVO4	pSrcFK	Mature CD38lo B	1.47E-02
+IFNad	pSTAT3	Mature CD38lo B	2.41E-02
+IFNad	pSTAT5	Mature CD38lo B	2.51E-02
+PMAiono	pCREB	Mature CD38mid B	2.27E-02
+BCR	pCREB	Mature CD38mid B	2.95E-02
+BCR	pPLCgamma2	Mature CD38mid B	1.36E-02
+PVO4	pPLCgamma2	Mature CD38mid B	4.14E-02
+PVO4	pSLP_76	Mature CD38mid B	1.95E-02
+IFNad	pSTAT5	Mature CD38mid B	1.62E-02
+PVO4	pCrkL	Mature CD4+ T	9.55E-03
+PMAiono	pH3	Mature CD4+ T	3.46E-03
+PVO4	pMAPKAPK2	Mature CD4+ T	3.59E-02
+PVO4	pP38	Mature CD4+ T	1.20E-03
+PMAiono	pP38	Mature CD4+ T	1.24E-02
+PVO4	pPLCgamma2	Mature CD4+ T	7.71E-05
+PMAiono	pS6	Mature CD4+ T	2.42E-04
+PVO4	pS6	Mature CD4+ T	2.99E-03
+PVO4	pSHP2	Mature CD4+ T	1.75E-02
+PVO4	pSLP_76	Mature CD4+ T	1.48E-04
+PVO4	pSrcFK	Mature CD4+ T	2.37E-03
+PVO4	pSTAT3	Mature CD4+ T	2.97E-02
+SCF	pSTAT3	Mature CD4+ T	3.73E-03
+IFNad	pSTAT3	Mature CD4+ T	3.82E-03
+PVO4	pSTAT5	Mature CD4+ T	1.83E-02
+IL7	pSTAT5	Mature CD4+ T	3.38E-03
+IFNad	pSTAT5	Mature CD4+ T	9.22E-03
+PVO4	pZAP70_Syk	Mature CD4+ T	1.04E-02
+TNFa	pBtk_Itk	Mature CD8+ T	4.65E-02
+PVO4	pCrkL	Mature CD8+ T	1.08E-02
+PVO4	pMAPKAPK2	Mature CD8+ T	2.11E-02
+PVO4	pP38	Mature CD8+ T	6.34E-04
+PMAiono	pP38	Mature CD8+ T	8.76E-03
+PVO4	pPLCgamma2	Mature CD8+ T	1.06E-04
+PMAiono	pS6	Mature CD8+ T	1.93E-02
+PVO4	pSHP2	Mature CD8+ T	2.06E-02
+PVO4	pSLP_76	Mature CD8+ T	2.89E-04
+PVO4	pSrcFK	Mature CD8+ T	9.14E-03
+SCF	pSTAT3	Mature CD8+ T	1.26E-02
+IFNad	pSTAT3	Mature CD8+ T	6.85E-03
+PVO4	pSTAT5	Mature CD8+ T	1.22E-02
+IFNad	pSTAT5	Mature CD8+ T	1.54E-02
+IL7	pSTAT5	Mature CD8+ T	4.31E-03
+PVO4	pZAP70_Syk	Mature CD8+ T	1.20E-02
+PVO4	pPLCgamma2	Megakaryocyte	4.32E-02
+PVO4	IkBalpha	MEP	2.25E-02
+LPS	IkBalpha	MEP	2.28E-02
+IFNad	IkBalpha	MEP	4.16E-02
+TNFa	IkBalpha	MEP	7.69E-05
+SCF	pCREB	MEP	1.73E-02
+TNFa	pCREB	MEP	2.41E-02
+PVO4	pCREB	MEP	2.68E-02
+PVO4	pERK1_2	MEP	2.24E-02
+PMAiono	pERK1_2	MEP	3.53E-02
+TNFa	pH3	MEP	3.28E-02
+PVO4	pP38	MEP	1.63E-03
+PVO4	pPLCgamma2	MEP	8.07E-03
+TNFa	pS6	MEP	1.03E-02
+PVO4	pS6	MEP	3.20E-02
+PMAiono	pS6	MEP	3.66E-02
+TPO	pS6	MEP	4.84E-02
+SCF	pS6	MEP	5.31E-03
+PVO4	pSHP2	MEP	4.55E-02
+IFNad	pSTAT3	MEP	2.71E-02
+IFNad	pSTAT5	MEP	2.59E-03
+GMCSF	pSTAT5	MEP	4.49E-03
+IL3	pSTAT5	MEP	5.20E-03
+TPO	pSTAT5	MEP	9.73E-03
+PVO4	pCREB	MPP	4.66E-02
+PMAiono	pH3	MPP	1.68E-02
+PVO4	pP38	MPP	7.66E-03
+PVO4	pPLCgamma2	MPP	7.59E-03
+PVO4	pSLP_76	MPP	2.32E-02
+IFNad	pSTAT3	MPP	2.00E-02
+GCSF	pSTAT3	MPP	9.37E-03
+GMCSF	pSTAT5	MPP	1.01E-02
+GCSF	pSTAT5	MPP	4.25E-02
+IFNad	pSTAT5	MPP	8.84E-03
+PVO4	pERK1_2	Myelocyte	3.83E-02
+PVO4	pPLCgamma2	Myelocyte	2.54E-03
+PVO4	pSLP_76	Myelocyte	1.14E-03
+PMAiono	pCREB	Naive CD4+ T	4.95E-05
+PVO4	pCREB	Naive CD4+ T	5.24E-05
+TNFa	pCREB	Naive CD4+ T	8.62E-03
+PVO4	pCrkL	Naive CD4+ T	1.35E-02
+PMAiono	pERK1_2	Naive CD4+ T	3.78E-02
+PMAiono	pH3	Naive CD4+ T	6.05E-04
+PMAiono	pMAPKAPK2	Naive CD4+ T	3.56E-02
+PMAiono	pNFkB	Naive CD4+ T	2.21E-03
+PVO4	pP38	Naive CD4+ T	8.71E-03
+PVO4	pPLCgamma2	Naive CD4+ T	1.14E-03
+PVO4	pS6	Naive CD4+ T	1.40E-02
+PMAiono	pS6	Naive CD4+ T	8.44E-04
+PVO4	pSHP2	Naive CD4+ T	2.69E-02
+PVO4	pSLP_76	Naive CD4+ T	9.41E-05
+PVO4	pSrcFK	Naive CD4+ T	3.71E-03
+SCF	pSTAT3	Naive CD4+ T	7.74E-03
+IFNad	pSTAT3	Naive CD4+ T	9.24E-03
+PVO4	pSTAT5	Naive CD4+ T	1.34E-02
+IFNad	pSTAT5	Naive CD4+ T	1.66E-03
+IL7	pSTAT5	Naive CD4+ T	9.97E-04
+PVO4	pZAP70_Syk	Naive CD4+ T	1.31E-02
+PMAiono	pCREB	Naive CD8+ T	1.10E-02
+PVO4	pCREB	Naive CD8+ T	8.62E-03
+PVO4	pCrkL	Naive CD8+ T	4.00E-03
+PMAiono	pH3	Naive CD8+ T	7.54E-03
+PVO4	pMAPKAPK2	Naive CD8+ T	3.50E-02
+PMAiono	pMAPKAPK2	Naive CD8+ T	4.34E-02
+PMAiono	pNFkB	Naive CD8+ T	1.83E-03
+PVO4	pP38	Naive CD8+ T	1.71E-03
+PMAiono	pP38	Naive CD8+ T	4.22E-02
+PVO4	pPLCgamma2	Naive CD8+ T	1.63E-04
+PVO4	pS6	Naive CD8+ T	1.66E-03
+PMAiono	pS6	Naive CD8+ T	3.08E-04
+PVO4	pSHP2	Naive CD8+ T	8.36E-03
+PVO4	pSLP_76	Naive CD8+ T	1.05E-04
+PVO4	pSrcFK	Naive CD8+ T	1.33E-03
+PVO4	pSTAT3	Naive CD8+ T	3.52E-02
+IFNad	pSTAT3	Naive CD8+ T	8.14E-03
+SCF	pSTAT3	Naive CD8+ T	9.38E-03
+IL7	pSTAT5	Naive CD8+ T	1.45E-03
+PVO4	pSTAT5	Naive CD8+ T	2.59E-03
+IFNad	pSTAT5	Naive CD8+ T	3.08E-03
+PVO4	pZAP70_Syk	Naive CD8+ T	3.80E-03
+TNFa	IkBalpha	NK	2.43E-02
+PVO4	pP38	NK	9.11E-03
+SCF	pSTAT3	NK	4.96E-03
+IFNad	pSTAT3	NK	7.71E-03
+PVO4	pCREB	Plasma cell	4.67E-02
+PVO4	pERK1_2	Plasma cell	2.66E-05
+BCR	pERK1_2	Plasma cell	2.74E-03
+PMAiono	pERK1_2	Plasma cell	6.47E-05
+PVO4	pMAPKAPK2	Plasma cell	1.49E-02
+PVO4	pP38	Plasma cell	1.49E-02
+PVO4	pPLCgamma2	Plasma cell	5.04E-04
+PVO4	pSHP2	Plasma cell	1.02E-02
+PVO4	pSLP_76	Plasma cell	2.11E-04
+PVO4	pSrcFK	Plasma cell	2.43E-02
+PVO4	pSTAT3	Plasma cell	1.09E-02
+SCF	pSTAT3	Plasma cell	3.71E-03
+IFNad	pSTAT3	Plasma cell	8.90E-04
+TNFa	IkBalpha	Plasmacytoid DC	1.70E-03
+Flt3L	pCREB	Plasmacytoid DC	1.72E-02
+IL3	pCREB	Plasmacytoid DC	4.08E-03
+GMCSF	pCREB	Plasmacytoid DC	5.30E-03
+TNFa	pCREB	Plasmacytoid DC	5.37E-03
+PMAiono	pCREB	Plasmacytoid DC	5.48E-03
+PVO4	pCREB	Plasmacytoid DC	8.74E-03
+GMCSF	pH3	Plasmacytoid DC	1.18E-02
+IL3	pH3	Plasmacytoid DC	1.71E-02
+TNFa	pH3	Plasmacytoid DC	7.97E-03
+PMAiono	pH3	Plasmacytoid DC	8.50E-04
+PVO4	pP38	Plasmacytoid DC	2.13E-02
+IL3	pS6	Plasmacytoid DC	2.85E-02
+PMAiono	pS6	Plasmacytoid DC	4.11E-03
+PVO4	pSLP_76	Plasmacytoid DC	9.64E-03
+PVO4	pSrcFK	Plasmacytoid DC	1.59E-02
+IL3	pSrcFK	Plasmacytoid DC	3.42E-02
+IFNad	pSTAT3	Plasmacytoid DC	1.09E-02
+IL3	pSTAT3	Plasmacytoid DC	3.48E-02
+PVO4	pSTAT5	Plasmacytoid DC	1.56E-02
+IL3	pSTAT5	Plasmacytoid DC	2.38E-03
+GMCSF	pSTAT5	Plasmacytoid DC	3.80E-03
+GCSF	pCrkL	Platelet	3.95E-02
+GCSF	pPLCgamma2	Platelet	1.18E-02
+PVO4	pPLCgamma2	Platelet	6.56E-04
+TNFa	IkBalpha	Pre-B I	3.27E-02
+TNFa	pCREB	Pre-B I	2.59E-02
+PVO4	pCREB	Pre-B I	3.59E-03
+PMAiono	pCREB	Pre-B I	6.60E-03
+PVO4	pCrkL	Pre-B I	3.43E-03
+PVO4	pERK1_2	Pre-B I	3.41E-02
+PVO4	pNFkB	Pre-B I	4.69E-02
+PVO4	pP38	Pre-B I	1.51E-03
+PVO4	pPLCgamma2	Pre-B I	6.88E-04
+PVO4	pS6	Pre-B I	1.15E-02
+PMAiono	pS6	Pre-B I	2.08E-03
+PVO4	pSHP2	Pre-B I	2.50E-03
+PVO4	pSLP_76	Pre-B I	4.20E-04
+PVO4	pSrcFK	Pre-B I	2.83E-02
+PVO4	pSTAT5	Pre-B I	2.38E-02
+IFNad	pSTAT5	Pre-B I	4.97E-03
+PMAiono	pCREB	Pre-B II	3.98E-02
+PVO4	pCrkL	Pre-B II	5.47E-03
+PVO4	pP38	Pre-B II	8.99E-03
+PVO4	pPLCgamma2	Pre-B II	1.54E-02
+PMAiono	pS6	Pre-B II	4.52E-03
+PVO4	pSLP_76	Pre-B II	1.98E-03
+IFNad	pSrcFK	Pre-B II	3.13E-02
+PVO4	pSrcFK	Pre-B II	3.20E-04
+SCF	pSrcFK	Pre-B II	9.55E-03
+PVO4	pSTAT3	Pre-B II	1.20E-02
+IFNad	pSTAT3	Pre-B II	1.79E-02

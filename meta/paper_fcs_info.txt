@@ -1,0 +1,1345 @@
+file_name	sample_id	condition	patient_id	stim_type	cluster
+Marrow1_01_Basal1.fcs_spill_applied_CD11b- Monocyte.txt	M1_01_Basal1	unstim	marrow1	Basal1	CD11b- Monocyte
+Marrow1_01_Basal1.fcs_spill_applied_CD11bhi Monocyte.txt	M1_01_Basal1	unstim	marrow1	Basal1	CD11bhi Monocyte
+Marrow1_01_Basal1.fcs_spill_applied_CD11bmid Monocyte.txt	M1_01_Basal1	unstim	marrow1	Basal1	CD11bmid Monocyte
+Marrow1_01_Basal1.fcs_spill_applied_CMP.txt	M1_01_Basal1	unstim	marrow1	Basal1	CMP
+Marrow1_01_Basal1.fcs_spill_applied_Erythroblast.txt	M1_01_Basal1	unstim	marrow1	Basal1	Erythroblast
+Marrow1_01_Basal1.fcs_spill_applied_GMP.txt	M1_01_Basal1	unstim	marrow1	Basal1	GMP
+Marrow1_01_Basal1.fcs_spill_applied_HSC.txt	M1_01_Basal1	unstim	marrow1	Basal1	HSC
+Marrow1_01_Basal1.fcs_spill_applied_Immature B.txt	M1_01_Basal1	unstim	marrow1	Basal1	Immature B
+Marrow1_01_Basal1.fcs_spill_applied_Mature CD4+ T.txt	M1_01_Basal1	unstim	marrow1	Basal1	Memory CD4+ T
+Marrow1_01_Basal1.fcs_spill_applied_Mature CD8+ T.txt	M1_01_Basal1	unstim	marrow1	Basal1	Memory CD8+ T
+Marrow1_01_Basal1.fcs_spill_applied_Mature CD38lo B.txt	M1_01_Basal1	unstim	marrow1	Basal1	Mature CD38lo B
+Marrow1_01_Basal1.fcs_spill_applied_Mature CD38mid B.txt	M1_01_Basal1	unstim	marrow1	Basal1	Mature CD38mid B
+Marrow1_01_Basal1.fcs_spill_applied_Megakaryocyte.txt	M1_01_Basal1	unstim	marrow1	Basal1	Megakaryocyte
+Marrow1_01_Basal1.fcs_spill_applied_MEP.txt	M1_01_Basal1	unstim	marrow1	Basal1	MEP
+Marrow1_01_Basal1.fcs_spill_applied_MPP.txt	M1_01_Basal1	unstim	marrow1	Basal1	MPP
+Marrow1_01_Basal1.fcs_spill_applied_Myelocyte.txt	M1_01_Basal1	unstim	marrow1	Basal1	Myelocyte
+Marrow1_01_Basal1.fcs_spill_applied_Naive CD4+ T.txt	M1_01_Basal1	unstim	marrow1	Basal1	Naive CD4+ T
+Marrow1_01_Basal1.fcs_spill_applied_Naive CD8+ T.txt	M1_01_Basal1	unstim	marrow1	Basal1	Naive CD8+ T
+Marrow1_01_Basal1.fcs_spill_applied_NK.txt	M1_01_Basal1	unstim	marrow1	Basal1	NK
+Marrow1_01_Basal1.fcs_spill_applied_Plasma cell.txt	M1_01_Basal1	unstim	marrow1	Basal1	Plasma cell
+Marrow1_01_Basal1.fcs_spill_applied_Plasmacytoid DC.txt	M1_01_Basal1	unstim	marrow1	Basal1	Plasmacytoid DC
+Marrow1_01_Basal1.fcs_spill_applied_Platelet.txt	M1_01_Basal1	unstim	marrow1	Basal1	Platelet
+Marrow1_01_Basal1.fcs_spill_applied_Pre-B I.txt	M1_01_Basal1	unstim	marrow1	Basal1	Pre-B I
+Marrow1_01_Basal1.fcs_spill_applied_Pre-B II.txt	M1_01_Basal1	unstim	marrow1	Basal1	Pre-B II
+Marrow1_02_Basal2.fcs_spill_applied_CD11b- Monocyte.txt	M1_02_Basal2	unstim	marrow1	Basal2	CD11b- Monocyte
+Marrow1_02_Basal2.fcs_spill_applied_CD11bhi Monocyte.txt	M1_02_Basal2	unstim	marrow1	Basal2	CD11bhi Monocyte
+Marrow1_02_Basal2.fcs_spill_applied_CD11bmid Monocyte.txt	M1_02_Basal2	unstim	marrow1	Basal2	CD11bmid Monocyte
+Marrow1_02_Basal2.fcs_spill_applied_CMP.txt	M1_02_Basal2	unstim	marrow1	Basal2	CMP
+Marrow1_02_Basal2.fcs_spill_applied_Erythroblast.txt	M1_02_Basal2	unstim	marrow1	Basal2	Erythroblast
+Marrow1_02_Basal2.fcs_spill_applied_GMP.txt	M1_02_Basal2	unstim	marrow1	Basal2	GMP
+Marrow1_02_Basal2.fcs_spill_applied_HSC.txt	M1_02_Basal2	unstim	marrow1	Basal2	HSC
+Marrow1_02_Basal2.fcs_spill_applied_Immature B.txt	M1_02_Basal2	unstim	marrow1	Basal2	Immature B
+Marrow1_02_Basal2.fcs_spill_applied_Mature CD4+ T.txt	M1_02_Basal2	unstim	marrow1	Basal2	Memory CD4+ T
+Marrow1_02_Basal2.fcs_spill_applied_Mature CD8+ T.txt	M1_02_Basal2	unstim	marrow1	Basal2	Memory CD8+ T
+Marrow1_02_Basal2.fcs_spill_applied_Mature CD38lo B.txt	M1_02_Basal2	unstim	marrow1	Basal2	Mature CD38lo B
+Marrow1_02_Basal2.fcs_spill_applied_Mature CD38mid B.txt	M1_02_Basal2	unstim	marrow1	Basal2	Mature CD38mid B
+Marrow1_02_Basal2.fcs_spill_applied_Megakaryocyte.txt	M1_02_Basal2	unstim	marrow1	Basal2	Megakaryocyte
+Marrow1_02_Basal2.fcs_spill_applied_MEP.txt	M1_02_Basal2	unstim	marrow1	Basal2	MEP
+Marrow1_02_Basal2.fcs_spill_applied_MPP.txt	M1_02_Basal2	unstim	marrow1	Basal2	MPP
+Marrow1_02_Basal2.fcs_spill_applied_Myelocyte.txt	M1_02_Basal2	unstim	marrow1	Basal2	Myelocyte
+Marrow1_02_Basal2.fcs_spill_applied_Naive CD4+ T.txt	M1_02_Basal2	unstim	marrow1	Basal2	Naive CD4+ T
+Marrow1_02_Basal2.fcs_spill_applied_Naive CD8+ T.txt	M1_02_Basal2	unstim	marrow1	Basal2	Naive CD8+ T
+Marrow1_02_Basal2.fcs_spill_applied_NK.txt	M1_02_Basal2	unstim	marrow1	Basal2	NK
+Marrow1_02_Basal2.fcs_spill_applied_Plasma cell.txt	M1_02_Basal2	unstim	marrow1	Basal2	Plasma cell
+Marrow1_02_Basal2.fcs_spill_applied_Plasmacytoid DC.txt	M1_02_Basal2	unstim	marrow1	Basal2	Plasmacytoid DC
+Marrow1_02_Basal2.fcs_spill_applied_Platelet.txt	M1_02_Basal2	unstim	marrow1	Basal2	Platelet
+Marrow1_02_Basal2.fcs_spill_applied_Pre-B I.txt	M1_02_Basal2	unstim	marrow1	Basal2	Pre-B I
+Marrow1_02_Basal2.fcs_spill_applied_Pre-B II.txt	M1_02_Basal2	unstim	marrow1	Basal2	Pre-B II
+Marrow1_03_Basal3.fcs_spill_applied_CD11b- Monocyte.txt	M1_03_Basal3	unstim	marrow1	Basal3	CD11b- Monocyte
+Marrow1_03_Basal3.fcs_spill_applied_CD11bhi Monocyte.txt	M1_03_Basal3	unstim	marrow1	Basal3	CD11bhi Monocyte
+Marrow1_03_Basal3.fcs_spill_applied_CD11bmid Monocyte.txt	M1_03_Basal3	unstim	marrow1	Basal3	CD11bmid Monocyte
+Marrow1_03_Basal3.fcs_spill_applied_CMP.txt	M1_03_Basal3	unstim	marrow1	Basal3	CMP
+Marrow1_03_Basal3.fcs_spill_applied_Erythroblast.txt	M1_03_Basal3	unstim	marrow1	Basal3	Erythroblast
+Marrow1_03_Basal3.fcs_spill_applied_GMP.txt	M1_03_Basal3	unstim	marrow1	Basal3	GMP
+Marrow1_03_Basal3.fcs_spill_applied_HSC.txt	M1_03_Basal3	unstim	marrow1	Basal3	HSC
+Marrow1_03_Basal3.fcs_spill_applied_Immature B.txt	M1_03_Basal3	unstim	marrow1	Basal3	Immature B
+Marrow1_03_Basal3.fcs_spill_applied_Mature CD4+ T.txt	M1_03_Basal3	unstim	marrow1	Basal3	Memory CD4+ T
+Marrow1_03_Basal3.fcs_spill_applied_Mature CD8+ T.txt	M1_03_Basal3	unstim	marrow1	Basal3	Memory CD8+ T
+Marrow1_03_Basal3.fcs_spill_applied_Mature CD38lo B.txt	M1_03_Basal3	unstim	marrow1	Basal3	Mature CD38lo B
+Marrow1_03_Basal3.fcs_spill_applied_Mature CD38mid B.txt	M1_03_Basal3	unstim	marrow1	Basal3	Mature CD38mid B
+Marrow1_03_Basal3.fcs_spill_applied_Megakaryocyte.txt	M1_03_Basal3	unstim	marrow1	Basal3	Megakaryocyte
+Marrow1_03_Basal3.fcs_spill_applied_MEP.txt	M1_03_Basal3	unstim	marrow1	Basal3	MEP
+Marrow1_03_Basal3.fcs_spill_applied_MPP.txt	M1_03_Basal3	unstim	marrow1	Basal3	MPP
+Marrow1_03_Basal3.fcs_spill_applied_Myelocyte.txt	M1_03_Basal3	unstim	marrow1	Basal3	Myelocyte
+Marrow1_03_Basal3.fcs_spill_applied_Naive CD4+ T.txt	M1_03_Basal3	unstim	marrow1	Basal3	Naive CD4+ T
+Marrow1_03_Basal3.fcs_spill_applied_Naive CD8+ T.txt	M1_03_Basal3	unstim	marrow1	Basal3	Naive CD8+ T
+Marrow1_03_Basal3.fcs_spill_applied_NK.txt	M1_03_Basal3	unstim	marrow1	Basal3	NK
+Marrow1_03_Basal3.fcs_spill_applied_Plasma cell.txt	M1_03_Basal3	unstim	marrow1	Basal3	Plasma cell
+Marrow1_03_Basal3.fcs_spill_applied_Plasmacytoid DC.txt	M1_03_Basal3	unstim	marrow1	Basal3	Plasmacytoid DC
+Marrow1_03_Basal3.fcs_spill_applied_Platelet.txt	M1_03_Basal3	unstim	marrow1	Basal3	Platelet
+Marrow1_03_Basal3.fcs_spill_applied_Pre-B I.txt	M1_03_Basal3	unstim	marrow1	Basal3	Pre-B I
+Marrow1_03_Basal3.fcs_spill_applied_Pre-B II.txt	M1_03_Basal3	unstim	marrow1	Basal3	Pre-B II
+Marrow1_04_Basal4.fcs_spill_applied_CD11b- Monocyte.txt	M1_04_Basal4	unstim	marrow1	Basal4	CD11b- Monocyte
+Marrow1_04_Basal4.fcs_spill_applied_CD11bhi Monocyte.txt	M1_04_Basal4	unstim	marrow1	Basal4	CD11bhi Monocyte
+Marrow1_04_Basal4.fcs_spill_applied_CD11bmid Monocyte.txt	M1_04_Basal4	unstim	marrow1	Basal4	CD11bmid Monocyte
+Marrow1_04_Basal4.fcs_spill_applied_CMP.txt	M1_04_Basal4	unstim	marrow1	Basal4	CMP
+Marrow1_04_Basal4.fcs_spill_applied_Erythroblast.txt	M1_04_Basal4	unstim	marrow1	Basal4	Erythroblast
+Marrow1_04_Basal4.fcs_spill_applied_GMP.txt	M1_04_Basal4	unstim	marrow1	Basal4	GMP
+Marrow1_04_Basal4.fcs_spill_applied_HSC.txt	M1_04_Basal4	unstim	marrow1	Basal4	HSC
+Marrow1_04_Basal4.fcs_spill_applied_Immature B.txt	M1_04_Basal4	unstim	marrow1	Basal4	Immature B
+Marrow1_04_Basal4.fcs_spill_applied_Mature CD4+ T.txt	M1_04_Basal4	unstim	marrow1	Basal4	Memory CD4+ T
+Marrow1_04_Basal4.fcs_spill_applied_Mature CD8+ T.txt	M1_04_Basal4	unstim	marrow1	Basal4	Memory CD8+ T
+Marrow1_04_Basal4.fcs_spill_applied_Mature CD38lo B.txt	M1_04_Basal4	unstim	marrow1	Basal4	Mature CD38lo B
+Marrow1_04_Basal4.fcs_spill_applied_Mature CD38mid B.txt	M1_04_Basal4	unstim	marrow1	Basal4	Mature CD38mid B
+Marrow1_04_Basal4.fcs_spill_applied_Megakaryocyte.txt	M1_04_Basal4	unstim	marrow1	Basal4	Megakaryocyte
+Marrow1_04_Basal4.fcs_spill_applied_MEP.txt	M1_04_Basal4	unstim	marrow1	Basal4	MEP
+Marrow1_04_Basal4.fcs_spill_applied_MPP.txt	M1_04_Basal4	unstim	marrow1	Basal4	MPP
+Marrow1_04_Basal4.fcs_spill_applied_Myelocyte.txt	M1_04_Basal4	unstim	marrow1	Basal4	Myelocyte
+Marrow1_04_Basal4.fcs_spill_applied_Naive CD4+ T.txt	M1_04_Basal4	unstim	marrow1	Basal4	Naive CD4+ T
+Marrow1_04_Basal4.fcs_spill_applied_Naive CD8+ T.txt	M1_04_Basal4	unstim	marrow1	Basal4	Naive CD8+ T
+Marrow1_04_Basal4.fcs_spill_applied_NK.txt	M1_04_Basal4	unstim	marrow1	Basal4	NK
+Marrow1_04_Basal4.fcs_spill_applied_Plasma cell.txt	M1_04_Basal4	unstim	marrow1	Basal4	Plasma cell
+Marrow1_04_Basal4.fcs_spill_applied_Plasmacytoid DC.txt	M1_04_Basal4	unstim	marrow1	Basal4	Plasmacytoid DC
+Marrow1_04_Basal4.fcs_spill_applied_Platelet.txt	M1_04_Basal4	unstim	marrow1	Basal4	Platelet
+Marrow1_04_Basal4.fcs_spill_applied_Pre-B I.txt	M1_04_Basal4	unstim	marrow1	Basal4	Pre-B I
+Marrow1_04_Basal4.fcs_spill_applied_Pre-B II.txt	M1_04_Basal4	unstim	marrow1	Basal4	Pre-B II
+Marrow1_05_Basal5.fcs_spill_applied_CD11b- Monocyte.txt	M1_05_Basal5	unstim	marrow1	Basal5	CD11b- Monocyte
+Marrow1_05_Basal5.fcs_spill_applied_CD11bhi Monocyte.txt	M1_05_Basal5	unstim	marrow1	Basal5	CD11bhi Monocyte
+Marrow1_05_Basal5.fcs_spill_applied_CD11bmid Monocyte.txt	M1_05_Basal5	unstim	marrow1	Basal5	CD11bmid Monocyte
+Marrow1_05_Basal5.fcs_spill_applied_CMP.txt	M1_05_Basal5	unstim	marrow1	Basal5	CMP
+Marrow1_05_Basal5.fcs_spill_applied_Erythroblast.txt	M1_05_Basal5	unstim	marrow1	Basal5	Erythroblast
+Marrow1_05_Basal5.fcs_spill_applied_GMP.txt	M1_05_Basal5	unstim	marrow1	Basal5	GMP
+Marrow1_05_Basal5.fcs_spill_applied_HSC.txt	M1_05_Basal5	unstim	marrow1	Basal5	HSC
+Marrow1_05_Basal5.fcs_spill_applied_Immature B.txt	M1_05_Basal5	unstim	marrow1	Basal5	Immature B
+Marrow1_05_Basal5.fcs_spill_applied_Mature CD4+ T.txt	M1_05_Basal5	unstim	marrow1	Basal5	Memory CD4+ T
+Marrow1_05_Basal5.fcs_spill_applied_Mature CD8+ T.txt	M1_05_Basal5	unstim	marrow1	Basal5	Memory CD8+ T
+Marrow1_05_Basal5.fcs_spill_applied_Mature CD38lo B.txt	M1_05_Basal5	unstim	marrow1	Basal5	Mature CD38lo B
+Marrow1_05_Basal5.fcs_spill_applied_Mature CD38mid B.txt	M1_05_Basal5	unstim	marrow1	Basal5	Mature CD38mid B
+Marrow1_05_Basal5.fcs_spill_applied_Megakaryocyte.txt	M1_05_Basal5	unstim	marrow1	Basal5	Megakaryocyte
+Marrow1_05_Basal5.fcs_spill_applied_MEP.txt	M1_05_Basal5	unstim	marrow1	Basal5	MEP
+Marrow1_05_Basal5.fcs_spill_applied_MPP.txt	M1_05_Basal5	unstim	marrow1	Basal5	MPP
+Marrow1_05_Basal5.fcs_spill_applied_Myelocyte.txt	M1_05_Basal5	unstim	marrow1	Basal5	Myelocyte
+Marrow1_05_Basal5.fcs_spill_applied_Naive CD4+ T.txt	M1_05_Basal5	unstim	marrow1	Basal5	Naive CD4+ T
+Marrow1_05_Basal5.fcs_spill_applied_Naive CD8+ T.txt	M1_05_Basal5	unstim	marrow1	Basal5	Naive CD8+ T
+Marrow1_05_Basal5.fcs_spill_applied_NK.txt	M1_05_Basal5	unstim	marrow1	Basal5	NK
+Marrow1_05_Basal5.fcs_spill_applied_Plasma cell.txt	M1_05_Basal5	unstim	marrow1	Basal5	Plasma cell
+Marrow1_05_Basal5.fcs_spill_applied_Plasmacytoid DC.txt	M1_05_Basal5	unstim	marrow1	Basal5	Plasmacytoid DC
+Marrow1_05_Basal5.fcs_spill_applied_Platelet.txt	M1_05_Basal5	unstim	marrow1	Basal5	Platelet
+Marrow1_05_Basal5.fcs_spill_applied_Pre-B I.txt	M1_05_Basal5	unstim	marrow1	Basal5	Pre-B I
+Marrow1_05_Basal5.fcs_spill_applied_Pre-B II.txt	M1_05_Basal5	unstim	marrow1	Basal5	Pre-B II
+Marrow1_06_BCR.fcs_spill_applied_CD11b- Monocyte.txt	M1_06_BCR	stim	marrow1	BCR	CD11b- Monocyte
+Marrow1_06_BCR.fcs_spill_applied_CD11bhi Monocyte.txt	M1_06_BCR	stim	marrow1	BCR	CD11bhi Monocyte
+Marrow1_06_BCR.fcs_spill_applied_CD11bmid Monocyte.txt	M1_06_BCR	stim	marrow1	BCR	CD11bmid Monocyte
+Marrow1_06_BCR.fcs_spill_applied_CMP.txt	M1_06_BCR	stim	marrow1	BCR	CMP
+Marrow1_06_BCR.fcs_spill_applied_Erythroblast.txt	M1_06_BCR	stim	marrow1	BCR	Erythroblast
+Marrow1_06_BCR.fcs_spill_applied_GMP.txt	M1_06_BCR	stim	marrow1	BCR	GMP
+Marrow1_06_BCR.fcs_spill_applied_HSC.txt	M1_06_BCR	stim	marrow1	BCR	HSC
+Marrow1_06_BCR.fcs_spill_applied_Immature B.txt	M1_06_BCR	stim	marrow1	BCR	Immature B
+Marrow1_06_BCR.fcs_spill_applied_Mature CD4+ T.txt	M1_06_BCR	stim	marrow1	BCR	Memory CD4+ T
+Marrow1_06_BCR.fcs_spill_applied_Mature CD8+ T.txt	M1_06_BCR	stim	marrow1	BCR	Memory CD8+ T
+Marrow1_06_BCR.fcs_spill_applied_Mature CD38lo B.txt	M1_06_BCR	stim	marrow1	BCR	Mature CD38lo B
+Marrow1_06_BCR.fcs_spill_applied_Mature CD38mid B.txt	M1_06_BCR	stim	marrow1	BCR	Mature CD38mid B
+Marrow1_06_BCR.fcs_spill_applied_Megakaryocyte.txt	M1_06_BCR	stim	marrow1	BCR	Megakaryocyte
+Marrow1_06_BCR.fcs_spill_applied_MEP.txt	M1_06_BCR	stim	marrow1	BCR	MEP
+Marrow1_06_BCR.fcs_spill_applied_MPP.txt	M1_06_BCR	stim	marrow1	BCR	MPP
+Marrow1_06_BCR.fcs_spill_applied_Myelocyte.txt	M1_06_BCR	stim	marrow1	BCR	Myelocyte
+Marrow1_06_BCR.fcs_spill_applied_Naive CD4+ T.txt	M1_06_BCR	stim	marrow1	BCR	Naive CD4+ T
+Marrow1_06_BCR.fcs_spill_applied_Naive CD8+ T.txt	M1_06_BCR	stim	marrow1	BCR	Naive CD8+ T
+Marrow1_06_BCR.fcs_spill_applied_NK.txt	M1_06_BCR	stim	marrow1	BCR	NK
+Marrow1_06_BCR.fcs_spill_applied_Plasma cell.txt	M1_06_BCR	stim	marrow1	BCR	Plasma cell
+Marrow1_06_BCR.fcs_spill_applied_Plasmacytoid DC.txt	M1_06_BCR	stim	marrow1	BCR	Plasmacytoid DC
+Marrow1_06_BCR.fcs_spill_applied_Platelet.txt	M1_06_BCR	stim	marrow1	BCR	Platelet
+Marrow1_06_BCR.fcs_spill_applied_Pre-B I.txt	M1_06_BCR	stim	marrow1	BCR	Pre-B I
+Marrow1_06_BCR.fcs_spill_applied_Pre-B II.txt	M1_06_BCR	stim	marrow1	BCR	Pre-B II
+Marrow1_07_Flt3L.fcs_spill_applied_CD11b- Monocyte.txt	M1_07_Flt3L	stim	marrow1	Flt3L	CD11b- Monocyte
+Marrow1_07_Flt3L.fcs_spill_applied_CD11bhi Monocyte.txt	M1_07_Flt3L	stim	marrow1	Flt3L	CD11bhi Monocyte
+Marrow1_07_Flt3L.fcs_spill_applied_CD11bmid Monocyte.txt	M1_07_Flt3L	stim	marrow1	Flt3L	CD11bmid Monocyte
+Marrow1_07_Flt3L.fcs_spill_applied_CMP.txt	M1_07_Flt3L	stim	marrow1	Flt3L	CMP
+Marrow1_07_Flt3L.fcs_spill_applied_Erythroblast.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Erythroblast
+Marrow1_07_Flt3L.fcs_spill_applied_GMP.txt	M1_07_Flt3L	stim	marrow1	Flt3L	GMP
+Marrow1_07_Flt3L.fcs_spill_applied_HSC.txt	M1_07_Flt3L	stim	marrow1	Flt3L	HSC
+Marrow1_07_Flt3L.fcs_spill_applied_Immature B.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Immature B
+Marrow1_07_Flt3L.fcs_spill_applied_Mature CD4+ T.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Memory CD4+ T
+Marrow1_07_Flt3L.fcs_spill_applied_Mature CD8+ T.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Memory CD8+ T
+Marrow1_07_Flt3L.fcs_spill_applied_Mature CD38lo B.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Mature CD38lo B
+Marrow1_07_Flt3L.fcs_spill_applied_Mature CD38mid B.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Mature CD38mid B
+Marrow1_07_Flt3L.fcs_spill_applied_Megakaryocyte.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Megakaryocyte
+Marrow1_07_Flt3L.fcs_spill_applied_MEP.txt	M1_07_Flt3L	stim	marrow1	Flt3L	MEP
+Marrow1_07_Flt3L.fcs_spill_applied_MPP.txt	M1_07_Flt3L	stim	marrow1	Flt3L	MPP
+Marrow1_07_Flt3L.fcs_spill_applied_Myelocyte.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Myelocyte
+Marrow1_07_Flt3L.fcs_spill_applied_Naive CD4+ T.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Naive CD4+ T
+Marrow1_07_Flt3L.fcs_spill_applied_Naive CD8+ T.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Naive CD8+ T
+Marrow1_07_Flt3L.fcs_spill_applied_NK.txt	M1_07_Flt3L	stim	marrow1	Flt3L	NK
+Marrow1_07_Flt3L.fcs_spill_applied_Plasma cell.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Plasma cell
+Marrow1_07_Flt3L.fcs_spill_applied_Plasmacytoid DC.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Plasmacytoid DC
+Marrow1_07_Flt3L.fcs_spill_applied_Platelet.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Platelet
+Marrow1_07_Flt3L.fcs_spill_applied_Pre-B I.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Pre-B I
+Marrow1_07_Flt3L.fcs_spill_applied_Pre-B II.txt	M1_07_Flt3L	stim	marrow1	Flt3L	Pre-B II
+Marrow1_08_GCSF.fcs_spill_applied_CD11b- Monocyte.txt	M1_08_GCSF	stim	marrow1	GCSF	CD11b- Monocyte
+Marrow1_08_GCSF.fcs_spill_applied_CD11bhi Monocyte.txt	M1_08_GCSF	stim	marrow1	GCSF	CD11bhi Monocyte
+Marrow1_08_GCSF.fcs_spill_applied_CD11bmid Monocyte.txt	M1_08_GCSF	stim	marrow1	GCSF	CD11bmid Monocyte
+Marrow1_08_GCSF.fcs_spill_applied_CMP.txt	M1_08_GCSF	stim	marrow1	GCSF	CMP
+Marrow1_08_GCSF.fcs_spill_applied_Erythroblast.txt	M1_08_GCSF	stim	marrow1	GCSF	Erythroblast
+Marrow1_08_GCSF.fcs_spill_applied_GMP.txt	M1_08_GCSF	stim	marrow1	GCSF	GMP
+Marrow1_08_GCSF.fcs_spill_applied_HSC.txt	M1_08_GCSF	stim	marrow1	GCSF	HSC
+Marrow1_08_GCSF.fcs_spill_applied_Immature B.txt	M1_08_GCSF	stim	marrow1	GCSF	Immature B
+Marrow1_08_GCSF.fcs_spill_applied_Mature CD4+ T.txt	M1_08_GCSF	stim	marrow1	GCSF	Memory CD4+ T
+Marrow1_08_GCSF.fcs_spill_applied_Mature CD8+ T.txt	M1_08_GCSF	stim	marrow1	GCSF	Memory CD8+ T
+Marrow1_08_GCSF.fcs_spill_applied_Mature CD38lo B.txt	M1_08_GCSF	stim	marrow1	GCSF	Mature CD38lo B
+Marrow1_08_GCSF.fcs_spill_applied_Mature CD38mid B.txt	M1_08_GCSF	stim	marrow1	GCSF	Mature CD38mid B
+Marrow1_08_GCSF.fcs_spill_applied_Megakaryocyte.txt	M1_08_GCSF	stim	marrow1	GCSF	Megakaryocyte
+Marrow1_08_GCSF.fcs_spill_applied_MEP.txt	M1_08_GCSF	stim	marrow1	GCSF	MEP
+Marrow1_08_GCSF.fcs_spill_applied_MPP.txt	M1_08_GCSF	stim	marrow1	GCSF	MPP
+Marrow1_08_GCSF.fcs_spill_applied_Myelocyte.txt	M1_08_GCSF	stim	marrow1	GCSF	Myelocyte
+Marrow1_08_GCSF.fcs_spill_applied_Naive CD4+ T.txt	M1_08_GCSF	stim	marrow1	GCSF	Naive CD4+ T
+Marrow1_08_GCSF.fcs_spill_applied_Naive CD8+ T.txt	M1_08_GCSF	stim	marrow1	GCSF	Naive CD8+ T
+Marrow1_08_GCSF.fcs_spill_applied_NK.txt	M1_08_GCSF	stim	marrow1	GCSF	NK
+Marrow1_08_GCSF.fcs_spill_applied_Plasma cell.txt	M1_08_GCSF	stim	marrow1	GCSF	Plasma cell
+Marrow1_08_GCSF.fcs_spill_applied_Plasmacytoid DC.txt	M1_08_GCSF	stim	marrow1	GCSF	Plasmacytoid DC
+Marrow1_08_GCSF.fcs_spill_applied_Platelet.txt	M1_08_GCSF	stim	marrow1	GCSF	Platelet
+Marrow1_08_GCSF.fcs_spill_applied_Pre-B I.txt	M1_08_GCSF	stim	marrow1	GCSF	Pre-B I
+Marrow1_08_GCSF.fcs_spill_applied_Pre-B II.txt	M1_08_GCSF	stim	marrow1	GCSF	Pre-B II
+Marrow1_09_GMCSF.fcs_spill_applied_CD11b- Monocyte.txt	M1_09_GMCSF	stim	marrow1	GMCSF	CD11b- Monocyte
+Marrow1_09_GMCSF.fcs_spill_applied_CD11bhi Monocyte.txt	M1_09_GMCSF	stim	marrow1	GMCSF	CD11bhi Monocyte
+Marrow1_09_GMCSF.fcs_spill_applied_CD11bmid Monocyte.txt	M1_09_GMCSF	stim	marrow1	GMCSF	CD11bmid Monocyte
+Marrow1_09_GMCSF.fcs_spill_applied_CMP.txt	M1_09_GMCSF	stim	marrow1	GMCSF	CMP
+Marrow1_09_GMCSF.fcs_spill_applied_Erythroblast.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Erythroblast
+Marrow1_09_GMCSF.fcs_spill_applied_GMP.txt	M1_09_GMCSF	stim	marrow1	GMCSF	GMP
+Marrow1_09_GMCSF.fcs_spill_applied_HSC.txt	M1_09_GMCSF	stim	marrow1	GMCSF	HSC
+Marrow1_09_GMCSF.fcs_spill_applied_Immature B.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Immature B
+Marrow1_09_GMCSF.fcs_spill_applied_Mature CD4+ T.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Memory CD4+ T
+Marrow1_09_GMCSF.fcs_spill_applied_Mature CD8+ T.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Memory CD8+ T
+Marrow1_09_GMCSF.fcs_spill_applied_Mature CD38lo B.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Mature CD38lo B
+Marrow1_09_GMCSF.fcs_spill_applied_Mature CD38mid B.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Mature CD38mid B
+Marrow1_09_GMCSF.fcs_spill_applied_Megakaryocyte.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Megakaryocyte
+Marrow1_09_GMCSF.fcs_spill_applied_MEP.txt	M1_09_GMCSF	stim	marrow1	GMCSF	MEP
+Marrow1_09_GMCSF.fcs_spill_applied_MPP.txt	M1_09_GMCSF	stim	marrow1	GMCSF	MPP
+Marrow1_09_GMCSF.fcs_spill_applied_Myelocyte.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Myelocyte
+Marrow1_09_GMCSF.fcs_spill_applied_Naive CD4+ T.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Naive CD4+ T
+Marrow1_09_GMCSF.fcs_spill_applied_Naive CD8+ T.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Naive CD8+ T
+Marrow1_09_GMCSF.fcs_spill_applied_NK.txt	M1_09_GMCSF	stim	marrow1	GMCSF	NK
+Marrow1_09_GMCSF.fcs_spill_applied_Plasma cell.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Plasma cell
+Marrow1_09_GMCSF.fcs_spill_applied_Plasmacytoid DC.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Plasmacytoid DC
+Marrow1_09_GMCSF.fcs_spill_applied_Platelet.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Platelet
+Marrow1_09_GMCSF.fcs_spill_applied_Pre-B I.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Pre-B I
+Marrow1_09_GMCSF.fcs_spill_applied_Pre-B II.txt	M1_09_GMCSF	stim	marrow1	GMCSF	Pre-B II
+Marrow1_10_IFNa.fcs_spill_applied_CD11b- Monocyte.txt	M1_10_IFNa	stim	marrow1	IFNa	CD11b- Monocyte
+Marrow1_10_IFNa.fcs_spill_applied_CD11bhi Monocyte.txt	M1_10_IFNa	stim	marrow1	IFNa	CD11bhi Monocyte
+Marrow1_10_IFNa.fcs_spill_applied_CD11bmid Monocyte.txt	M1_10_IFNa	stim	marrow1	IFNa	CD11bmid Monocyte
+Marrow1_10_IFNa.fcs_spill_applied_CMP.txt	M1_10_IFNa	stim	marrow1	IFNa	CMP
+Marrow1_10_IFNa.fcs_spill_applied_Erythroblast.txt	M1_10_IFNa	stim	marrow1	IFNa	Erythroblast
+Marrow1_10_IFNa.fcs_spill_applied_GMP.txt	M1_10_IFNa	stim	marrow1	IFNa	GMP
+Marrow1_10_IFNa.fcs_spill_applied_HSC.txt	M1_10_IFNa	stim	marrow1	IFNa	HSC
+Marrow1_10_IFNa.fcs_spill_applied_Immature B.txt	M1_10_IFNa	stim	marrow1	IFNa	Immature B
+Marrow1_10_IFNa.fcs_spill_applied_Mature CD4+ T.txt	M1_10_IFNa	stim	marrow1	IFNa	Memory CD4+ T
+Marrow1_10_IFNa.fcs_spill_applied_Mature CD8+ T.txt	M1_10_IFNa	stim	marrow1	IFNa	Memory CD8+ T
+Marrow1_10_IFNa.fcs_spill_applied_Mature CD38lo B.txt	M1_10_IFNa	stim	marrow1	IFNa	Mature CD38lo B
+Marrow1_10_IFNa.fcs_spill_applied_Mature CD38mid B.txt	M1_10_IFNa	stim	marrow1	IFNa	Mature CD38mid B
+Marrow1_10_IFNa.fcs_spill_applied_Megakaryocyte.txt	M1_10_IFNa	stim	marrow1	IFNa	Megakaryocyte
+Marrow1_10_IFNa.fcs_spill_applied_MEP.txt	M1_10_IFNa	stim	marrow1	IFNa	MEP
+Marrow1_10_IFNa.fcs_spill_applied_MPP.txt	M1_10_IFNa	stim	marrow1	IFNa	MPP
+Marrow1_10_IFNa.fcs_spill_applied_Myelocyte.txt	M1_10_IFNa	stim	marrow1	IFNa	Myelocyte
+Marrow1_10_IFNa.fcs_spill_applied_Naive CD4+ T.txt	M1_10_IFNa	stim	marrow1	IFNa	Naive CD4+ T
+Marrow1_10_IFNa.fcs_spill_applied_Naive CD8+ T.txt	M1_10_IFNa	stim	marrow1	IFNa	Naive CD8+ T
+Marrow1_10_IFNa.fcs_spill_applied_NK.txt	M1_10_IFNa	stim	marrow1	IFNa	NK
+Marrow1_10_IFNa.fcs_spill_applied_Plasma cell.txt	M1_10_IFNa	stim	marrow1	IFNa	Plasma cell
+Marrow1_10_IFNa.fcs_spill_applied_Plasmacytoid DC.txt	M1_10_IFNa	stim	marrow1	IFNa	Plasmacytoid DC
+Marrow1_10_IFNa.fcs_spill_applied_Platelet.txt	M1_10_IFNa	stim	marrow1	IFNa	Platelet
+Marrow1_10_IFNa.fcs_spill_applied_Pre-B I.txt	M1_10_IFNa	stim	marrow1	IFNa	Pre-B I
+Marrow1_10_IFNa.fcs_spill_applied_Pre-B II.txt	M1_10_IFNa	stim	marrow1	IFNa	Pre-B II
+Marrow1_11_IL3.fcs_spill_applied_CD11b- Monocyte.txt	M1_11_IL3	stim	marrow1	IL3	CD11b- Monocyte
+Marrow1_11_IL3.fcs_spill_applied_CD11bhi Monocyte.txt	M1_11_IL3	stim	marrow1	IL3	CD11bhi Monocyte
+Marrow1_11_IL3.fcs_spill_applied_CD11bmid Monocyte.txt	M1_11_IL3	stim	marrow1	IL3	CD11bmid Monocyte
+Marrow1_11_IL3.fcs_spill_applied_CMP.txt	M1_11_IL3	stim	marrow1	IL3	CMP
+Marrow1_11_IL3.fcs_spill_applied_Erythroblast.txt	M1_11_IL3	stim	marrow1	IL3	Erythroblast
+Marrow1_11_IL3.fcs_spill_applied_GMP.txt	M1_11_IL3	stim	marrow1	IL3	GMP
+Marrow1_11_IL3.fcs_spill_applied_HSC.txt	M1_11_IL3	stim	marrow1	IL3	HSC
+Marrow1_11_IL3.fcs_spill_applied_Immature B.txt	M1_11_IL3	stim	marrow1	IL3	Immature B
+Marrow1_11_IL3.fcs_spill_applied_Mature CD4+ T.txt	M1_11_IL3	stim	marrow1	IL3	Memory CD4+ T
+Marrow1_11_IL3.fcs_spill_applied_Mature CD8+ T.txt	M1_11_IL3	stim	marrow1	IL3	Memory CD8+ T
+Marrow1_11_IL3.fcs_spill_applied_Mature CD38lo B.txt	M1_11_IL3	stim	marrow1	IL3	Mature CD38lo B
+Marrow1_11_IL3.fcs_spill_applied_Mature CD38mid B.txt	M1_11_IL3	stim	marrow1	IL3	Mature CD38mid B
+Marrow1_11_IL3.fcs_spill_applied_Megakaryocyte.txt	M1_11_IL3	stim	marrow1	IL3	Megakaryocyte
+Marrow1_11_IL3.fcs_spill_applied_MEP.txt	M1_11_IL3	stim	marrow1	IL3	MEP
+Marrow1_11_IL3.fcs_spill_applied_MPP.txt	M1_11_IL3	stim	marrow1	IL3	MPP
+Marrow1_11_IL3.fcs_spill_applied_Myelocyte.txt	M1_11_IL3	stim	marrow1	IL3	Myelocyte
+Marrow1_11_IL3.fcs_spill_applied_Naive CD4+ T.txt	M1_11_IL3	stim	marrow1	IL3	Naive CD4+ T
+Marrow1_11_IL3.fcs_spill_applied_Naive CD8+ T.txt	M1_11_IL3	stim	marrow1	IL3	Naive CD8+ T
+Marrow1_11_IL3.fcs_spill_applied_NK.txt	M1_11_IL3	stim	marrow1	IL3	NK
+Marrow1_11_IL3.fcs_spill_applied_Plasma cell.txt	M1_11_IL3	stim	marrow1	IL3	Plasma cell
+Marrow1_11_IL3.fcs_spill_applied_Plasmacytoid DC.txt	M1_11_IL3	stim	marrow1	IL3	Plasmacytoid DC
+Marrow1_11_IL3.fcs_spill_applied_Platelet.txt	M1_11_IL3	stim	marrow1	IL3	Platelet
+Marrow1_11_IL3.fcs_spill_applied_Pre-B I.txt	M1_11_IL3	stim	marrow1	IL3	Pre-B I
+Marrow1_11_IL3.fcs_spill_applied_Pre-B II.txt	M1_11_IL3	stim	marrow1	IL3	Pre-B II
+Marrow1_12_IL7.fcs_spill_applied_CD11b- Monocyte.txt	M1_12_IL7	stim	marrow1	IL7	CD11b- Monocyte
+Marrow1_12_IL7.fcs_spill_applied_CD11bhi Monocyte.txt	M1_12_IL7	stim	marrow1	IL7	CD11bhi Monocyte
+Marrow1_12_IL7.fcs_spill_applied_CD11bmid Monocyte.txt	M1_12_IL7	stim	marrow1	IL7	CD11bmid Monocyte
+Marrow1_12_IL7.fcs_spill_applied_CMP.txt	M1_12_IL7	stim	marrow1	IL7	CMP
+Marrow1_12_IL7.fcs_spill_applied_Erythroblast.txt	M1_12_IL7	stim	marrow1	IL7	Erythroblast
+Marrow1_12_IL7.fcs_spill_applied_GMP.txt	M1_12_IL7	stim	marrow1	IL7	GMP
+Marrow1_12_IL7.fcs_spill_applied_HSC.txt	M1_12_IL7	stim	marrow1	IL7	HSC
+Marrow1_12_IL7.fcs_spill_applied_Immature B.txt	M1_12_IL7	stim	marrow1	IL7	Immature B
+Marrow1_12_IL7.fcs_spill_applied_Mature CD4+ T.txt	M1_12_IL7	stim	marrow1	IL7	Memory CD4+ T
+Marrow1_12_IL7.fcs_spill_applied_Mature CD8+ T.txt	M1_12_IL7	stim	marrow1	IL7	Memory CD8+ T
+Marrow1_12_IL7.fcs_spill_applied_Mature CD38lo B.txt	M1_12_IL7	stim	marrow1	IL7	Mature CD38lo B
+Marrow1_12_IL7.fcs_spill_applied_Mature CD38mid B.txt	M1_12_IL7	stim	marrow1	IL7	Mature CD38mid B
+Marrow1_12_IL7.fcs_spill_applied_Megakaryocyte.txt	M1_12_IL7	stim	marrow1	IL7	Megakaryocyte
+Marrow1_12_IL7.fcs_spill_applied_MEP.txt	M1_12_IL7	stim	marrow1	IL7	MEP
+Marrow1_12_IL7.fcs_spill_applied_MPP.txt	M1_12_IL7	stim	marrow1	IL7	MPP
+Marrow1_12_IL7.fcs_spill_applied_Myelocyte.txt	M1_12_IL7	stim	marrow1	IL7	Myelocyte
+Marrow1_12_IL7.fcs_spill_applied_Naive CD4+ T.txt	M1_12_IL7	stim	marrow1	IL7	Naive CD4+ T
+Marrow1_12_IL7.fcs_spill_applied_Naive CD8+ T.txt	M1_12_IL7	stim	marrow1	IL7	Naive CD8+ T
+Marrow1_12_IL7.fcs_spill_applied_NK.txt	M1_12_IL7	stim	marrow1	IL7	NK
+Marrow1_12_IL7.fcs_spill_applied_Plasma cell.txt	M1_12_IL7	stim	marrow1	IL7	Plasma cell
+Marrow1_12_IL7.fcs_spill_applied_Plasmacytoid DC.txt	M1_12_IL7	stim	marrow1	IL7	Plasmacytoid DC
+Marrow1_12_IL7.fcs_spill_applied_Platelet.txt	M1_12_IL7	stim	marrow1	IL7	Platelet
+Marrow1_12_IL7.fcs_spill_applied_Pre-B I.txt	M1_12_IL7	stim	marrow1	IL7	Pre-B I
+Marrow1_12_IL7.fcs_spill_applied_Pre-B II.txt	M1_12_IL7	stim	marrow1	IL7	Pre-B II
+Marrow1_13_LPS.fcs_spill_applied_CD11b- Monocyte.txt	M1_13_LPS	stim	marrow1	LPS	CD11b- Monocyte
+Marrow1_13_LPS.fcs_spill_applied_CD11bhi Monocyte.txt	M1_13_LPS	stim	marrow1	LPS	CD11bhi Monocyte
+Marrow1_13_LPS.fcs_spill_applied_CD11bmid Monocyte.txt	M1_13_LPS	stim	marrow1	LPS	CD11bmid Monocyte
+Marrow1_13_LPS.fcs_spill_applied_CMP.txt	M1_13_LPS	stim	marrow1	LPS	CMP
+Marrow1_13_LPS.fcs_spill_applied_Erythroblast.txt	M1_13_LPS	stim	marrow1	LPS	Erythroblast
+Marrow1_13_LPS.fcs_spill_applied_GMP.txt	M1_13_LPS	stim	marrow1	LPS	GMP
+Marrow1_13_LPS.fcs_spill_applied_HSC.txt	M1_13_LPS	stim	marrow1	LPS	HSC
+Marrow1_13_LPS.fcs_spill_applied_Immature B.txt	M1_13_LPS	stim	marrow1	LPS	Immature B
+Marrow1_13_LPS.fcs_spill_applied_Mature CD4+ T.txt	M1_13_LPS	stim	marrow1	LPS	Memory CD4+ T
+Marrow1_13_LPS.fcs_spill_applied_Mature CD8+ T.txt	M1_13_LPS	stim	marrow1	LPS	Memory CD8+ T
+Marrow1_13_LPS.fcs_spill_applied_Mature CD38lo B.txt	M1_13_LPS	stim	marrow1	LPS	Mature CD38lo B
+Marrow1_13_LPS.fcs_spill_applied_Mature CD38mid B.txt	M1_13_LPS	stim	marrow1	LPS	Mature CD38mid B
+Marrow1_13_LPS.fcs_spill_applied_Megakaryocyte.txt	M1_13_LPS	stim	marrow1	LPS	Megakaryocyte
+Marrow1_13_LPS.fcs_spill_applied_MEP.txt	M1_13_LPS	stim	marrow1	LPS	MEP
+Marrow1_13_LPS.fcs_spill_applied_MPP.txt	M1_13_LPS	stim	marrow1	LPS	MPP
+Marrow1_13_LPS.fcs_spill_applied_Myelocyte.txt	M1_13_LPS	stim	marrow1	LPS	Myelocyte
+Marrow1_13_LPS.fcs_spill_applied_Naive CD4+ T.txt	M1_13_LPS	stim	marrow1	LPS	Naive CD4+ T
+Marrow1_13_LPS.fcs_spill_applied_Naive CD8+ T.txt	M1_13_LPS	stim	marrow1	LPS	Naive CD8+ T
+Marrow1_13_LPS.fcs_spill_applied_NK.txt	M1_13_LPS	stim	marrow1	LPS	NK
+Marrow1_13_LPS.fcs_spill_applied_Plasma cell.txt	M1_13_LPS	stim	marrow1	LPS	Plasma cell
+Marrow1_13_LPS.fcs_spill_applied_Plasmacytoid DC.txt	M1_13_LPS	stim	marrow1	LPS	Plasmacytoid DC
+Marrow1_13_LPS.fcs_spill_applied_Platelet.txt	M1_13_LPS	stim	marrow1	LPS	Platelet
+Marrow1_13_LPS.fcs_spill_applied_Pre-B I.txt	M1_13_LPS	stim	marrow1	LPS	Pre-B I
+Marrow1_13_LPS.fcs_spill_applied_Pre-B II.txt	M1_13_LPS	stim	marrow1	LPS	Pre-B II
+Marrow1_14_PMAiono.fcs_spill_applied_CD11b- Monocyte.txt	M1_14_PMAiono	stim	marrow1	PMAiono	CD11b- Monocyte
+Marrow1_14_PMAiono.fcs_spill_applied_CD11bhi Monocyte.txt	M1_14_PMAiono	stim	marrow1	PMAiono	CD11bhi Monocyte
+Marrow1_14_PMAiono.fcs_spill_applied_CD11bmid Monocyte.txt	M1_14_PMAiono	stim	marrow1	PMAiono	CD11bmid Monocyte
+Marrow1_14_PMAiono.fcs_spill_applied_CMP.txt	M1_14_PMAiono	stim	marrow1	PMAiono	CMP
+Marrow1_14_PMAiono.fcs_spill_applied_Erythroblast.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Erythroblast
+Marrow1_14_PMAiono.fcs_spill_applied_GMP.txt	M1_14_PMAiono	stim	marrow1	PMAiono	GMP
+Marrow1_14_PMAiono.fcs_spill_applied_HSC.txt	M1_14_PMAiono	stim	marrow1	PMAiono	HSC
+Marrow1_14_PMAiono.fcs_spill_applied_Immature B.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Immature B
+Marrow1_14_PMAiono.fcs_spill_applied_Mature CD4+ T.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Memory CD4+ T
+Marrow1_14_PMAiono.fcs_spill_applied_Mature CD8+ T.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Memory CD8+ T
+Marrow1_14_PMAiono.fcs_spill_applied_Mature CD38lo B.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Mature CD38lo B
+Marrow1_14_PMAiono.fcs_spill_applied_Mature CD38mid B.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Mature CD38mid B
+Marrow1_14_PMAiono.fcs_spill_applied_Megakaryocyte.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Megakaryocyte
+Marrow1_14_PMAiono.fcs_spill_applied_MEP.txt	M1_14_PMAiono	stim	marrow1	PMAiono	MEP
+Marrow1_14_PMAiono.fcs_spill_applied_MPP.txt	M1_14_PMAiono	stim	marrow1	PMAiono	MPP
+Marrow1_14_PMAiono.fcs_spill_applied_Myelocyte.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Myelocyte
+Marrow1_14_PMAiono.fcs_spill_applied_Naive CD4+ T.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Naive CD4+ T
+Marrow1_14_PMAiono.fcs_spill_applied_Naive CD8+ T.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Naive CD8+ T
+Marrow1_14_PMAiono.fcs_spill_applied_NK.txt	M1_14_PMAiono	stim	marrow1	PMAiono	NK
+Marrow1_14_PMAiono.fcs_spill_applied_Plasma cell.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Plasma cell
+Marrow1_14_PMAiono.fcs_spill_applied_Plasmacytoid DC.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Plasmacytoid DC
+Marrow1_14_PMAiono.fcs_spill_applied_Platelet.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Platelet
+Marrow1_14_PMAiono.fcs_spill_applied_Pre-B I.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Pre-B I
+Marrow1_14_PMAiono.fcs_spill_applied_Pre-B II.txt	M1_14_PMAiono	stim	marrow1	PMAiono	Pre-B II
+Marrow1_15_PVO4.fcs_spill_applied_CD11b- Monocyte.txt	M1_15_PVO4	stim	marrow1	PVO4	CD11b- Monocyte
+Marrow1_15_PVO4.fcs_spill_applied_CD11bhi Monocyte.txt	M1_15_PVO4	stim	marrow1	PVO4	CD11bhi Monocyte
+Marrow1_15_PVO4.fcs_spill_applied_CD11bmid Monocyte.txt	M1_15_PVO4	stim	marrow1	PVO4	CD11bmid Monocyte
+Marrow1_15_PVO4.fcs_spill_applied_CMP.txt	M1_15_PVO4	stim	marrow1	PVO4	CMP
+Marrow1_15_PVO4.fcs_spill_applied_Erythroblast.txt	M1_15_PVO4	stim	marrow1	PVO4	Erythroblast
+Marrow1_15_PVO4.fcs_spill_applied_GMP.txt	M1_15_PVO4	stim	marrow1	PVO4	GMP
+Marrow1_15_PVO4.fcs_spill_applied_HSC.txt	M1_15_PVO4	stim	marrow1	PVO4	HSC
+Marrow1_15_PVO4.fcs_spill_applied_Immature B.txt	M1_15_PVO4	stim	marrow1	PVO4	Immature B
+Marrow1_15_PVO4.fcs_spill_applied_Mature CD4+ T.txt	M1_15_PVO4	stim	marrow1	PVO4	Memory CD4+ T
+Marrow1_15_PVO4.fcs_spill_applied_Mature CD8+ T.txt	M1_15_PVO4	stim	marrow1	PVO4	Memory CD8+ T
+Marrow1_15_PVO4.fcs_spill_applied_Mature CD38lo B.txt	M1_15_PVO4	stim	marrow1	PVO4	Mature CD38lo B
+Marrow1_15_PVO4.fcs_spill_applied_Mature CD38mid B.txt	M1_15_PVO4	stim	marrow1	PVO4	Mature CD38mid B
+Marrow1_15_PVO4.fcs_spill_applied_Megakaryocyte.txt	M1_15_PVO4	stim	marrow1	PVO4	Megakaryocyte
+Marrow1_15_PVO4.fcs_spill_applied_MEP.txt	M1_15_PVO4	stim	marrow1	PVO4	MEP
+Marrow1_15_PVO4.fcs_spill_applied_MPP.txt	M1_15_PVO4	stim	marrow1	PVO4	MPP
+Marrow1_15_PVO4.fcs_spill_applied_Myelocyte.txt	M1_15_PVO4	stim	marrow1	PVO4	Myelocyte
+Marrow1_15_PVO4.fcs_spill_applied_Naive CD4+ T.txt	M1_15_PVO4	stim	marrow1	PVO4	Naive CD4+ T
+Marrow1_15_PVO4.fcs_spill_applied_Naive CD8+ T.txt	M1_15_PVO4	stim	marrow1	PVO4	Naive CD8+ T
+Marrow1_15_PVO4.fcs_spill_applied_NK.txt	M1_15_PVO4	stim	marrow1	PVO4	NK
+Marrow1_15_PVO4.fcs_spill_applied_Plasma cell.txt	M1_15_PVO4	stim	marrow1	PVO4	Plasma cell
+Marrow1_15_PVO4.fcs_spill_applied_Plasmacytoid DC.txt	M1_15_PVO4	stim	marrow1	PVO4	Plasmacytoid DC
+Marrow1_15_PVO4.fcs_spill_applied_Platelet.txt	M1_15_PVO4	stim	marrow1	PVO4	Platelet
+Marrow1_15_PVO4.fcs_spill_applied_Pre-B I.txt	M1_15_PVO4	stim	marrow1	PVO4	Pre-B I
+Marrow1_15_PVO4.fcs_spill_applied_Pre-B II.txt	M1_15_PVO4	stim	marrow1	PVO4	Pre-B II
+Marrow1_16_SCF.fcs_spill_applied_CD11b- Monocyte.txt	M1_16_SCF	stim	marrow1	SCF	CD11b- Monocyte
+Marrow1_16_SCF.fcs_spill_applied_CD11bhi Monocyte.txt	M1_16_SCF	stim	marrow1	SCF	CD11bhi Monocyte
+Marrow1_16_SCF.fcs_spill_applied_CD11bmid Monocyte.txt	M1_16_SCF	stim	marrow1	SCF	CD11bmid Monocyte
+Marrow1_16_SCF.fcs_spill_applied_CMP.txt	M1_16_SCF	stim	marrow1	SCF	CMP
+Marrow1_16_SCF.fcs_spill_applied_Erythroblast.txt	M1_16_SCF	stim	marrow1	SCF	Erythroblast
+Marrow1_16_SCF.fcs_spill_applied_GMP.txt	M1_16_SCF	stim	marrow1	SCF	GMP
+Marrow1_16_SCF.fcs_spill_applied_HSC.txt	M1_16_SCF	stim	marrow1	SCF	HSC
+Marrow1_16_SCF.fcs_spill_applied_Immature B.txt	M1_16_SCF	stim	marrow1	SCF	Immature B
+Marrow1_16_SCF.fcs_spill_applied_Mature CD4+ T.txt	M1_16_SCF	stim	marrow1	SCF	Memory CD4+ T
+Marrow1_16_SCF.fcs_spill_applied_Mature CD8+ T.txt	M1_16_SCF	stim	marrow1	SCF	Memory CD8+ T
+Marrow1_16_SCF.fcs_spill_applied_Mature CD38lo B.txt	M1_16_SCF	stim	marrow1	SCF	Mature CD38lo B
+Marrow1_16_SCF.fcs_spill_applied_Mature CD38mid B.txt	M1_16_SCF	stim	marrow1	SCF	Mature CD38mid B
+Marrow1_16_SCF.fcs_spill_applied_Megakaryocyte.txt	M1_16_SCF	stim	marrow1	SCF	Megakaryocyte
+Marrow1_16_SCF.fcs_spill_applied_MEP.txt	M1_16_SCF	stim	marrow1	SCF	MEP
+Marrow1_16_SCF.fcs_spill_applied_MPP.txt	M1_16_SCF	stim	marrow1	SCF	MPP
+Marrow1_16_SCF.fcs_spill_applied_Myelocyte.txt	M1_16_SCF	stim	marrow1	SCF	Myelocyte
+Marrow1_16_SCF.fcs_spill_applied_Naive CD4+ T.txt	M1_16_SCF	stim	marrow1	SCF	Naive CD4+ T
+Marrow1_16_SCF.fcs_spill_applied_Naive CD8+ T.txt	M1_16_SCF	stim	marrow1	SCF	Naive CD8+ T
+Marrow1_16_SCF.fcs_spill_applied_NK.txt	M1_16_SCF	stim	marrow1	SCF	NK
+Marrow1_16_SCF.fcs_spill_applied_Plasma cell.txt	M1_16_SCF	stim	marrow1	SCF	Plasma cell
+Marrow1_16_SCF.fcs_spill_applied_Plasmacytoid DC.txt	M1_16_SCF	stim	marrow1	SCF	Plasmacytoid DC
+Marrow1_16_SCF.fcs_spill_applied_Platelet.txt	M1_16_SCF	stim	marrow1	SCF	Platelet
+Marrow1_16_SCF.fcs_spill_applied_Pre-B I.txt	M1_16_SCF	stim	marrow1	SCF	Pre-B I
+Marrow1_16_SCF.fcs_spill_applied_Pre-B II.txt	M1_16_SCF	stim	marrow1	SCF	Pre-B II
+Marrow1_17_TNFa.fcs_spill_applied_CD11b- Monocyte.txt	M1_17_TNFa	stim	marrow1	TNFa	CD11b- Monocyte
+Marrow1_17_TNFa.fcs_spill_applied_CD11bhi Monocyte.txt	M1_17_TNFa	stim	marrow1	TNFa	CD11bhi Monocyte
+Marrow1_17_TNFa.fcs_spill_applied_CD11bmid Monocyte.txt	M1_17_TNFa	stim	marrow1	TNFa	CD11bmid Monocyte
+Marrow1_17_TNFa.fcs_spill_applied_CMP.txt	M1_17_TNFa	stim	marrow1	TNFa	CMP
+Marrow1_17_TNFa.fcs_spill_applied_Erythroblast.txt	M1_17_TNFa	stim	marrow1	TNFa	Erythroblast
+Marrow1_17_TNFa.fcs_spill_applied_GMP.txt	M1_17_TNFa	stim	marrow1	TNFa	GMP
+Marrow1_17_TNFa.fcs_spill_applied_HSC.txt	M1_17_TNFa	stim	marrow1	TNFa	HSC
+Marrow1_17_TNFa.fcs_spill_applied_Immature B.txt	M1_17_TNFa	stim	marrow1	TNFa	Immature B
+Marrow1_17_TNFa.fcs_spill_applied_Mature CD4+ T.txt	M1_17_TNFa	stim	marrow1	TNFa	Memory CD4+ T
+Marrow1_17_TNFa.fcs_spill_applied_Mature CD8+ T.txt	M1_17_TNFa	stim	marrow1	TNFa	Memory CD8+ T
+Marrow1_17_TNFa.fcs_spill_applied_Mature CD38lo B.txt	M1_17_TNFa	stim	marrow1	TNFa	Mature CD38lo B
+Marrow1_17_TNFa.fcs_spill_applied_Mature CD38mid B.txt	M1_17_TNFa	stim	marrow1	TNFa	Mature CD38mid B
+Marrow1_17_TNFa.fcs_spill_applied_Megakaryocyte.txt	M1_17_TNFa	stim	marrow1	TNFa	Megakaryocyte
+Marrow1_17_TNFa.fcs_spill_applied_MEP.txt	M1_17_TNFa	stim	marrow1	TNFa	MEP
+Marrow1_17_TNFa.fcs_spill_applied_MPP.txt	M1_17_TNFa	stim	marrow1	TNFa	MPP
+Marrow1_17_TNFa.fcs_spill_applied_Myelocyte.txt	M1_17_TNFa	stim	marrow1	TNFa	Myelocyte
+Marrow1_17_TNFa.fcs_spill_applied_Naive CD4+ T.txt	M1_17_TNFa	stim	marrow1	TNFa	Naive CD4+ T
+Marrow1_17_TNFa.fcs_spill_applied_Naive CD8+ T.txt	M1_17_TNFa	stim	marrow1	TNFa	Naive CD8+ T
+Marrow1_17_TNFa.fcs_spill_applied_NK.txt	M1_17_TNFa	stim	marrow1	TNFa	NK
+Marrow1_17_TNFa.fcs_spill_applied_Plasma cell.txt	M1_17_TNFa	stim	marrow1	TNFa	Plasma cell
+Marrow1_17_TNFa.fcs_spill_applied_Plasmacytoid DC.txt	M1_17_TNFa	stim	marrow1	TNFa	Plasmacytoid DC
+Marrow1_17_TNFa.fcs_spill_applied_Platelet.txt	M1_17_TNFa	stim	marrow1	TNFa	Platelet
+Marrow1_17_TNFa.fcs_spill_applied_Pre-B I.txt	M1_17_TNFa	stim	marrow1	TNFa	Pre-B I
+Marrow1_17_TNFa.fcs_spill_applied_Pre-B II.txt	M1_17_TNFa	stim	marrow1	TNFa	Pre-B II
+Marrow1_18_TPO.fcs_spill_applied_CD11b- Monocyte.txt	M1_18_TPO	stim	marrow1	TPO	CD11b- Monocyte
+Marrow1_18_TPO.fcs_spill_applied_CD11bhi Monocyte.txt	M1_18_TPO	stim	marrow1	TPO	CD11bhi Monocyte
+Marrow1_18_TPO.fcs_spill_applied_CD11bmid Monocyte.txt	M1_18_TPO	stim	marrow1	TPO	CD11bmid Monocyte
+Marrow1_18_TPO.fcs_spill_applied_CMP.txt	M1_18_TPO	stim	marrow1	TPO	CMP
+Marrow1_18_TPO.fcs_spill_applied_Erythroblast.txt	M1_18_TPO	stim	marrow1	TPO	Erythroblast
+Marrow1_18_TPO.fcs_spill_applied_GMP.txt	M1_18_TPO	stim	marrow1	TPO	GMP
+Marrow1_18_TPO.fcs_spill_applied_HSC.txt	M1_18_TPO	stim	marrow1	TPO	HSC
+Marrow1_18_TPO.fcs_spill_applied_Immature B.txt	M1_18_TPO	stim	marrow1	TPO	Immature B
+Marrow1_18_TPO.fcs_spill_applied_Mature CD4+ T.txt	M1_18_TPO	stim	marrow1	TPO	Memory CD4+ T
+Marrow1_18_TPO.fcs_spill_applied_Mature CD8+ T.txt	M1_18_TPO	stim	marrow1	TPO	Memory CD8+ T
+Marrow1_18_TPO.fcs_spill_applied_Mature CD38lo B.txt	M1_18_TPO	stim	marrow1	TPO	Mature CD38lo B
+Marrow1_18_TPO.fcs_spill_applied_Mature CD38mid B.txt	M1_18_TPO	stim	marrow1	TPO	Mature CD38mid B
+Marrow1_18_TPO.fcs_spill_applied_Megakaryocyte.txt	M1_18_TPO	stim	marrow1	TPO	Megakaryocyte
+Marrow1_18_TPO.fcs_spill_applied_MEP.txt	M1_18_TPO	stim	marrow1	TPO	MEP
+Marrow1_18_TPO.fcs_spill_applied_MPP.txt	M1_18_TPO	stim	marrow1	TPO	MPP
+Marrow1_18_TPO.fcs_spill_applied_Myelocyte.txt	M1_18_TPO	stim	marrow1	TPO	Myelocyte
+Marrow1_18_TPO.fcs_spill_applied_Naive CD4+ T.txt	M1_18_TPO	stim	marrow1	TPO	Naive CD4+ T
+Marrow1_18_TPO.fcs_spill_applied_Naive CD8+ T.txt	M1_18_TPO	stim	marrow1	TPO	Naive CD8+ T
+Marrow1_18_TPO.fcs_spill_applied_NK.txt	M1_18_TPO	stim	marrow1	TPO	NK
+Marrow1_18_TPO.fcs_spill_applied_Plasma cell.txt	M1_18_TPO	stim	marrow1	TPO	Plasma cell
+Marrow1_18_TPO.fcs_spill_applied_Plasmacytoid DC.txt	M1_18_TPO	stim	marrow1	TPO	Plasmacytoid DC
+Marrow1_18_TPO.fcs_spill_applied_Platelet.txt	M1_18_TPO	stim	marrow1	TPO	Platelet
+Marrow1_18_TPO.fcs_spill_applied_Pre-B I.txt	M1_18_TPO	stim	marrow1	TPO	Pre-B I
+Marrow1_18_TPO.fcs_spill_applied_Pre-B II.txt	M1_18_TPO	stim	marrow1	TPO	Pre-B II
+Marrow1_19_DMSO.fcs_spill_applied_CD11b- Monocyte.txt	M1_19_DMSO	stim	marrow1	DMSO	CD11b- Monocyte
+Marrow1_19_DMSO.fcs_spill_applied_CD11bhi Monocyte.txt	M1_19_DMSO	stim	marrow1	DMSO	CD11bhi Monocyte
+Marrow1_19_DMSO.fcs_spill_applied_CD11bmid Monocyte.txt	M1_19_DMSO	stim	marrow1	DMSO	CD11bmid Monocyte
+Marrow1_19_DMSO.fcs_spill_applied_CMP.txt	M1_19_DMSO	stim	marrow1	DMSO	CMP
+Marrow1_19_DMSO.fcs_spill_applied_Erythroblast.txt	M1_19_DMSO	stim	marrow1	DMSO	Erythroblast
+Marrow1_19_DMSO.fcs_spill_applied_GMP.txt	M1_19_DMSO	stim	marrow1	DMSO	GMP
+Marrow1_19_DMSO.fcs_spill_applied_HSC.txt	M1_19_DMSO	stim	marrow1	DMSO	HSC
+Marrow1_19_DMSO.fcs_spill_applied_Immature B.txt	M1_19_DMSO	stim	marrow1	DMSO	Immature B
+Marrow1_19_DMSO.fcs_spill_applied_Mature CD4+ T.txt	M1_19_DMSO	stim	marrow1	DMSO	Memory CD4+ T
+Marrow1_19_DMSO.fcs_spill_applied_Mature CD8+ T.txt	M1_19_DMSO	stim	marrow1	DMSO	Memory CD8+ T
+Marrow1_19_DMSO.fcs_spill_applied_Mature CD38lo B.txt	M1_19_DMSO	stim	marrow1	DMSO	Mature CD38lo B
+Marrow1_19_DMSO.fcs_spill_applied_Mature CD38mid B.txt	M1_19_DMSO	stim	marrow1	DMSO	Mature CD38mid B
+Marrow1_19_DMSO.fcs_spill_applied_Megakaryocyte.txt	M1_19_DMSO	stim	marrow1	DMSO	Megakaryocyte
+Marrow1_19_DMSO.fcs_spill_applied_MEP.txt	M1_19_DMSO	stim	marrow1	DMSO	MEP
+Marrow1_19_DMSO.fcs_spill_applied_MPP.txt	M1_19_DMSO	stim	marrow1	DMSO	MPP
+Marrow1_19_DMSO.fcs_spill_applied_Myelocyte.txt	M1_19_DMSO	stim	marrow1	DMSO	Myelocyte
+Marrow1_19_DMSO.fcs_spill_applied_Naive CD4+ T.txt	M1_19_DMSO	stim	marrow1	DMSO	Naive CD4+ T
+Marrow1_19_DMSO.fcs_spill_applied_Naive CD8+ T.txt	M1_19_DMSO	stim	marrow1	DMSO	Naive CD8+ T
+Marrow1_19_DMSO.fcs_spill_applied_NK.txt	M1_19_DMSO	stim	marrow1	DMSO	NK
+Marrow1_19_DMSO.fcs_spill_applied_Plasma cell.txt	M1_19_DMSO	stim	marrow1	DMSO	Plasma cell
+Marrow1_19_DMSO.fcs_spill_applied_Plasmacytoid DC.txt	M1_19_DMSO	stim	marrow1	DMSO	Plasmacytoid DC
+Marrow1_19_DMSO.fcs_spill_applied_Platelet.txt	M1_19_DMSO	stim	marrow1	DMSO	Platelet
+Marrow1_19_DMSO.fcs_spill_applied_Pre-B I.txt	M1_19_DMSO	stim	marrow1	DMSO	Pre-B I
+Marrow1_19_DMSO.fcs_spill_applied_Pre-B II.txt	M1_19_DMSO	stim	marrow1	DMSO	Pre-B II
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_CD11b- Monocyte.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	CD11b- Monocyte
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_CD11bhi Monocyte.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	CD11bhi Monocyte
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_CD11bmid Monocyte.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	CD11bmid Monocyte
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_CMP.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	CMP
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Erythroblast.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Erythroblast
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_GMP.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	GMP
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_HSC.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	HSC
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Immature B.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Immature B
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Mature CD4+ T.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Memory CD4+ T
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Mature CD8+ T.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Memory CD8+ T
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Mature CD38lo B.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Mature CD38lo B
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Mature CD38mid B.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Mature CD38mid B
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Megakaryocyte.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Megakaryocyte
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_MEP.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	MEP
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_MPP.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	MPP
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Myelocyte.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Myelocyte
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Naive CD4+ T.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Naive CD4+ T
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Naive CD8+ T.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Naive CD8+ T
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_NK.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	NK
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Plasma cell.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Plasma cell
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Plasmacytoid DC.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Plasmacytoid DC
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Platelet.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Platelet
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Pre-B I.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Pre-B I
+Marrow1_20_Dasatinib+Basal.fcs_spill_applied_Marrow1_20_Dasatinib+Basal.fcs - Marrow1_20_Dasatinib+Basal.fcs_Pre-B II.txt	M1_20_Dasatinib_Basal	stim	marrow1	Dasatinib_Basal	Pre-B II
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_CD11b- Monocyte.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	CD11b- Monocyte
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_CD11bhi Monocyte.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	CD11bhi Monocyte
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_CD11bmid Monocyte.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	CD11bmid Monocyte
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_CMP.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	CMP
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Erythroblast.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Erythroblast
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_GMP.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	GMP
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_HSC.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	HSC
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Immature B.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Immature B
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Mature CD4+ T.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Memory CD4+ T
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Mature CD8+ T.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Memory CD8+ T
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Mature CD38lo B.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Mature CD38lo B
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Mature CD38mid B.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Mature CD38mid B
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Megakaryocyte.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Megakaryocyte
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_MEP.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	MEP
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_MPP.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	MPP
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Myelocyte.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Myelocyte
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Naive CD4+ T.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Naive CD4+ T
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Naive CD8+ T.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Naive CD8+ T
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_NK.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	NK
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Plasma cell.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Plasma cell
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Plasmacytoid DC.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Plasmacytoid DC
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Platelet.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Platelet
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Pre-B I.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Pre-B I
+Marrow1_21_Dasatinib+BCR.fcs_spill_applied_Marrow1_21_Dasatinib+BCR.fcs - Marrow1_21_Dasatinib+BCR.fcs_Pre-B II.txt	M1_21_Dasatinib_BCR	stim	marrow1	Dasatinib_BCR	Pre-B II
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_CD11b- Monocyte.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	CD11b- Monocyte
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_CD11bhi Monocyte.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	CD11bhi Monocyte
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_CD11bmid Monocyte.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	CD11bmid Monocyte
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_CMP.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	CMP
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Erythroblast.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Erythroblast
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_GMP.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	GMP
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_HSC.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	HSC
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Immature B.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Immature B
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Mature CD4+ T.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Memory CD4+ T
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Mature CD8+ T.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Memory CD8+ T
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Mature CD38lo B.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Mature CD38lo B
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Mature CD38mid B.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Mature CD38mid B
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Megakaryocyte.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Megakaryocyte
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_MEP.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	MEP
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_MPP.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	MPP
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Myelocyte.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Myelocyte
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Naive CD4+ T.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Naive CD4+ T
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Naive CD8+ T.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Naive CD8+ T
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_NK.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	NK
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Plasma cell.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Plasma cell
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Plasmacytoid DC.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Plasmacytoid DC
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Platelet.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Platelet
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Pre-B I.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Pre-B I
+Marrow1_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow1_22_Dasatinib+Flt3L.fcs - Marrow1_22_Dasatinib+Flt3L.fcs_Pre-B II.txt	M1_22_Dasatinib_Flt3L	stim	marrow1	Dasatinib_Flt3L	Pre-B II
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_CD11b- Monocyte.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	CD11b- Monocyte
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_CD11bhi Monocyte.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	CD11bhi Monocyte
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_CD11bmid Monocyte.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	CD11bmid Monocyte
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_CMP.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	CMP
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Erythroblast.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Erythroblast
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_GMP.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	GMP
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_HSC.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	HSC
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Immature B.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Immature B
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Mature CD4+ T.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Memory CD4+ T
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Mature CD8+ T.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Memory CD8+ T
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Mature CD38lo B.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Mature CD38lo B
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Mature CD38mid B.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Mature CD38mid B
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Megakaryocyte.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Megakaryocyte
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_MEP.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	MEP
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_MPP.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	MPP
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Myelocyte.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Myelocyte
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Naive CD4+ T.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Naive CD4+ T
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Naive CD8+ T.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Naive CD8+ T
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_NK.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	NK
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Plasma cell.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Plasma cell
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Plasmacytoid DC.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Plasmacytoid DC
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Platelet.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Platelet
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Pre-B I.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Pre-B I
+Marrow1_23_Dasatinib+IL7.fcs_spill_applied_Marrow1_23_Dasatinib+IL7.fcs - Marrow1_23_Dasatinib+IL7.fcs_Pre-B II.txt	M1_23_Dasatinib_IL7	stim	marrow1	Dasatinib_IL7	Pre-B II
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_CD11b- Monocyte.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	CD11b- Monocyte
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_CD11bhi Monocyte.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	CD11bhi Monocyte
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_CD11bmid Monocyte.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	CD11bmid Monocyte
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_CMP.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	CMP
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Erythroblast.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Erythroblast
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_GMP.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	GMP
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_HSC.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	HSC
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Immature B.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Immature B
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Mature CD4+ T.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Memory CD4+ T
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Mature CD8+ T.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Memory CD8+ T
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Mature CD38lo B.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Mature CD38lo B
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Mature CD38mid B.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Mature CD38mid B
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Megakaryocyte.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Megakaryocyte
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_MEP.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	MEP
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_MPP.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	MPP
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Myelocyte.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Myelocyte
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Naive CD4+ T.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Naive CD4+ T
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Naive CD8+ T.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Naive CD8+ T
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_NK.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	NK
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Plasma cell.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Plasma cell
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Plasmacytoid DC.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Plasmacytoid DC
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Platelet.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Platelet
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Pre-B I.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Pre-B I
+Marrow1_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow1_24_Dasatinib+PMAiono.fcs - Marrow1_24_Dasatinib+PMAiono.fcs_Pre-B II.txt	M1_24_Dasatinib_PMAiono	stim	marrow1	Dasatinib_PMAiono	Pre-B II
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_CD11b- Monocyte.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	CD11b- Monocyte
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_CD11bhi Monocyte.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	CD11bhi Monocyte
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_CD11bmid Monocyte.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	CD11bmid Monocyte
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_CMP.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	CMP
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Erythroblast.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Erythroblast
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_GMP.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	GMP
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_HSC.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	HSC
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Immature B.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Immature B
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Mature CD4+ T.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Memory CD4+ T
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Mature CD8+ T.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Memory CD8+ T
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Mature CD38lo B.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Mature CD38lo B
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Mature CD38mid B.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Mature CD38mid B
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Megakaryocyte.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Megakaryocyte
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_MEP.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	MEP
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_MPP.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	MPP
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Myelocyte.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Myelocyte
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Naive CD4+ T.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Naive CD4+ T
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Naive CD8+ T.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Naive CD8+ T
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_NK.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	NK
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Plasma cell.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Plasma cell
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Plasmacytoid DC.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Plasmacytoid DC
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Platelet.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Platelet
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Pre-B I.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Pre-B I
+Marrow1_25_Dasatinib+PVO4.fcs_spill_applied_Marrow1_25_Dasatinib+PVO4.fcs - Marrow1_25_Dasatinib+PVO4.fcs_Pre-B II.txt	M1_25_Dasatinib_PVO4	stim	marrow1	Dasatinib_PVO4	Pre-B II
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_CD11b- Monocyte.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	CD11b- Monocyte
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_CD11bhi Monocyte.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	CD11bhi Monocyte
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_CD11bmid Monocyte.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	CD11bmid Monocyte
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_CMP.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	CMP
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Erythroblast.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Erythroblast
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_GMP.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	GMP
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_HSC.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	HSC
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Immature B.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Immature B
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Mature CD4+ T.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Memory CD4+ T
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Mature CD8+ T.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Memory CD8+ T
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Mature CD38lo B.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Mature CD38lo B
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Mature CD38mid B.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Mature CD38mid B
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Megakaryocyte.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Megakaryocyte
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_MEP.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	MEP
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_MPP.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	MPP
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Myelocyte.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Myelocyte
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Naive CD4+ T.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Naive CD4+ T
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Naive CD8+ T.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Naive CD8+ T
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_NK.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	NK
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Plasma cell.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Plasma cell
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Plasmacytoid DC.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Plasmacytoid DC
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Platelet.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Platelet
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Pre-B I.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Pre-B I
+Marrow1_26_JAKi+Basal.fcs_spill_applied_Marrow1_26_JAKi+Basal.fcs - Marrow1_26_JAKi+Basal.fcs_Pre-B II.txt	M1_26_JAKi_Basal	stim	marrow1	JAKi_Basal	Pre-B II
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_CD11b- Monocyte.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	CD11b- Monocyte
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_CD11bhi Monocyte.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	CD11bhi Monocyte
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_CD11bmid Monocyte.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	CD11bmid Monocyte
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_CMP.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	CMP
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Erythroblast.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Erythroblast
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_GMP.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	GMP
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_HSC.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	HSC
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Immature B.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Immature B
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Mature CD4+ T.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Memory CD4+ T
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Mature CD8+ T.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Memory CD8+ T
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Mature CD38lo B.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Mature CD38lo B
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Mature CD38mid B.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Mature CD38mid B
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Megakaryocyte.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Megakaryocyte
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_MEP.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	MEP
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_MPP.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	MPP
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Myelocyte.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Myelocyte
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Naive CD4+ T.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Naive CD4+ T
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Naive CD8+ T.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Naive CD8+ T
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_NK.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	NK
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Plasma cell.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Plasma cell
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Plasmacytoid DC.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Plasmacytoid DC
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Platelet.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Platelet
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Pre-B I.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Pre-B I
+Marrow1_27_JAKi+GCSF.fcs_spill_applied_Marrow1_27_JAKi+GCSF.fcs - Marrow1_27_JAKi+GCSF.fcs_Pre-B II.txt	M1_27_JAKi_GCSF	stim	marrow1	JAKi_GCSF	Pre-B II
+Marrow2_01_Basal1.fcs_spill_applied_CD11b- Monocyte.txt	M2_01_Basal1	unstim	marrow2	Basal1	CD11b- Monocyte
+Marrow2_01_Basal1.fcs_spill_applied_CD11bhi Monocyte.txt	M2_01_Basal1	unstim	marrow2	Basal1	CD11bhi Monocyte
+Marrow2_01_Basal1.fcs_spill_applied_CD11bmid Monocyte.txt	M2_01_Basal1	unstim	marrow2	Basal1	CD11bmid Monocyte
+Marrow2_01_Basal1.fcs_spill_applied_CMP.txt	M2_01_Basal1	unstim	marrow2	Basal1	CMP
+Marrow2_01_Basal1.fcs_spill_applied_Erythroblast.txt	M2_01_Basal1	unstim	marrow2	Basal1	Erythroblast
+Marrow2_01_Basal1.fcs_spill_applied_GMP.txt	M2_01_Basal1	unstim	marrow2	Basal1	GMP
+Marrow2_01_Basal1.fcs_spill_applied_HSC.txt	M2_01_Basal1	unstim	marrow2	Basal1	HSC
+Marrow2_01_Basal1.fcs_spill_applied_Immature B.txt	M2_01_Basal1	unstim	marrow2	Basal1	Immature B
+Marrow2_01_Basal1.fcs_spill_applied_Mature CD4+ T.txt	M2_01_Basal1	unstim	marrow2	Basal1	Memory CD4+ T
+Marrow2_01_Basal1.fcs_spill_applied_Mature CD8+ T.txt	M2_01_Basal1	unstim	marrow2	Basal1	Memory CD8+ T
+Marrow2_01_Basal1.fcs_spill_applied_Mature CD38lo B.txt	M2_01_Basal1	unstim	marrow2	Basal1	Mature CD38lo B
+Marrow2_01_Basal1.fcs_spill_applied_Mature CD38mid B.txt	M2_01_Basal1	unstim	marrow2	Basal1	Mature CD38mid B
+Marrow2_01_Basal1.fcs_spill_applied_Megakaryocyte.txt	M2_01_Basal1	unstim	marrow2	Basal1	Megakaryocyte
+Marrow2_01_Basal1.fcs_spill_applied_MEP.txt	M2_01_Basal1	unstim	marrow2	Basal1	MEP
+Marrow2_01_Basal1.fcs_spill_applied_MPP.txt	M2_01_Basal1	unstim	marrow2	Basal1	MPP
+Marrow2_01_Basal1.fcs_spill_applied_Myelocyte.txt	M2_01_Basal1	unstim	marrow2	Basal1	Myelocyte
+Marrow2_01_Basal1.fcs_spill_applied_Naive CD4+ T.txt	M2_01_Basal1	unstim	marrow2	Basal1	Naive CD4+ T
+Marrow2_01_Basal1.fcs_spill_applied_Naive CD8+ T.txt	M2_01_Basal1	unstim	marrow2	Basal1	Naive CD8+ T
+Marrow2_01_Basal1.fcs_spill_applied_NK.txt	M2_01_Basal1	unstim	marrow2	Basal1	NK
+Marrow2_01_Basal1.fcs_spill_applied_Plasma cell.txt	M2_01_Basal1	unstim	marrow2	Basal1	Plasma cell
+Marrow2_01_Basal1.fcs_spill_applied_Plasmacytoid DC.txt	M2_01_Basal1	unstim	marrow2	Basal1	Plasmacytoid DC
+Marrow2_01_Basal1.fcs_spill_applied_Platelet.txt	M2_01_Basal1	unstim	marrow2	Basal1	Platelet
+Marrow2_01_Basal1.fcs_spill_applied_Pre-B I.txt	M2_01_Basal1	unstim	marrow2	Basal1	Pre-B I
+Marrow2_01_Basal1.fcs_spill_applied_Pre-B II.txt	M2_01_Basal1	unstim	marrow2	Basal1	Pre-B II
+Marrow2_02_Basal2.fcs_spill_applied_CD11b- Monocyte.txt	M2_02_Basal2	unstim	marrow2	Basal2	CD11b- Monocyte
+Marrow2_02_Basal2.fcs_spill_applied_CD11bhi Monocyte.txt	M2_02_Basal2	unstim	marrow2	Basal2	CD11bhi Monocyte
+Marrow2_02_Basal2.fcs_spill_applied_CD11bmid Monocyte.txt	M2_02_Basal2	unstim	marrow2	Basal2	CD11bmid Monocyte
+Marrow2_02_Basal2.fcs_spill_applied_CMP.txt	M2_02_Basal2	unstim	marrow2	Basal2	CMP
+Marrow2_02_Basal2.fcs_spill_applied_Erythroblast.txt	M2_02_Basal2	unstim	marrow2	Basal2	Erythroblast
+Marrow2_02_Basal2.fcs_spill_applied_GMP.txt	M2_02_Basal2	unstim	marrow2	Basal2	GMP
+Marrow2_02_Basal2.fcs_spill_applied_HSC.txt	M2_02_Basal2	unstim	marrow2	Basal2	HSC
+Marrow2_02_Basal2.fcs_spill_applied_Immature B.txt	M2_02_Basal2	unstim	marrow2	Basal2	Immature B
+Marrow2_02_Basal2.fcs_spill_applied_Mature CD4+ T.txt	M2_02_Basal2	unstim	marrow2	Basal2	Memory CD4+ T
+Marrow2_02_Basal2.fcs_spill_applied_Mature CD8+ T.txt	M2_02_Basal2	unstim	marrow2	Basal2	Memory CD8+ T
+Marrow2_02_Basal2.fcs_spill_applied_Mature CD38lo B.txt	M2_02_Basal2	unstim	marrow2	Basal2	Mature CD38lo B
+Marrow2_02_Basal2.fcs_spill_applied_Mature CD38mid B.txt	M2_02_Basal2	unstim	marrow2	Basal2	Mature CD38mid B
+Marrow2_02_Basal2.fcs_spill_applied_Megakaryocyte.txt	M2_02_Basal2	unstim	marrow2	Basal2	Megakaryocyte
+Marrow2_02_Basal2.fcs_spill_applied_MEP.txt	M2_02_Basal2	unstim	marrow2	Basal2	MEP
+Marrow2_02_Basal2.fcs_spill_applied_MPP.txt	M2_02_Basal2	unstim	marrow2	Basal2	MPP
+Marrow2_02_Basal2.fcs_spill_applied_Myelocyte.txt	M2_02_Basal2	unstim	marrow2	Basal2	Myelocyte
+Marrow2_02_Basal2.fcs_spill_applied_Naive CD4+ T.txt	M2_02_Basal2	unstim	marrow2	Basal2	Naive CD4+ T
+Marrow2_02_Basal2.fcs_spill_applied_Naive CD8+ T.txt	M2_02_Basal2	unstim	marrow2	Basal2	Naive CD8+ T
+Marrow2_02_Basal2.fcs_spill_applied_NK.txt	M2_02_Basal2	unstim	marrow2	Basal2	NK
+Marrow2_02_Basal2.fcs_spill_applied_Plasma cell.txt	M2_02_Basal2	unstim	marrow2	Basal2	Plasma cell
+Marrow2_02_Basal2.fcs_spill_applied_Plasmacytoid DC.txt	M2_02_Basal2	unstim	marrow2	Basal2	Plasmacytoid DC
+Marrow2_02_Basal2.fcs_spill_applied_Platelet.txt	M2_02_Basal2	unstim	marrow2	Basal2	Platelet
+Marrow2_02_Basal2.fcs_spill_applied_Pre-B I.txt	M2_02_Basal2	unstim	marrow2	Basal2	Pre-B I
+Marrow2_02_Basal2.fcs_spill_applied_Pre-B II.txt	M2_02_Basal2	unstim	marrow2	Basal2	Pre-B II
+Marrow2_03_Basal3.fcs_spill_applied_CD11b- Monocyte.txt	M2_03_Basal3	unstim	marrow2	Basal3	CD11b- Monocyte
+Marrow2_03_Basal3.fcs_spill_applied_CD11bhi Monocyte.txt	M2_03_Basal3	unstim	marrow2	Basal3	CD11bhi Monocyte
+Marrow2_03_Basal3.fcs_spill_applied_CD11bmid Monocyte.txt	M2_03_Basal3	unstim	marrow2	Basal3	CD11bmid Monocyte
+Marrow2_03_Basal3.fcs_spill_applied_CMP.txt	M2_03_Basal3	unstim	marrow2	Basal3	CMP
+Marrow2_03_Basal3.fcs_spill_applied_Erythroblast.txt	M2_03_Basal3	unstim	marrow2	Basal3	Erythroblast
+Marrow2_03_Basal3.fcs_spill_applied_GMP.txt	M2_03_Basal3	unstim	marrow2	Basal3	GMP
+Marrow2_03_Basal3.fcs_spill_applied_HSC.txt	M2_03_Basal3	unstim	marrow2	Basal3	HSC
+Marrow2_03_Basal3.fcs_spill_applied_Immature B.txt	M2_03_Basal3	unstim	marrow2	Basal3	Immature B
+Marrow2_03_Basal3.fcs_spill_applied_Mature CD4+ T.txt	M2_03_Basal3	unstim	marrow2	Basal3	Memory CD4+ T
+Marrow2_03_Basal3.fcs_spill_applied_Mature CD8+ T.txt	M2_03_Basal3	unstim	marrow2	Basal3	Memory CD8+ T
+Marrow2_03_Basal3.fcs_spill_applied_Mature CD38lo B.txt	M2_03_Basal3	unstim	marrow2	Basal3	Mature CD38lo B
+Marrow2_03_Basal3.fcs_spill_applied_Mature CD38mid B.txt	M2_03_Basal3	unstim	marrow2	Basal3	Mature CD38mid B
+Marrow2_03_Basal3.fcs_spill_applied_Megakaryocyte.txt	M2_03_Basal3	unstim	marrow2	Basal3	Megakaryocyte
+Marrow2_03_Basal3.fcs_spill_applied_MEP.txt	M2_03_Basal3	unstim	marrow2	Basal3	MEP
+Marrow2_03_Basal3.fcs_spill_applied_MPP.txt	M2_03_Basal3	unstim	marrow2	Basal3	MPP
+Marrow2_03_Basal3.fcs_spill_applied_Myelocyte.txt	M2_03_Basal3	unstim	marrow2	Basal3	Myelocyte
+Marrow2_03_Basal3.fcs_spill_applied_Naive CD4+ T.txt	M2_03_Basal3	unstim	marrow2	Basal3	Naive CD4+ T
+Marrow2_03_Basal3.fcs_spill_applied_Naive CD8+ T.txt	M2_03_Basal3	unstim	marrow2	Basal3	Naive CD8+ T
+Marrow2_03_Basal3.fcs_spill_applied_NK.txt	M2_03_Basal3	unstim	marrow2	Basal3	NK
+Marrow2_03_Basal3.fcs_spill_applied_Plasma cell.txt	M2_03_Basal3	unstim	marrow2	Basal3	Plasma cell
+Marrow2_03_Basal3.fcs_spill_applied_Plasmacytoid DC.txt	M2_03_Basal3	unstim	marrow2	Basal3	Plasmacytoid DC
+Marrow2_03_Basal3.fcs_spill_applied_Platelet.txt	M2_03_Basal3	unstim	marrow2	Basal3	Platelet
+Marrow2_03_Basal3.fcs_spill_applied_Pre-B I.txt	M2_03_Basal3	unstim	marrow2	Basal3	Pre-B I
+Marrow2_03_Basal3.fcs_spill_applied_Pre-B II.txt	M2_03_Basal3	unstim	marrow2	Basal3	Pre-B II
+Marrow2_04_Basal4.fcs_spill_applied_CD11b- Monocyte.txt	M2_04_Basal4	unstim	marrow2	Basal4	CD11b- Monocyte
+Marrow2_04_Basal4.fcs_spill_applied_CD11bhi Monocyte.txt	M2_04_Basal4	unstim	marrow2	Basal4	CD11bhi Monocyte
+Marrow2_04_Basal4.fcs_spill_applied_CD11bmid Monocyte.txt	M2_04_Basal4	unstim	marrow2	Basal4	CD11bmid Monocyte
+Marrow2_04_Basal4.fcs_spill_applied_CMP.txt	M2_04_Basal4	unstim	marrow2	Basal4	CMP
+Marrow2_04_Basal4.fcs_spill_applied_Erythroblast.txt	M2_04_Basal4	unstim	marrow2	Basal4	Erythroblast
+Marrow2_04_Basal4.fcs_spill_applied_GMP.txt	M2_04_Basal4	unstim	marrow2	Basal4	GMP
+Marrow2_04_Basal4.fcs_spill_applied_HSC.txt	M2_04_Basal4	unstim	marrow2	Basal4	HSC
+Marrow2_04_Basal4.fcs_spill_applied_Immature B.txt	M2_04_Basal4	unstim	marrow2	Basal4	Immature B
+Marrow2_04_Basal4.fcs_spill_applied_Mature CD4+ T.txt	M2_04_Basal4	unstim	marrow2	Basal4	Memory CD4+ T
+Marrow2_04_Basal4.fcs_spill_applied_Mature CD8+ T.txt	M2_04_Basal4	unstim	marrow2	Basal4	Memory CD8+ T
+Marrow2_04_Basal4.fcs_spill_applied_Mature CD38lo B.txt	M2_04_Basal4	unstim	marrow2	Basal4	Mature CD38lo B
+Marrow2_04_Basal4.fcs_spill_applied_Mature CD38mid B.txt	M2_04_Basal4	unstim	marrow2	Basal4	Mature CD38mid B
+Marrow2_04_Basal4.fcs_spill_applied_Megakaryocyte.txt	M2_04_Basal4	unstim	marrow2	Basal4	Megakaryocyte
+Marrow2_04_Basal4.fcs_spill_applied_MEP.txt	M2_04_Basal4	unstim	marrow2	Basal4	MEP
+Marrow2_04_Basal4.fcs_spill_applied_MPP.txt	M2_04_Basal4	unstim	marrow2	Basal4	MPP
+Marrow2_04_Basal4.fcs_spill_applied_Myelocyte.txt	M2_04_Basal4	unstim	marrow2	Basal4	Myelocyte
+Marrow2_04_Basal4.fcs_spill_applied_Naive CD4+ T.txt	M2_04_Basal4	unstim	marrow2	Basal4	Naive CD4+ T
+Marrow2_04_Basal4.fcs_spill_applied_Naive CD8+ T.txt	M2_04_Basal4	unstim	marrow2	Basal4	Naive CD8+ T
+Marrow2_04_Basal4.fcs_spill_applied_NK.txt	M2_04_Basal4	unstim	marrow2	Basal4	NK
+Marrow2_04_Basal4.fcs_spill_applied_Plasma cell.txt	M2_04_Basal4	unstim	marrow2	Basal4	Plasma cell
+Marrow2_04_Basal4.fcs_spill_applied_Plasmacytoid DC.txt	M2_04_Basal4	unstim	marrow2	Basal4	Plasmacytoid DC
+Marrow2_04_Basal4.fcs_spill_applied_Platelet.txt	M2_04_Basal4	unstim	marrow2	Basal4	Platelet
+Marrow2_04_Basal4.fcs_spill_applied_Pre-B I.txt	M2_04_Basal4	unstim	marrow2	Basal4	Pre-B I
+Marrow2_04_Basal4.fcs_spill_applied_Pre-B II.txt	M2_04_Basal4	unstim	marrow2	Basal4	Pre-B II
+Marrow2_05_Basal5.fcs_spill_applied_CD11b- Monocyte.txt	M2_05_Basal5	unstim	marrow2	Basal5	CD11b- Monocyte
+Marrow2_05_Basal5.fcs_spill_applied_CD11bhi Monocyte.txt	M2_05_Basal5	unstim	marrow2	Basal5	CD11bhi Monocyte
+Marrow2_05_Basal5.fcs_spill_applied_CD11bmid Monocyte.txt	M2_05_Basal5	unstim	marrow2	Basal5	CD11bmid Monocyte
+Marrow2_05_Basal5.fcs_spill_applied_CMP.txt	M2_05_Basal5	unstim	marrow2	Basal5	CMP
+Marrow2_05_Basal5.fcs_spill_applied_Erythroblast.txt	M2_05_Basal5	unstim	marrow2	Basal5	Erythroblast
+Marrow2_05_Basal5.fcs_spill_applied_GMP.txt	M2_05_Basal5	unstim	marrow2	Basal5	GMP
+Marrow2_05_Basal5.fcs_spill_applied_HSC.txt	M2_05_Basal5	unstim	marrow2	Basal5	HSC
+Marrow2_05_Basal5.fcs_spill_applied_Immature B.txt	M2_05_Basal5	unstim	marrow2	Basal5	Immature B
+Marrow2_05_Basal5.fcs_spill_applied_Mature CD4+ T.txt	M2_05_Basal5	unstim	marrow2	Basal5	Memory CD4+ T
+Marrow2_05_Basal5.fcs_spill_applied_Mature CD8+ T.txt	M2_05_Basal5	unstim	marrow2	Basal5	Memory CD8+ T
+Marrow2_05_Basal5.fcs_spill_applied_Mature CD38lo B.txt	M2_05_Basal5	unstim	marrow2	Basal5	Mature CD38lo B
+Marrow2_05_Basal5.fcs_spill_applied_Mature CD38mid B.txt	M2_05_Basal5	unstim	marrow2	Basal5	Mature CD38mid B
+Marrow2_05_Basal5.fcs_spill_applied_Megakaryocyte.txt	M2_05_Basal5	unstim	marrow2	Basal5	Megakaryocyte
+Marrow2_05_Basal5.fcs_spill_applied_MEP.txt	M2_05_Basal5	unstim	marrow2	Basal5	MEP
+Marrow2_05_Basal5.fcs_spill_applied_MPP.txt	M2_05_Basal5	unstim	marrow2	Basal5	MPP
+Marrow2_05_Basal5.fcs_spill_applied_Myelocyte.txt	M2_05_Basal5	unstim	marrow2	Basal5	Myelocyte
+Marrow2_05_Basal5.fcs_spill_applied_Naive CD4+ T.txt	M2_05_Basal5	unstim	marrow2	Basal5	Naive CD4+ T
+Marrow2_05_Basal5.fcs_spill_applied_Naive CD8+ T.txt	M2_05_Basal5	unstim	marrow2	Basal5	Naive CD8+ T
+Marrow2_05_Basal5.fcs_spill_applied_NK.txt	M2_05_Basal5	unstim	marrow2	Basal5	NK
+Marrow2_05_Basal5.fcs_spill_applied_Plasma cell.txt	M2_05_Basal5	unstim	marrow2	Basal5	Plasma cell
+Marrow2_05_Basal5.fcs_spill_applied_Plasmacytoid DC.txt	M2_05_Basal5	unstim	marrow2	Basal5	Plasmacytoid DC
+Marrow2_05_Basal5.fcs_spill_applied_Platelet.txt	M2_05_Basal5	unstim	marrow2	Basal5	Platelet
+Marrow2_05_Basal5.fcs_spill_applied_Pre-B I.txt	M2_05_Basal5	unstim	marrow2	Basal5	Pre-B I
+Marrow2_05_Basal5.fcs_spill_applied_Pre-B II.txt	M2_05_Basal5	unstim	marrow2	Basal5	Pre-B II
+Marrow2_06_BCR.fcs_spill_applied_CD11b- Monocyte.txt	M2_06_BCR	stim	marrow2	BCR	CD11b- Monocyte
+Marrow2_06_BCR.fcs_spill_applied_CD11bhi Monocyte.txt	M2_06_BCR	stim	marrow2	BCR	CD11bhi Monocyte
+Marrow2_06_BCR.fcs_spill_applied_CD11bmid Monocyte.txt	M2_06_BCR	stim	marrow2	BCR	CD11bmid Monocyte
+Marrow2_06_BCR.fcs_spill_applied_CMP.txt	M2_06_BCR	stim	marrow2	BCR	CMP
+Marrow2_06_BCR.fcs_spill_applied_Erythroblast.txt	M2_06_BCR	stim	marrow2	BCR	Erythroblast
+Marrow2_06_BCR.fcs_spill_applied_GMP.txt	M2_06_BCR	stim	marrow2	BCR	GMP
+Marrow2_06_BCR.fcs_spill_applied_HSC.txt	M2_06_BCR	stim	marrow2	BCR	HSC
+Marrow2_06_BCR.fcs_spill_applied_Immature B.txt	M2_06_BCR	stim	marrow2	BCR	Immature B
+Marrow2_06_BCR.fcs_spill_applied_Mature CD4+ T.txt	M2_06_BCR	stim	marrow2	BCR	Memory CD4+ T
+Marrow2_06_BCR.fcs_spill_applied_Mature CD8+ T.txt	M2_06_BCR	stim	marrow2	BCR	Memory CD8+ T
+Marrow2_06_BCR.fcs_spill_applied_Mature CD38lo B.txt	M2_06_BCR	stim	marrow2	BCR	Mature CD38lo B
+Marrow2_06_BCR.fcs_spill_applied_Mature CD38mid B.txt	M2_06_BCR	stim	marrow2	BCR	Mature CD38mid B
+Marrow2_06_BCR.fcs_spill_applied_Megakaryocyte.txt	M2_06_BCR	stim	marrow2	BCR	Megakaryocyte
+Marrow2_06_BCR.fcs_spill_applied_MEP.txt	M2_06_BCR	stim	marrow2	BCR	MEP
+Marrow2_06_BCR.fcs_spill_applied_MPP.txt	M2_06_BCR	stim	marrow2	BCR	MPP
+Marrow2_06_BCR.fcs_spill_applied_Myelocyte.txt	M2_06_BCR	stim	marrow2	BCR	Myelocyte
+Marrow2_06_BCR.fcs_spill_applied_Naive CD4+ T.txt	M2_06_BCR	stim	marrow2	BCR	Naive CD4+ T
+Marrow2_06_BCR.fcs_spill_applied_Naive CD8+ T.txt	M2_06_BCR	stim	marrow2	BCR	Naive CD8+ T
+Marrow2_06_BCR.fcs_spill_applied_NK.txt	M2_06_BCR	stim	marrow2	BCR	NK
+Marrow2_06_BCR.fcs_spill_applied_Plasma cell.txt	M2_06_BCR	stim	marrow2	BCR	Plasma cell
+Marrow2_06_BCR.fcs_spill_applied_Plasmacytoid DC.txt	M2_06_BCR	stim	marrow2	BCR	Plasmacytoid DC
+Marrow2_06_BCR.fcs_spill_applied_Platelet.txt	M2_06_BCR	stim	marrow2	BCR	Platelet
+Marrow2_06_BCR.fcs_spill_applied_Pre-B I.txt	M2_06_BCR	stim	marrow2	BCR	Pre-B I
+Marrow2_06_BCR.fcs_spill_applied_Pre-B II.txt	M2_06_BCR	stim	marrow2	BCR	Pre-B II
+Marrow2_07_Flt3L.fcs_spill_applied_CD11b- Monocyte.txt	M2_07_Flt3L	stim	marrow2	Flt3L	CD11b- Monocyte
+Marrow2_07_Flt3L.fcs_spill_applied_CD11bhi Monocyte.txt	M2_07_Flt3L	stim	marrow2	Flt3L	CD11bhi Monocyte
+Marrow2_07_Flt3L.fcs_spill_applied_CD11bmid Monocyte.txt	M2_07_Flt3L	stim	marrow2	Flt3L	CD11bmid Monocyte
+Marrow2_07_Flt3L.fcs_spill_applied_CMP.txt	M2_07_Flt3L	stim	marrow2	Flt3L	CMP
+Marrow2_07_Flt3L.fcs_spill_applied_Erythroblast.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Erythroblast
+Marrow2_07_Flt3L.fcs_spill_applied_GMP.txt	M2_07_Flt3L	stim	marrow2	Flt3L	GMP
+Marrow2_07_Flt3L.fcs_spill_applied_HSC.txt	M2_07_Flt3L	stim	marrow2	Flt3L	HSC
+Marrow2_07_Flt3L.fcs_spill_applied_Immature B.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Immature B
+Marrow2_07_Flt3L.fcs_spill_applied_Mature CD4+ T.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Memory CD4+ T
+Marrow2_07_Flt3L.fcs_spill_applied_Mature CD8+ T.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Memory CD8+ T
+Marrow2_07_Flt3L.fcs_spill_applied_Mature CD38lo B.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Mature CD38lo B
+Marrow2_07_Flt3L.fcs_spill_applied_Mature CD38mid B.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Mature CD38mid B
+Marrow2_07_Flt3L.fcs_spill_applied_Megakaryocyte.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Megakaryocyte
+Marrow2_07_Flt3L.fcs_spill_applied_MEP.txt	M2_07_Flt3L	stim	marrow2	Flt3L	MEP
+Marrow2_07_Flt3L.fcs_spill_applied_MPP.txt	M2_07_Flt3L	stim	marrow2	Flt3L	MPP
+Marrow2_07_Flt3L.fcs_spill_applied_Myelocyte.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Myelocyte
+Marrow2_07_Flt3L.fcs_spill_applied_Naive CD4+ T.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Naive CD4+ T
+Marrow2_07_Flt3L.fcs_spill_applied_Naive CD8+ T.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Naive CD8+ T
+Marrow2_07_Flt3L.fcs_spill_applied_NK.txt	M2_07_Flt3L	stim	marrow2	Flt3L	NK
+Marrow2_07_Flt3L.fcs_spill_applied_Plasma cell.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Plasma cell
+Marrow2_07_Flt3L.fcs_spill_applied_Plasmacytoid DC.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Plasmacytoid DC
+Marrow2_07_Flt3L.fcs_spill_applied_Platelet.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Platelet
+Marrow2_07_Flt3L.fcs_spill_applied_Pre-B I.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Pre-B I
+Marrow2_07_Flt3L.fcs_spill_applied_Pre-B II.txt	M2_07_Flt3L	stim	marrow2	Flt3L	Pre-B II
+Marrow2_08_GCSF.fcs_spill_applied_CD11b- Monocyte.txt	M2_08_GCSF	stim	marrow2	GCSF	CD11b- Monocyte
+Marrow2_08_GCSF.fcs_spill_applied_CD11bhi Monocyte.txt	M2_08_GCSF	stim	marrow2	GCSF	CD11bhi Monocyte
+Marrow2_08_GCSF.fcs_spill_applied_CD11bmid Monocyte.txt	M2_08_GCSF	stim	marrow2	GCSF	CD11bmid Monocyte
+Marrow2_08_GCSF.fcs_spill_applied_CMP.txt	M2_08_GCSF	stim	marrow2	GCSF	CMP
+Marrow2_08_GCSF.fcs_spill_applied_Erythroblast.txt	M2_08_GCSF	stim	marrow2	GCSF	Erythroblast
+Marrow2_08_GCSF.fcs_spill_applied_GMP.txt	M2_08_GCSF	stim	marrow2	GCSF	GMP
+Marrow2_08_GCSF.fcs_spill_applied_HSC.txt	M2_08_GCSF	stim	marrow2	GCSF	HSC
+Marrow2_08_GCSF.fcs_spill_applied_Immature B.txt	M2_08_GCSF	stim	marrow2	GCSF	Immature B
+Marrow2_08_GCSF.fcs_spill_applied_Mature CD4+ T.txt	M2_08_GCSF	stim	marrow2	GCSF	Memory CD4+ T
+Marrow2_08_GCSF.fcs_spill_applied_Mature CD8+ T.txt	M2_08_GCSF	stim	marrow2	GCSF	Memory CD8+ T
+Marrow2_08_GCSF.fcs_spill_applied_Mature CD38lo B.txt	M2_08_GCSF	stim	marrow2	GCSF	Mature CD38lo B
+Marrow2_08_GCSF.fcs_spill_applied_Mature CD38mid B.txt	M2_08_GCSF	stim	marrow2	GCSF	Mature CD38mid B
+Marrow2_08_GCSF.fcs_spill_applied_Megakaryocyte.txt	M2_08_GCSF	stim	marrow2	GCSF	Megakaryocyte
+Marrow2_08_GCSF.fcs_spill_applied_MEP.txt	M2_08_GCSF	stim	marrow2	GCSF	MEP
+Marrow2_08_GCSF.fcs_spill_applied_MPP.txt	M2_08_GCSF	stim	marrow2	GCSF	MPP
+Marrow2_08_GCSF.fcs_spill_applied_Myelocyte.txt	M2_08_GCSF	stim	marrow2	GCSF	Myelocyte
+Marrow2_08_GCSF.fcs_spill_applied_Naive CD4+ T.txt	M2_08_GCSF	stim	marrow2	GCSF	Naive CD4+ T
+Marrow2_08_GCSF.fcs_spill_applied_Naive CD8+ T.txt	M2_08_GCSF	stim	marrow2	GCSF	Naive CD8+ T
+Marrow2_08_GCSF.fcs_spill_applied_NK.txt	M2_08_GCSF	stim	marrow2	GCSF	NK
+Marrow2_08_GCSF.fcs_spill_applied_Plasma cell.txt	M2_08_GCSF	stim	marrow2	GCSF	Plasma cell
+Marrow2_08_GCSF.fcs_spill_applied_Plasmacytoid DC.txt	M2_08_GCSF	stim	marrow2	GCSF	Plasmacytoid DC
+Marrow2_08_GCSF.fcs_spill_applied_Platelet.txt	M2_08_GCSF	stim	marrow2	GCSF	Platelet
+Marrow2_08_GCSF.fcs_spill_applied_Pre-B I.txt	M2_08_GCSF	stim	marrow2	GCSF	Pre-B I
+Marrow2_08_GCSF.fcs_spill_applied_Pre-B II.txt	M2_08_GCSF	stim	marrow2	GCSF	Pre-B II
+Marrow2_09_GMCSF.fcs_spill_applied_CD11b- Monocyte.txt	M2_09_GMCSF	stim	marrow2	GMCSF	CD11b- Monocyte
+Marrow2_09_GMCSF.fcs_spill_applied_CD11bhi Monocyte.txt	M2_09_GMCSF	stim	marrow2	GMCSF	CD11bhi Monocyte
+Marrow2_09_GMCSF.fcs_spill_applied_CD11bmid Monocyte.txt	M2_09_GMCSF	stim	marrow2	GMCSF	CD11bmid Monocyte
+Marrow2_09_GMCSF.fcs_spill_applied_CMP.txt	M2_09_GMCSF	stim	marrow2	GMCSF	CMP
+Marrow2_09_GMCSF.fcs_spill_applied_Erythroblast.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Erythroblast
+Marrow2_09_GMCSF.fcs_spill_applied_GMP.txt	M2_09_GMCSF	stim	marrow2	GMCSF	GMP
+Marrow2_09_GMCSF.fcs_spill_applied_HSC.txt	M2_09_GMCSF	stim	marrow2	GMCSF	HSC
+Marrow2_09_GMCSF.fcs_spill_applied_Immature B.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Immature B
+Marrow2_09_GMCSF.fcs_spill_applied_Mature CD4+ T.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Memory CD4+ T
+Marrow2_09_GMCSF.fcs_spill_applied_Mature CD8+ T.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Memory CD8+ T
+Marrow2_09_GMCSF.fcs_spill_applied_Mature CD38lo B.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Mature CD38lo B
+Marrow2_09_GMCSF.fcs_spill_applied_Mature CD38mid B.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Mature CD38mid B
+Marrow2_09_GMCSF.fcs_spill_applied_Megakaryocyte.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Megakaryocyte
+Marrow2_09_GMCSF.fcs_spill_applied_MEP.txt	M2_09_GMCSF	stim	marrow2	GMCSF	MEP
+Marrow2_09_GMCSF.fcs_spill_applied_MPP.txt	M2_09_GMCSF	stim	marrow2	GMCSF	MPP
+Marrow2_09_GMCSF.fcs_spill_applied_Myelocyte.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Myelocyte
+Marrow2_09_GMCSF.fcs_spill_applied_Naive CD4+ T.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Naive CD4+ T
+Marrow2_09_GMCSF.fcs_spill_applied_Naive CD8+ T.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Naive CD8+ T
+Marrow2_09_GMCSF.fcs_spill_applied_NK.txt	M2_09_GMCSF	stim	marrow2	GMCSF	NK
+Marrow2_09_GMCSF.fcs_spill_applied_Plasma cell.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Plasma cell
+Marrow2_09_GMCSF.fcs_spill_applied_Plasmacytoid DC.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Plasmacytoid DC
+Marrow2_09_GMCSF.fcs_spill_applied_Platelet.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Platelet
+Marrow2_09_GMCSF.fcs_spill_applied_Pre-B I.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Pre-B I
+Marrow2_09_GMCSF.fcs_spill_applied_Pre-B II.txt	M2_09_GMCSF	stim	marrow2	GMCSF	Pre-B II
+Marrow2_10_IFNa.fcs_spill_applied_CD11b- Monocyte.txt	M2_10_IFNa	stim	marrow2	IFNa	CD11b- Monocyte
+Marrow2_10_IFNa.fcs_spill_applied_CD11bhi Monocyte.txt	M2_10_IFNa	stim	marrow2	IFNa	CD11bhi Monocyte
+Marrow2_10_IFNa.fcs_spill_applied_CD11bmid Monocyte.txt	M2_10_IFNa	stim	marrow2	IFNa	CD11bmid Monocyte
+Marrow2_10_IFNa.fcs_spill_applied_CMP.txt	M2_10_IFNa	stim	marrow2	IFNa	CMP
+Marrow2_10_IFNa.fcs_spill_applied_Erythroblast.txt	M2_10_IFNa	stim	marrow2	IFNa	Erythroblast
+Marrow2_10_IFNa.fcs_spill_applied_GMP.txt	M2_10_IFNa	stim	marrow2	IFNa	GMP
+Marrow2_10_IFNa.fcs_spill_applied_HSC.txt	M2_10_IFNa	stim	marrow2	IFNa	HSC
+Marrow2_10_IFNa.fcs_spill_applied_Immature B.txt	M2_10_IFNa	stim	marrow2	IFNa	Immature B
+Marrow2_10_IFNa.fcs_spill_applied_Mature CD4+ T.txt	M2_10_IFNa	stim	marrow2	IFNa	Memory CD4+ T
+Marrow2_10_IFNa.fcs_spill_applied_Mature CD8+ T.txt	M2_10_IFNa	stim	marrow2	IFNa	Memory CD8+ T
+Marrow2_10_IFNa.fcs_spill_applied_Mature CD38lo B.txt	M2_10_IFNa	stim	marrow2	IFNa	Mature CD38lo B
+Marrow2_10_IFNa.fcs_spill_applied_Mature CD38mid B.txt	M2_10_IFNa	stim	marrow2	IFNa	Mature CD38mid B
+Marrow2_10_IFNa.fcs_spill_applied_Megakaryocyte.txt	M2_10_IFNa	stim	marrow2	IFNa	Megakaryocyte
+Marrow2_10_IFNa.fcs_spill_applied_MEP.txt	M2_10_IFNa	stim	marrow2	IFNa	MEP
+Marrow2_10_IFNa.fcs_spill_applied_MPP.txt	M2_10_IFNa	stim	marrow2	IFNa	MPP
+Marrow2_10_IFNa.fcs_spill_applied_Myelocyte.txt	M2_10_IFNa	stim	marrow2	IFNa	Myelocyte
+Marrow2_10_IFNa.fcs_spill_applied_Naive CD4+ T.txt	M2_10_IFNa	stim	marrow2	IFNa	Naive CD4+ T
+Marrow2_10_IFNa.fcs_spill_applied_Naive CD8+ T.txt	M2_10_IFNa	stim	marrow2	IFNa	Naive CD8+ T
+Marrow2_10_IFNa.fcs_spill_applied_NK.txt	M2_10_IFNa	stim	marrow2	IFNa	NK
+Marrow2_10_IFNa.fcs_spill_applied_Plasma cell.txt	M2_10_IFNa	stim	marrow2	IFNa	Plasma cell
+Marrow2_10_IFNa.fcs_spill_applied_Plasmacytoid DC.txt	M2_10_IFNa	stim	marrow2	IFNa	Plasmacytoid DC
+Marrow2_10_IFNa.fcs_spill_applied_Platelet.txt	M2_10_IFNa	stim	marrow2	IFNa	Platelet
+Marrow2_10_IFNa.fcs_spill_applied_Pre-B I.txt	M2_10_IFNa	stim	marrow2	IFNa	Pre-B I
+Marrow2_10_IFNa.fcs_spill_applied_Pre-B II.txt	M2_10_IFNa	stim	marrow2	IFNa	Pre-B II
+Marrow2_11_IL3.fcs_spill_applied_CD11b- Monocyte.txt	M2_11_IL3	stim	marrow2	IL3	CD11b- Monocyte
+Marrow2_11_IL3.fcs_spill_applied_CD11bhi Monocyte.txt	M2_11_IL3	stim	marrow2	IL3	CD11bhi Monocyte
+Marrow2_11_IL3.fcs_spill_applied_CD11bmid Monocyte.txt	M2_11_IL3	stim	marrow2	IL3	CD11bmid Monocyte
+Marrow2_11_IL3.fcs_spill_applied_CMP.txt	M2_11_IL3	stim	marrow2	IL3	CMP
+Marrow2_11_IL3.fcs_spill_applied_Erythroblast.txt	M2_11_IL3	stim	marrow2	IL3	Erythroblast
+Marrow2_11_IL3.fcs_spill_applied_GMP.txt	M2_11_IL3	stim	marrow2	IL3	GMP
+Marrow2_11_IL3.fcs_spill_applied_HSC.txt	M2_11_IL3	stim	marrow2	IL3	HSC
+Marrow2_11_IL3.fcs_spill_applied_Immature B.txt	M2_11_IL3	stim	marrow2	IL3	Immature B
+Marrow2_11_IL3.fcs_spill_applied_Mature CD4+ T.txt	M2_11_IL3	stim	marrow2	IL3	Memory CD4+ T
+Marrow2_11_IL3.fcs_spill_applied_Mature CD8+ T.txt	M2_11_IL3	stim	marrow2	IL3	Memory CD8+ T
+Marrow2_11_IL3.fcs_spill_applied_Mature CD38lo B.txt	M2_11_IL3	stim	marrow2	IL3	Mature CD38lo B
+Marrow2_11_IL3.fcs_spill_applied_Mature CD38mid B.txt	M2_11_IL3	stim	marrow2	IL3	Mature CD38mid B
+Marrow2_11_IL3.fcs_spill_applied_Megakaryocyte.txt	M2_11_IL3	stim	marrow2	IL3	Megakaryocyte
+Marrow2_11_IL3.fcs_spill_applied_MEP.txt	M2_11_IL3	stim	marrow2	IL3	MEP
+Marrow2_11_IL3.fcs_spill_applied_MPP.txt	M2_11_IL3	stim	marrow2	IL3	MPP
+Marrow2_11_IL3.fcs_spill_applied_Myelocyte.txt	M2_11_IL3	stim	marrow2	IL3	Myelocyte
+Marrow2_11_IL3.fcs_spill_applied_Naive CD4+ T.txt	M2_11_IL3	stim	marrow2	IL3	Naive CD4+ T
+Marrow2_11_IL3.fcs_spill_applied_Naive CD8+ T.txt	M2_11_IL3	stim	marrow2	IL3	Naive CD8+ T
+Marrow2_11_IL3.fcs_spill_applied_NK.txt	M2_11_IL3	stim	marrow2	IL3	NK
+Marrow2_11_IL3.fcs_spill_applied_Plasma cell.txt	M2_11_IL3	stim	marrow2	IL3	Plasma cell
+Marrow2_11_IL3.fcs_spill_applied_Plasmacytoid DC.txt	M2_11_IL3	stim	marrow2	IL3	Plasmacytoid DC
+Marrow2_11_IL3.fcs_spill_applied_Platelet.txt	M2_11_IL3	stim	marrow2	IL3	Platelet
+Marrow2_11_IL3.fcs_spill_applied_Pre-B I.txt	M2_11_IL3	stim	marrow2	IL3	Pre-B I
+Marrow2_11_IL3.fcs_spill_applied_Pre-B II.txt	M2_11_IL3	stim	marrow2	IL3	Pre-B II
+Marrow2_12_IL7.fcs_spill_applied_CD11b- Monocyte.txt	M2_12_IL7	stim	marrow2	IL7	CD11b- Monocyte
+Marrow2_12_IL7.fcs_spill_applied_CD11bhi Monocyte.txt	M2_12_IL7	stim	marrow2	IL7	CD11bhi Monocyte
+Marrow2_12_IL7.fcs_spill_applied_CD11bmid Monocyte.txt	M2_12_IL7	stim	marrow2	IL7	CD11bmid Monocyte
+Marrow2_12_IL7.fcs_spill_applied_CMP.txt	M2_12_IL7	stim	marrow2	IL7	CMP
+Marrow2_12_IL7.fcs_spill_applied_Erythroblast.txt	M2_12_IL7	stim	marrow2	IL7	Erythroblast
+Marrow2_12_IL7.fcs_spill_applied_GMP.txt	M2_12_IL7	stim	marrow2	IL7	GMP
+Marrow2_12_IL7.fcs_spill_applied_HSC.txt	M2_12_IL7	stim	marrow2	IL7	HSC
+Marrow2_12_IL7.fcs_spill_applied_Immature B.txt	M2_12_IL7	stim	marrow2	IL7	Immature B
+Marrow2_12_IL7.fcs_spill_applied_Mature CD4+ T.txt	M2_12_IL7	stim	marrow2	IL7	Memory CD4+ T
+Marrow2_12_IL7.fcs_spill_applied_Mature CD8+ T.txt	M2_12_IL7	stim	marrow2	IL7	Memory CD8+ T
+Marrow2_12_IL7.fcs_spill_applied_Mature CD38lo B.txt	M2_12_IL7	stim	marrow2	IL7	Mature CD38lo B
+Marrow2_12_IL7.fcs_spill_applied_Mature CD38mid B.txt	M2_12_IL7	stim	marrow2	IL7	Mature CD38mid B
+Marrow2_12_IL7.fcs_spill_applied_Megakaryocyte.txt	M2_12_IL7	stim	marrow2	IL7	Megakaryocyte
+Marrow2_12_IL7.fcs_spill_applied_MEP.txt	M2_12_IL7	stim	marrow2	IL7	MEP
+Marrow2_12_IL7.fcs_spill_applied_MPP.txt	M2_12_IL7	stim	marrow2	IL7	MPP
+Marrow2_12_IL7.fcs_spill_applied_Myelocyte.txt	M2_12_IL7	stim	marrow2	IL7	Myelocyte
+Marrow2_12_IL7.fcs_spill_applied_Naive CD4+ T.txt	M2_12_IL7	stim	marrow2	IL7	Naive CD4+ T
+Marrow2_12_IL7.fcs_spill_applied_Naive CD8+ T.txt	M2_12_IL7	stim	marrow2	IL7	Naive CD8+ T
+Marrow2_12_IL7.fcs_spill_applied_NK.txt	M2_12_IL7	stim	marrow2	IL7	NK
+Marrow2_12_IL7.fcs_spill_applied_Plasma cell.txt	M2_12_IL7	stim	marrow2	IL7	Plasma cell
+Marrow2_12_IL7.fcs_spill_applied_Plasmacytoid DC.txt	M2_12_IL7	stim	marrow2	IL7	Plasmacytoid DC
+Marrow2_12_IL7.fcs_spill_applied_Platelet.txt	M2_12_IL7	stim	marrow2	IL7	Platelet
+Marrow2_12_IL7.fcs_spill_applied_Pre-B I.txt	M2_12_IL7	stim	marrow2	IL7	Pre-B I
+Marrow2_12_IL7.fcs_spill_applied_Pre-B II.txt	M2_12_IL7	stim	marrow2	IL7	Pre-B II
+Marrow2_13_LPS.fcs_spill_applied_CD11b- Monocyte.txt	M2_13_LPS	stim	marrow2	LPS	CD11b- Monocyte
+Marrow2_13_LPS.fcs_spill_applied_CD11bhi Monocyte.txt	M2_13_LPS	stim	marrow2	LPS	CD11bhi Monocyte
+Marrow2_13_LPS.fcs_spill_applied_CD11bmid Monocyte.txt	M2_13_LPS	stim	marrow2	LPS	CD11bmid Monocyte
+Marrow2_13_LPS.fcs_spill_applied_CMP.txt	M2_13_LPS	stim	marrow2	LPS	CMP
+Marrow2_13_LPS.fcs_spill_applied_Erythroblast.txt	M2_13_LPS	stim	marrow2	LPS	Erythroblast
+Marrow2_13_LPS.fcs_spill_applied_GMP.txt	M2_13_LPS	stim	marrow2	LPS	GMP
+Marrow2_13_LPS.fcs_spill_applied_HSC.txt	M2_13_LPS	stim	marrow2	LPS	HSC
+Marrow2_13_LPS.fcs_spill_applied_Immature B.txt	M2_13_LPS	stim	marrow2	LPS	Immature B
+Marrow2_13_LPS.fcs_spill_applied_Mature CD4+ T.txt	M2_13_LPS	stim	marrow2	LPS	Memory CD4+ T
+Marrow2_13_LPS.fcs_spill_applied_Mature CD8+ T.txt	M2_13_LPS	stim	marrow2	LPS	Memory CD8+ T
+Marrow2_13_LPS.fcs_spill_applied_Mature CD38lo B.txt	M2_13_LPS	stim	marrow2	LPS	Mature CD38lo B
+Marrow2_13_LPS.fcs_spill_applied_Mature CD38mid B.txt	M2_13_LPS	stim	marrow2	LPS	Mature CD38mid B
+Marrow2_13_LPS.fcs_spill_applied_Megakaryocyte.txt	M2_13_LPS	stim	marrow2	LPS	Megakaryocyte
+Marrow2_13_LPS.fcs_spill_applied_MEP.txt	M2_13_LPS	stim	marrow2	LPS	MEP
+Marrow2_13_LPS.fcs_spill_applied_MPP.txt	M2_13_LPS	stim	marrow2	LPS	MPP
+Marrow2_13_LPS.fcs_spill_applied_Myelocyte.txt	M2_13_LPS	stim	marrow2	LPS	Myelocyte
+Marrow2_13_LPS.fcs_spill_applied_Naive CD4+ T.txt	M2_13_LPS	stim	marrow2	LPS	Naive CD4+ T
+Marrow2_13_LPS.fcs_spill_applied_Naive CD8+ T.txt	M2_13_LPS	stim	marrow2	LPS	Naive CD8+ T
+Marrow2_13_LPS.fcs_spill_applied_NK.txt	M2_13_LPS	stim	marrow2	LPS	NK
+Marrow2_13_LPS.fcs_spill_applied_Plasma cell.txt	M2_13_LPS	stim	marrow2	LPS	Plasma cell
+Marrow2_13_LPS.fcs_spill_applied_Plasmacytoid DC.txt	M2_13_LPS	stim	marrow2	LPS	Plasmacytoid DC
+Marrow2_13_LPS.fcs_spill_applied_Platelet.txt	M2_13_LPS	stim	marrow2	LPS	Platelet
+Marrow2_13_LPS.fcs_spill_applied_Pre-B I.txt	M2_13_LPS	stim	marrow2	LPS	Pre-B I
+Marrow2_13_LPS.fcs_spill_applied_Pre-B II.txt	M2_13_LPS	stim	marrow2	LPS	Pre-B II
+Marrow2_14_PMAiono.fcs_spill_applied_CD11b- Monocyte.txt	M2_14_PMAiono	stim	marrow2	PMAiono	CD11b- Monocyte
+Marrow2_14_PMAiono.fcs_spill_applied_CD11bhi Monocyte.txt	M2_14_PMAiono	stim	marrow2	PMAiono	CD11bhi Monocyte
+Marrow2_14_PMAiono.fcs_spill_applied_CD11bmid Monocyte.txt	M2_14_PMAiono	stim	marrow2	PMAiono	CD11bmid Monocyte
+Marrow2_14_PMAiono.fcs_spill_applied_CMP.txt	M2_14_PMAiono	stim	marrow2	PMAiono	CMP
+Marrow2_14_PMAiono.fcs_spill_applied_Erythroblast.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Erythroblast
+Marrow2_14_PMAiono.fcs_spill_applied_GMP.txt	M2_14_PMAiono	stim	marrow2	PMAiono	GMP
+Marrow2_14_PMAiono.fcs_spill_applied_HSC.txt	M2_14_PMAiono	stim	marrow2	PMAiono	HSC
+Marrow2_14_PMAiono.fcs_spill_applied_Immature B.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Immature B
+Marrow2_14_PMAiono.fcs_spill_applied_Mature CD4+ T.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Memory CD4+ T
+Marrow2_14_PMAiono.fcs_spill_applied_Mature CD8+ T.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Memory CD8+ T
+Marrow2_14_PMAiono.fcs_spill_applied_Mature CD38lo B.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Mature CD38lo B
+Marrow2_14_PMAiono.fcs_spill_applied_Mature CD38mid B.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Mature CD38mid B
+Marrow2_14_PMAiono.fcs_spill_applied_Megakaryocyte.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Megakaryocyte
+Marrow2_14_PMAiono.fcs_spill_applied_MEP.txt	M2_14_PMAiono	stim	marrow2	PMAiono	MEP
+Marrow2_14_PMAiono.fcs_spill_applied_MPP.txt	M2_14_PMAiono	stim	marrow2	PMAiono	MPP
+Marrow2_14_PMAiono.fcs_spill_applied_Myelocyte.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Myelocyte
+Marrow2_14_PMAiono.fcs_spill_applied_Naive CD4+ T.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Naive CD4+ T
+Marrow2_14_PMAiono.fcs_spill_applied_Naive CD8+ T.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Naive CD8+ T
+Marrow2_14_PMAiono.fcs_spill_applied_NK.txt	M2_14_PMAiono	stim	marrow2	PMAiono	NK
+Marrow2_14_PMAiono.fcs_spill_applied_Plasma cell.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Plasma cell
+Marrow2_14_PMAiono.fcs_spill_applied_Plasmacytoid DC.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Plasmacytoid DC
+Marrow2_14_PMAiono.fcs_spill_applied_Platelet.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Platelet
+Marrow2_14_PMAiono.fcs_spill_applied_Pre-B I.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Pre-B I
+Marrow2_14_PMAiono.fcs_spill_applied_Pre-B II.txt	M2_14_PMAiono	stim	marrow2	PMAiono	Pre-B II
+Marrow2_15_PVO4.fcs_spill_applied_CD11b- Monocyte.txt	M2_15_PVO4	stim	marrow2	PVO4	CD11b- Monocyte
+Marrow2_15_PVO4.fcs_spill_applied_CD11bhi Monocyte.txt	M2_15_PVO4	stim	marrow2	PVO4	CD11bhi Monocyte
+Marrow2_15_PVO4.fcs_spill_applied_CD11bmid Monocyte.txt	M2_15_PVO4	stim	marrow2	PVO4	CD11bmid Monocyte
+Marrow2_15_PVO4.fcs_spill_applied_CMP.txt	M2_15_PVO4	stim	marrow2	PVO4	CMP
+Marrow2_15_PVO4.fcs_spill_applied_Erythroblast.txt	M2_15_PVO4	stim	marrow2	PVO4	Erythroblast
+Marrow2_15_PVO4.fcs_spill_applied_GMP.txt	M2_15_PVO4	stim	marrow2	PVO4	GMP
+Marrow2_15_PVO4.fcs_spill_applied_HSC.txt	M2_15_PVO4	stim	marrow2	PVO4	HSC
+Marrow2_15_PVO4.fcs_spill_applied_Immature B.txt	M2_15_PVO4	stim	marrow2	PVO4	Immature B
+Marrow2_15_PVO4.fcs_spill_applied_Mature CD4+ T.txt	M2_15_PVO4	stim	marrow2	PVO4	Memory CD4+ T
+Marrow2_15_PVO4.fcs_spill_applied_Mature CD8+ T.txt	M2_15_PVO4	stim	marrow2	PVO4	Memory CD8+ T
+Marrow2_15_PVO4.fcs_spill_applied_Mature CD38lo B.txt	M2_15_PVO4	stim	marrow2	PVO4	Mature CD38lo B
+Marrow2_15_PVO4.fcs_spill_applied_Mature CD38mid B.txt	M2_15_PVO4	stim	marrow2	PVO4	Mature CD38mid B
+Marrow2_15_PVO4.fcs_spill_applied_Megakaryocyte.txt	M2_15_PVO4	stim	marrow2	PVO4	Megakaryocyte
+Marrow2_15_PVO4.fcs_spill_applied_MEP.txt	M2_15_PVO4	stim	marrow2	PVO4	MEP
+Marrow2_15_PVO4.fcs_spill_applied_MPP.txt	M2_15_PVO4	stim	marrow2	PVO4	MPP
+Marrow2_15_PVO4.fcs_spill_applied_Myelocyte.txt	M2_15_PVO4	stim	marrow2	PVO4	Myelocyte
+Marrow2_15_PVO4.fcs_spill_applied_Naive CD4+ T.txt	M2_15_PVO4	stim	marrow2	PVO4	Naive CD4+ T
+Marrow2_15_PVO4.fcs_spill_applied_Naive CD8+ T.txt	M2_15_PVO4	stim	marrow2	PVO4	Naive CD8+ T
+Marrow2_15_PVO4.fcs_spill_applied_NK.txt	M2_15_PVO4	stim	marrow2	PVO4	NK
+Marrow2_15_PVO4.fcs_spill_applied_Plasma cell.txt	M2_15_PVO4	stim	marrow2	PVO4	Plasma cell
+Marrow2_15_PVO4.fcs_spill_applied_Plasmacytoid DC.txt	M2_15_PVO4	stim	marrow2	PVO4	Plasmacytoid DC
+Marrow2_15_PVO4.fcs_spill_applied_Platelet.txt	M2_15_PVO4	stim	marrow2	PVO4	Platelet
+Marrow2_15_PVO4.fcs_spill_applied_Pre-B I.txt	M2_15_PVO4	stim	marrow2	PVO4	Pre-B I
+Marrow2_15_PVO4.fcs_spill_applied_Pre-B II.txt	M2_15_PVO4	stim	marrow2	PVO4	Pre-B II
+Marrow2_16_SCF.fcs_spill_applied_CD11b- Monocyte.txt	M2_16_SCF	stim	marrow2	SCF	CD11b- Monocyte
+Marrow2_16_SCF.fcs_spill_applied_CD11bhi Monocyte.txt	M2_16_SCF	stim	marrow2	SCF	CD11bhi Monocyte
+Marrow2_16_SCF.fcs_spill_applied_CD11bmid Monocyte.txt	M2_16_SCF	stim	marrow2	SCF	CD11bmid Monocyte
+Marrow2_16_SCF.fcs_spill_applied_CMP.txt	M2_16_SCF	stim	marrow2	SCF	CMP
+Marrow2_16_SCF.fcs_spill_applied_Erythroblast.txt	M2_16_SCF	stim	marrow2	SCF	Erythroblast
+Marrow2_16_SCF.fcs_spill_applied_GMP.txt	M2_16_SCF	stim	marrow2	SCF	GMP
+Marrow2_16_SCF.fcs_spill_applied_HSC.txt	M2_16_SCF	stim	marrow2	SCF	HSC
+Marrow2_16_SCF.fcs_spill_applied_Immature B.txt	M2_16_SCF	stim	marrow2	SCF	Immature B
+Marrow2_16_SCF.fcs_spill_applied_Mature CD4+ T.txt	M2_16_SCF	stim	marrow2	SCF	Memory CD4+ T
+Marrow2_16_SCF.fcs_spill_applied_Mature CD8+ T.txt	M2_16_SCF	stim	marrow2	SCF	Memory CD8+ T
+Marrow2_16_SCF.fcs_spill_applied_Mature CD38lo B.txt	M2_16_SCF	stim	marrow2	SCF	Mature CD38lo B
+Marrow2_16_SCF.fcs_spill_applied_Mature CD38mid B.txt	M2_16_SCF	stim	marrow2	SCF	Mature CD38mid B
+Marrow2_16_SCF.fcs_spill_applied_Megakaryocyte.txt	M2_16_SCF	stim	marrow2	SCF	Megakaryocyte
+Marrow2_16_SCF.fcs_spill_applied_MEP.txt	M2_16_SCF	stim	marrow2	SCF	MEP
+Marrow2_16_SCF.fcs_spill_applied_MPP.txt	M2_16_SCF	stim	marrow2	SCF	MPP
+Marrow2_16_SCF.fcs_spill_applied_Myelocyte.txt	M2_16_SCF	stim	marrow2	SCF	Myelocyte
+Marrow2_16_SCF.fcs_spill_applied_Naive CD4+ T.txt	M2_16_SCF	stim	marrow2	SCF	Naive CD4+ T
+Marrow2_16_SCF.fcs_spill_applied_Naive CD8+ T.txt	M2_16_SCF	stim	marrow2	SCF	Naive CD8+ T
+Marrow2_16_SCF.fcs_spill_applied_NK.txt	M2_16_SCF	stim	marrow2	SCF	NK
+Marrow2_16_SCF.fcs_spill_applied_Plasma cell.txt	M2_16_SCF	stim	marrow2	SCF	Plasma cell
+Marrow2_16_SCF.fcs_spill_applied_Plasmacytoid DC.txt	M2_16_SCF	stim	marrow2	SCF	Plasmacytoid DC
+Marrow2_16_SCF.fcs_spill_applied_Platelet.txt	M2_16_SCF	stim	marrow2	SCF	Platelet
+Marrow2_16_SCF.fcs_spill_applied_Pre-B I.txt	M2_16_SCF	stim	marrow2	SCF	Pre-B I
+Marrow2_16_SCF.fcs_spill_applied_Pre-B II.txt	M2_16_SCF	stim	marrow2	SCF	Pre-B II
+Marrow2_17_TNFa.fcs_spill_applied_CD11b- Monocyte.txt	M2_17_TNFa	stim	marrow2	TNFa	CD11b- Monocyte
+Marrow2_17_TNFa.fcs_spill_applied_CD11bhi Monocyte.txt	M2_17_TNFa	stim	marrow2	TNFa	CD11bhi Monocyte
+Marrow2_17_TNFa.fcs_spill_applied_CD11bmid Monocyte.txt	M2_17_TNFa	stim	marrow2	TNFa	CD11bmid Monocyte
+Marrow2_17_TNFa.fcs_spill_applied_CMP.txt	M2_17_TNFa	stim	marrow2	TNFa	CMP
+Marrow2_17_TNFa.fcs_spill_applied_Erythroblast.txt	M2_17_TNFa	stim	marrow2	TNFa	Erythroblast
+Marrow2_17_TNFa.fcs_spill_applied_GMP.txt	M2_17_TNFa	stim	marrow2	TNFa	GMP
+Marrow2_17_TNFa.fcs_spill_applied_HSC.txt	M2_17_TNFa	stim	marrow2	TNFa	HSC
+Marrow2_17_TNFa.fcs_spill_applied_Immature B.txt	M2_17_TNFa	stim	marrow2	TNFa	Immature B
+Marrow2_17_TNFa.fcs_spill_applied_Mature CD4+ T.txt	M2_17_TNFa	stim	marrow2	TNFa	Memory CD4+ T
+Marrow2_17_TNFa.fcs_spill_applied_Mature CD8+ T.txt	M2_17_TNFa	stim	marrow2	TNFa	Memory CD8+ T
+Marrow2_17_TNFa.fcs_spill_applied_Mature CD38lo B.txt	M2_17_TNFa	stim	marrow2	TNFa	Mature CD38lo B
+Marrow2_17_TNFa.fcs_spill_applied_Mature CD38mid B.txt	M2_17_TNFa	stim	marrow2	TNFa	Mature CD38mid B
+Marrow2_17_TNFa.fcs_spill_applied_Megakaryocyte.txt	M2_17_TNFa	stim	marrow2	TNFa	Megakaryocyte
+Marrow2_17_TNFa.fcs_spill_applied_MEP.txt	M2_17_TNFa	stim	marrow2	TNFa	MEP
+Marrow2_17_TNFa.fcs_spill_applied_MPP.txt	M2_17_TNFa	stim	marrow2	TNFa	MPP
+Marrow2_17_TNFa.fcs_spill_applied_Myelocyte.txt	M2_17_TNFa	stim	marrow2	TNFa	Myelocyte
+Marrow2_17_TNFa.fcs_spill_applied_Naive CD4+ T.txt	M2_17_TNFa	stim	marrow2	TNFa	Naive CD4+ T
+Marrow2_17_TNFa.fcs_spill_applied_Naive CD8+ T.txt	M2_17_TNFa	stim	marrow2	TNFa	Naive CD8+ T
+Marrow2_17_TNFa.fcs_spill_applied_NK.txt	M2_17_TNFa	stim	marrow2	TNFa	NK
+Marrow2_17_TNFa.fcs_spill_applied_Plasma cell.txt	M2_17_TNFa	stim	marrow2	TNFa	Plasma cell
+Marrow2_17_TNFa.fcs_spill_applied_Plasmacytoid DC.txt	M2_17_TNFa	stim	marrow2	TNFa	Plasmacytoid DC
+Marrow2_17_TNFa.fcs_spill_applied_Platelet.txt	M2_17_TNFa	stim	marrow2	TNFa	Platelet
+Marrow2_17_TNFa.fcs_spill_applied_Pre-B I.txt	M2_17_TNFa	stim	marrow2	TNFa	Pre-B I
+Marrow2_17_TNFa.fcs_spill_applied_Pre-B II.txt	M2_17_TNFa	stim	marrow2	TNFa	Pre-B II
+Marrow2_18_TPO.fcs_spill_applied_CD11b- Monocyte.txt	M2_18_TPO	stim	marrow2	TPO	CD11b- Monocyte
+Marrow2_18_TPO.fcs_spill_applied_CD11bhi Monocyte.txt	M2_18_TPO	stim	marrow2	TPO	CD11bhi Monocyte
+Marrow2_18_TPO.fcs_spill_applied_CD11bmid Monocyte.txt	M2_18_TPO	stim	marrow2	TPO	CD11bmid Monocyte
+Marrow2_18_TPO.fcs_spill_applied_CMP.txt	M2_18_TPO	stim	marrow2	TPO	CMP
+Marrow2_18_TPO.fcs_spill_applied_Erythroblast.txt	M2_18_TPO	stim	marrow2	TPO	Erythroblast
+Marrow2_18_TPO.fcs_spill_applied_GMP.txt	M2_18_TPO	stim	marrow2	TPO	GMP
+Marrow2_18_TPO.fcs_spill_applied_HSC.txt	M2_18_TPO	stim	marrow2	TPO	HSC
+Marrow2_18_TPO.fcs_spill_applied_Immature B.txt	M2_18_TPO	stim	marrow2	TPO	Immature B
+Marrow2_18_TPO.fcs_spill_applied_Mature CD4+ T.txt	M2_18_TPO	stim	marrow2	TPO	Memory CD4+ T
+Marrow2_18_TPO.fcs_spill_applied_Mature CD8+ T.txt	M2_18_TPO	stim	marrow2	TPO	Memory CD8+ T
+Marrow2_18_TPO.fcs_spill_applied_Mature CD38lo B.txt	M2_18_TPO	stim	marrow2	TPO	Mature CD38lo B
+Marrow2_18_TPO.fcs_spill_applied_Mature CD38mid B.txt	M2_18_TPO	stim	marrow2	TPO	Mature CD38mid B
+Marrow2_18_TPO.fcs_spill_applied_Megakaryocyte.txt	M2_18_TPO	stim	marrow2	TPO	Megakaryocyte
+Marrow2_18_TPO.fcs_spill_applied_MEP.txt	M2_18_TPO	stim	marrow2	TPO	MEP
+Marrow2_18_TPO.fcs_spill_applied_MPP.txt	M2_18_TPO	stim	marrow2	TPO	MPP
+Marrow2_18_TPO.fcs_spill_applied_Myelocyte.txt	M2_18_TPO	stim	marrow2	TPO	Myelocyte
+Marrow2_18_TPO.fcs_spill_applied_Naive CD4+ T.txt	M2_18_TPO	stim	marrow2	TPO	Naive CD4+ T
+Marrow2_18_TPO.fcs_spill_applied_Naive CD8+ T.txt	M2_18_TPO	stim	marrow2	TPO	Naive CD8+ T
+Marrow2_18_TPO.fcs_spill_applied_NK.txt	M2_18_TPO	stim	marrow2	TPO	NK
+Marrow2_18_TPO.fcs_spill_applied_Plasma cell.txt	M2_18_TPO	stim	marrow2	TPO	Plasma cell
+Marrow2_18_TPO.fcs_spill_applied_Plasmacytoid DC.txt	M2_18_TPO	stim	marrow2	TPO	Plasmacytoid DC
+Marrow2_18_TPO.fcs_spill_applied_Platelet.txt	M2_18_TPO	stim	marrow2	TPO	Platelet
+Marrow2_18_TPO.fcs_spill_applied_Pre-B I.txt	M2_18_TPO	stim	marrow2	TPO	Pre-B I
+Marrow2_18_TPO.fcs_spill_applied_Pre-B II.txt	M2_18_TPO	stim	marrow2	TPO	Pre-B II
+Marrow2_19_DMSO.fcs_spill_applied_CD11b- Monocyte.txt	M2_19_DMSO	stim	marrow2	DMSO	CD11b- Monocyte
+Marrow2_19_DMSO.fcs_spill_applied_CD11bhi Monocyte.txt	M2_19_DMSO	stim	marrow2	DMSO	CD11bhi Monocyte
+Marrow2_19_DMSO.fcs_spill_applied_CD11bmid Monocyte.txt	M2_19_DMSO	stim	marrow2	DMSO	CD11bmid Monocyte
+Marrow2_19_DMSO.fcs_spill_applied_CMP.txt	M2_19_DMSO	stim	marrow2	DMSO	CMP
+Marrow2_19_DMSO.fcs_spill_applied_Erythroblast.txt	M2_19_DMSO	stim	marrow2	DMSO	Erythroblast
+Marrow2_19_DMSO.fcs_spill_applied_GMP.txt	M2_19_DMSO	stim	marrow2	DMSO	GMP
+Marrow2_19_DMSO.fcs_spill_applied_HSC.txt	M2_19_DMSO	stim	marrow2	DMSO	HSC
+Marrow2_19_DMSO.fcs_spill_applied_Immature B.txt	M2_19_DMSO	stim	marrow2	DMSO	Immature B
+Marrow2_19_DMSO.fcs_spill_applied_Mature CD4+ T.txt	M2_19_DMSO	stim	marrow2	DMSO	Memory CD4+ T
+Marrow2_19_DMSO.fcs_spill_applied_Mature CD8+ T.txt	M2_19_DMSO	stim	marrow2	DMSO	Memory CD8+ T
+Marrow2_19_DMSO.fcs_spill_applied_Mature CD38lo B.txt	M2_19_DMSO	stim	marrow2	DMSO	Mature CD38lo B
+Marrow2_19_DMSO.fcs_spill_applied_Mature CD38mid B.txt	M2_19_DMSO	stim	marrow2	DMSO	Mature CD38mid B
+Marrow2_19_DMSO.fcs_spill_applied_Megakaryocyte.txt	M2_19_DMSO	stim	marrow2	DMSO	Megakaryocyte
+Marrow2_19_DMSO.fcs_spill_applied_MEP.txt	M2_19_DMSO	stim	marrow2	DMSO	MEP
+Marrow2_19_DMSO.fcs_spill_applied_MPP.txt	M2_19_DMSO	stim	marrow2	DMSO	MPP
+Marrow2_19_DMSO.fcs_spill_applied_Myelocyte.txt	M2_19_DMSO	stim	marrow2	DMSO	Myelocyte
+Marrow2_19_DMSO.fcs_spill_applied_Naive CD4+ T.txt	M2_19_DMSO	stim	marrow2	DMSO	Naive CD4+ T
+Marrow2_19_DMSO.fcs_spill_applied_Naive CD8+ T.txt	M2_19_DMSO	stim	marrow2	DMSO	Naive CD8+ T
+Marrow2_19_DMSO.fcs_spill_applied_NK.txt	M2_19_DMSO	stim	marrow2	DMSO	NK
+Marrow2_19_DMSO.fcs_spill_applied_Plasma cell.txt	M2_19_DMSO	stim	marrow2	DMSO	Plasma cell
+Marrow2_19_DMSO.fcs_spill_applied_Plasmacytoid DC.txt	M2_19_DMSO	stim	marrow2	DMSO	Plasmacytoid DC
+Marrow2_19_DMSO.fcs_spill_applied_Platelet.txt	M2_19_DMSO	stim	marrow2	DMSO	Platelet
+Marrow2_19_DMSO.fcs_spill_applied_Pre-B I.txt	M2_19_DMSO	stim	marrow2	DMSO	Pre-B I
+Marrow2_19_DMSO.fcs_spill_applied_Pre-B II.txt	M2_19_DMSO	stim	marrow2	DMSO	Pre-B II
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_CD11b- Monocyte.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	CD11b- Monocyte
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_CD11bhi Monocyte.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	CD11bhi Monocyte
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_CD11bmid Monocyte.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	CD11bmid Monocyte
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_CMP.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	CMP
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Erythroblast.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Erythroblast
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_GMP.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	GMP
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_HSC.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	HSC
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Immature B.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Immature B
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Mature CD4+ T.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Memory CD4+ T
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Mature CD8+ T.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Memory CD8+ T
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Mature CD38lo B.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Mature CD38lo B
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Mature CD38mid B.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Mature CD38mid B
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Megakaryocyte.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Megakaryocyte
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_MEP.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	MEP
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_MPP.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	MPP
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Myelocyte.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Myelocyte
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Naive CD4+ T.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Naive CD4+ T
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Naive CD8+ T.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Naive CD8+ T
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_NK.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	NK
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Plasma cell.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Plasma cell
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Plasmacytoid DC.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Plasmacytoid DC
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Platelet.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Platelet
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Pre-B I.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Pre-B I
+Marrow2_20_Dasatinib+Basal.fcs_spill_applied_Marrow2_20_Dasatinib+Basal.fcs - Marrow2_20_Dasatinib+Basal.fcs_Pre-B II.txt	M2_20_Dasatinib_Basal	stim	marrow2	Dasatinib_Basal	Pre-B II
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_CD11b- Monocyte.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	CD11b- Monocyte
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_CD11bhi Monocyte.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	CD11bhi Monocyte
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_CD11bmid Monocyte.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	CD11bmid Monocyte
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_CMP.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	CMP
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Erythroblast.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Erythroblast
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_GMP.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	GMP
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_HSC.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	HSC
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Immature B.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Immature B
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Mature CD4+ T.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Memory CD4+ T
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Mature CD8+ T.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Memory CD8+ T
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Mature CD38lo B.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Mature CD38lo B
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Mature CD38mid B.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Mature CD38mid B
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Megakaryocyte.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Megakaryocyte
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_MEP.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	MEP
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_MPP.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	MPP
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Myelocyte.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Myelocyte
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Naive CD4+ T.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Naive CD4+ T
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Naive CD8+ T.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Naive CD8+ T
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_NK.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	NK
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Plasma cell.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Plasma cell
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Plasmacytoid DC.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Plasmacytoid DC
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Platelet.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Platelet
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Pre-B I.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Pre-B I
+Marrow2_21_Dasatinib+BCR.fcs_spill_applied_Marrow2_21_Dasatinib+BCR.fcs - Marrow2_21_Dasatinib+BCR.fcs_Pre-B II.txt	M2_21_Dasatinib_BCR	stim	marrow2	Dasatinib_BCR	Pre-B II
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_CD11b- Monocyte.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	CD11b- Monocyte
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_CD11bhi Monocyte.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	CD11bhi Monocyte
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_CD11bmid Monocyte.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	CD11bmid Monocyte
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_CMP.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	CMP
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Erythroblast.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Erythroblast
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_GMP.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	GMP
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_HSC.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	HSC
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Immature B.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Immature B
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Mature CD4+ T.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Memory CD4+ T
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Mature CD8+ T.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Memory CD8+ T
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Mature CD38lo B.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Mature CD38lo B
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Mature CD38mid B.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Mature CD38mid B
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Megakaryocyte.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Megakaryocyte
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_MEP.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	MEP
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_MPP.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	MPP
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Myelocyte.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Myelocyte
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Naive CD4+ T.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Naive CD4+ T
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Naive CD8+ T.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Naive CD8+ T
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_NK.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	NK
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Plasma cell.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Plasma cell
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Plasmacytoid DC.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Plasmacytoid DC
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Platelet.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Platelet
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Pre-B I.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Pre-B I
+Marrow2_22_Dasatinib+Flt3L.fcs_spill_applied_Marrow2_22_Dasatinib+Flt3L.fcs - Marrow2_22_Dasatinib+Flt3L.fcs_Pre-B II.txt	M2_22_Dasatinib_Flt3L	stim	marrow2	Dasatinib_Flt3L	Pre-B II
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_CD11b- Monocyte.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	CD11b- Monocyte
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_CD11bhi Monocyte.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	CD11bhi Monocyte
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_CD11bmid Monocyte.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	CD11bmid Monocyte
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_CMP.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	CMP
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Erythroblast.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Erythroblast
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_GMP.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	GMP
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_HSC.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	HSC
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Immature B.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Immature B
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Mature CD4+ T.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Memory CD4+ T
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Mature CD8+ T.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Memory CD8+ T
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Mature CD38lo B.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Mature CD38lo B
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Mature CD38mid B.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Mature CD38mid B
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Megakaryocyte.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Megakaryocyte
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_MEP.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	MEP
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_MPP.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	MPP
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Myelocyte.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Myelocyte
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Naive CD4+ T.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Naive CD4+ T
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Naive CD8+ T.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Naive CD8+ T
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_NK.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	NK
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Plasma cell.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Plasma cell
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Plasmacytoid DC.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Plasmacytoid DC
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Platelet.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Platelet
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Pre-B I.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Pre-B I
+Marrow2_23_Dasatinib+IL7.fcs_spill_applied_Marrow2_23_Dasatinib+IL7.fcs - Marrow2_23_Dasatinib+IL7.fcs_Pre-B II.txt	M2_23_Dasatinib_IL7	stim	marrow2	Dasatinib_IL7	Pre-B II
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_CD11b- Monocyte.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	CD11b- Monocyte
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_CD11bhi Monocyte.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	CD11bhi Monocyte
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_CD11bmid Monocyte.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	CD11bmid Monocyte
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_CMP.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	CMP
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Erythroblast.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Erythroblast
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_GMP.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	GMP
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_HSC.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	HSC
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Immature B.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Immature B
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Mature CD4+ T.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Memory CD4+ T
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Mature CD8+ T.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Memory CD8+ T
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Mature CD38lo B.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Mature CD38lo B
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Mature CD38mid B.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Mature CD38mid B
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Megakaryocyte.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Megakaryocyte
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_MEP.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	MEP
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_MPP.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	MPP
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Myelocyte.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Myelocyte
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Naive CD4+ T.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Naive CD4+ T
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Naive CD8+ T.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Naive CD8+ T
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_NK.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	NK
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Plasma cell.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Plasma cell
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Plasmacytoid DC.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Plasmacytoid DC
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Platelet.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Platelet
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Pre-B I.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Pre-B I
+Marrow2_24_Dasatinib+PMAiono.fcs_spill_applied_Marrow2_24_Dasatinib+PMAiono.fcs - Marrow2_24_Dasatinib+PMAiono.fcs_Pre-B II.txt	M2_24_Dasatinib_PMAiono	stim	marrow2	Dasatinib_PMAiono	Pre-B II
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_CD11b- Monocyte.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	CD11b- Monocyte
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_CD11bhi Monocyte.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	CD11bhi Monocyte
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_CD11bmid Monocyte.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	CD11bmid Monocyte
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_CMP.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	CMP
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Erythroblast.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Erythroblast
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_GMP.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	GMP
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_HSC.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	HSC
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Immature B.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Immature B
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Mature CD4+ T.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Memory CD4+ T
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Mature CD8+ T.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Memory CD8+ T
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Mature CD38lo B.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Mature CD38lo B
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Mature CD38mid B.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Mature CD38mid B
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Megakaryocyte.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Megakaryocyte
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_MEP.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	MEP
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_MPP.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	MPP
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Myelocyte.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Myelocyte
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Naive CD4+ T.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Naive CD4+ T
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Naive CD8+ T.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Naive CD8+ T
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_NK.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	NK
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Plasma cell.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Plasma cell
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Plasmacytoid DC.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Plasmacytoid DC
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Platelet.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Platelet
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Pre-B I.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Pre-B I
+Marrow2_25_Dasatinib+PVO4.fcs_spill_applied_Marrow2_25_Dasatinib+PVO4.fcs - Marrow2_25_Dasatinib+PVO4.fcs_Pre-B II.txt	M2_25_Dasatinib_PVO4	stim	marrow2	Dasatinib_PVO4	Pre-B II
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_CD11b- Monocyte.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	CD11b- Monocyte
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_CD11bhi Monocyte.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	CD11bhi Monocyte
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_CD11bmid Monocyte.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	CD11bmid Monocyte
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_CMP.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	CMP
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Erythroblast.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Erythroblast
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_GMP.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	GMP
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_HSC.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	HSC
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Immature B.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Immature B
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Mature CD4+ T.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Memory CD4+ T
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Mature CD8+ T.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Memory CD8+ T
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Mature CD38lo B.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Mature CD38lo B
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Mature CD38mid B.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Mature CD38mid B
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Megakaryocyte.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Megakaryocyte
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_MEP.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	MEP
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_MPP.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	MPP
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Myelocyte.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Myelocyte
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Naive CD4+ T.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Naive CD4+ T
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Naive CD8+ T.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Naive CD8+ T
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_NK.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	NK
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Plasma cell.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Plasma cell
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Plasmacytoid DC.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Plasmacytoid DC
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Platelet.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Platelet
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Pre-B I.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Pre-B I
+Marrow2_26_JAKi+Basal.fcs_spill_applied_Marrow2_26_JAKi+Basal.fcs - Marrow2_26_JAKi+Basal.fcs_Pre-B II.txt	M2_26_JAKi_Basal	stim	marrow2	JAKi_Basal	Pre-B II
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_CD11b- Monocyte.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	CD11b- Monocyte
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_CD11bhi Monocyte.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	CD11bhi Monocyte
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_CD11bmid Monocyte.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	CD11bmid Monocyte
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_CMP.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	CMP
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Erythroblast.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Erythroblast
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_GMP.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	GMP
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_HSC.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	HSC
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Immature B.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Immature B
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Mature CD4+ T.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Memory CD4+ T
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Mature CD8+ T.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Memory CD8+ T
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Mature CD38lo B.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Mature CD38lo B
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Mature CD38mid B.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Mature CD38mid B
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Megakaryocyte.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Megakaryocyte
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_MEP.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	MEP
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_MPP.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	MPP
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Myelocyte.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Myelocyte
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Naive CD4+ T.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Naive CD4+ T
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Naive CD8+ T.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Naive CD8+ T
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_NK.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	NK
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Plasma cell.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Plasma cell
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Plasmacytoid DC.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Plasmacytoid DC
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Platelet.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Platelet
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Pre-B I.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Pre-B I
+Marrow2_27_JAKi+GCSF.fcs_spill_applied_Marrow2_27_JAKi+GCSF.fcs - Marrow2_27_JAKi+GCSF.fcs_Pre-B II.txt	M2_27_JAKi_GCSF	stim	marrow2	JAKi_GCSF	Pre-B II
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_CD11b- Monocyte.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	CD11b- Monocyte
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_CD11bhi Monocyte.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	CD11bhi Monocyte
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_CD11bmid Monocyte.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	CD11bmid Monocyte
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_CMP.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	CMP
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Erythroblast.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Erythroblast
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_GMP.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	GMP
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_HSC.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	HSC
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Immature B.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Immature B
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Mature CD4+ T.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Memory CD4+ T
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Mature CD8+ T.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Memory CD8+ T
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Mature CD38lo B.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Mature CD38lo B
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Mature CD38mid B.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Mature CD38mid B
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Megakaryocyte.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Megakaryocyte
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_MEP.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	MEP
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_MPP.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	MPP
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Myelocyte.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Myelocyte
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Naive CD4+ T.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Naive CD4+ T
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Naive CD8+ T.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Naive CD8+ T
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_NK.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	NK
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Plasma cell.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Plasma cell
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Plasmacytoid DC.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Plasmacytoid DC
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Platelet.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Platelet
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Pre-B I.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Pre-B I
+Marrow2_28_U0126+Basal.fcs_spill_applied_Marrow2_28_U0126+Basal.fcs - Marrow2_28_U0126+Basal.fcs_Pre-B II.txt	M2_28_U0126_Basal	stim	marrow2	U0126_Basal	Pre-B II
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_CD11b- Monocyte.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	CD11b- Monocyte
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_CD11bhi Monocyte.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	CD11bhi Monocyte
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_CD11bmid Monocyte.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	CD11bmid Monocyte
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_CMP.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	CMP
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Erythroblast.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Erythroblast
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_GMP.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	GMP
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_HSC.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	HSC
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Immature B.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Immature B
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Mature CD4+ T.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Memory CD4+ T
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Mature CD8+ T.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Memory CD8+ T
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Mature CD38lo B.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Mature CD38lo B
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Mature CD38mid B.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Mature CD38mid B
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Megakaryocyte.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Megakaryocyte
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_MEP.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	MEP
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_MPP.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	MPP
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Myelocyte.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Myelocyte
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Naive CD4+ T.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Naive CD4+ T
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Naive CD8+ T.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Naive CD8+ T
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_NK.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	NK
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Plasma cell.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Plasma cell
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Plasmacytoid DC.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Plasmacytoid DC
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Platelet.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Platelet
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Pre-B I.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Pre-B I
+Marrow2_29_U0126+PMAiono.fcs_spill_applied_Marrow2_29_U0126+PMAiono.fcs - Marrow2_29_U0126+PMAiono.fcs_Pre-B II.txt	M2_29_U0126_PMAiono	stim	marrow2	U0126_PMAiono	Pre-B II
