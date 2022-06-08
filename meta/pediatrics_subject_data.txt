@@ -1,0 +1,82 @@
+patient_id	rna_sample_id	age_at_sample	gender	ethnicity	group	cat_of_case	walker_criteria	cytof_phenotyping	cytof_stimulation
+Mito-028	MINI_14	6.88	F	H:U	Case	CV	D	1	1
+Mito-034	MINI_17	10.72	F	N:W	Case	"CI, CV"	D	1	1
+Mito-035	MINI_18	58.38	F	N:W	Case	CI-IV	D	1	0
+Mito-036	MINI_19	53.68	F	N:W	Case	"CI,CIV"	D	1	0
+Mito-037	MINI_20	4.58	M	H:M	Case	CI	D	1	1
+Mito-038	MINI_21	8.71	F	N:B	Case	"CI,CIV"	D	1	1
+Mito-039	MINI_22	20.71	M	N:W	Case	CI	D	1	0
+Mito-043	MINI_23	35.2	M	N:W	Case	CIV	D	1	0
+Mito-044	MINI_24	11.19	M	N:W	Case	CI	D	1	1
+Mito-045	MINI_25	6.64	F	N:W	Case	CI-IV	D	1	1
+Mito-067	MINI_41	4.76	F	N:W	Case	CI	D	1	1
+Mito-071	MINI_45	38.39	F	H:W	Case	CI	D	1	0
+Mito-072	MINI_46	7.97	F	N:W	Case	CI	D	1	1
+Mito-076	MINI_48	7.07	M	N:B	Case	CII	D	1	0
+Mito-082	MINI_52	21.85	F	H:W	Case	CI-IV	D	1	0
+Mito-083	MINI_53	47.26	F	H:W	Case	CI-IV	D	1	0
+Mito-086	MINI_55	51.62	M	N:W	Case	CV	D	1	0
+Mito-088	MINI_56	4.06	M	H:W	Case	CIV	D	1	1
+Mito-112	MINI_77	13.86	M		Case	"CI, CIV"	D	1	1
+Mito-030	MINI_15	14.96	M	N:W	Case	CIII	D	1	1
+Mito-046	MINI_26	34.42	F	H:U	Case	"CIII,CIV"	P	1	0
+Mito-047	MINI_27	10.52	M	H:W	Case	CIII	P	1	1
+Mito-058	MINI_37	29.18	F	N:A	Case	CI	P	1	0
+Mito-068	MINI_42	8.38	M	N:W	Case	CI-IV	P	1	1
+Mito-069	MINI_43	11.91	M	N:W	Case	CI	P	1	1
+Mito-070	MINI_44	2.51	F	N:W	Case	CI	P	1	1
+Mito-073	MINI_47	11.19	M	H:W	Case	"CI, CII, CIV"	P	1	1
+Mito-077	MINI_49	14.94	M	H:W	Case	CI-IV	P	1	1
+Mito-078	MINI_50	14.5	F	H:W	Case	CI-IV	P	1	1
+Mito-081	MINI_51	6.75	M	H:W	Case	CI	P	1	1
+Mito-084	MINI_54	12.04	F	H:W	Case	CI	P	1	1
+Mito-089	MINI_57	4.82	M	H:W	Case	CI	P	1	1
+Mito-011	MINI_01	22.9	F	N:W	Control			1	0
+Mito-012	MINI_02	12	M	N:W	Control			1	1
+Mito-013	MINI_03	51.49	F	N:W	Control			1	0
+Mito-016	MINI_04	7.1	F	N:W	Control			0	0
+Mito-017	MINI_05	10.38	F	N:W	Control			0	0
+Mito-018	MINI_06	12.82	F	N:W	Control			1	1
+Mito-019	MINI_07	3.37	F	N:M	Control			1	1
+Mito-020	MINI_08	5.52	M	N:M	Control			1	1
+Mito-021	MINI_09	5.62	F	N:W	Control			0	0
+Mito-022	MINI_10	8.44	M	N:W	Control			1	1
+Mito-023	MINI_11	14.72	M	N:M	Control			1	1
+Mito-025	MINI_12	3.99	F	N:W	Control			0	0
+Mito-026	MINI_13	6.12	F	N:W	Control			0	0
+Mito-031	MINI_16	14.55	F	N:W	Control			1	1
+Mito-048	MINI_28	32.82	F	N:U	Control			1	0
+Mito-050	MINI_29	35.81	F	N:B	Control			1	0
+Mito-051	MINI_30	32.92	M	N:W	Control			1	0
+Mito-052	MINI_31	5.87	F	H:W	Control			0	0
+Mito-053	MINI_32	9.23	M	N:B	Control			0	0
+Mito-054	MINI_33	12.95	M	N:B	Control			1	1
+Mito-055	MINI_34	10.88	M	N:B	Control			1	1
+Mito-056	MINI_35	4.99	M	H:M	Control			1	1
+Mito-057	MINI_36	3.43	M	H:M	Control			0	0
+Mito-062	MINI_38	13.62	F	N:W	Control			0	0
+Mito-063	MINI_39	16.27	M	N:W	Control			1	1
+Mito-064	MINI_40	15.21	M	N:B	Control			1	1
+Mito-090	MINI_58	35.94	F		Control			1	0
+Mito-091	MINI_59	7.05	F		Control			1	1
+Mito-093	MINI_60	3.82	M		Control			1	1
+Mito-095	MINI_61	24.31	F		Control			1	0
+Mito-096	MINI_62	22.61	F		Control			1	0
+Mito-097	MINI_63	15.15	F		Control			0	0
+Mito-098	MINI_64	35.52	M		Control			1	0
+Mito-099	MINI_65	21.97	M		Control			0	0
+Mito-101	MINI_66	21.93	M		Control			0	0
+Mito-102	MINI_67	19.88	M		Control			1	0
+Mito-103	MINI_68	8.5	F		Control			1	1
+Mito-104	MINI_69	3.81	M		Control			0	0
+Mito-105	MINI_70	9.26	M		Control			1	1
+Mito-106	MINI_71	15.45	F		Control			0	0
+Mito-107	MINI_72	10.99	F		Control			0	0
+Mito-108	MINI_73	6.56	F		Control			1	0
+Mito-109	MINI_74	10.79	F		Control			0	0
+Mito-110	MINI_75	4.95	F		Control			1	1
+Mito-111	MINI_76	9.05	M		Control			0	0
+Mito-113	MINI_78	8.81	F		Control			1	1
+Mito-114	MINI_79	10.66	F		Control			1	1
+Mito-115	MINI_80	4.95	M		Control			1	1
+Mito-116	MINI_81	8.91	M		Control			1	1

@@ -28,3 +28,37 @@ scripts/bone_marrow/stimulated_vs_unstimulated_fc_IFNa.R
 ```
 scripts/bone_marrow/stimulated_well_heatmap_IFNa.R
 ```
+
+## Pediatrics dataset
+## HDStIM run, diagnostic plots (not in the paper) and marker ranking
+```
+scripts/pediatrics/HDStIM_run.R 
+scripts/pediatrics/HDStIM_diagnostic_plots.R
+scripts/pediatrics/corrections_to_HDStIM_output.R
+```
+
+### Figures from pediatrics dataset
+#### Figure 2 A
+```
+scripts/pediatrics/pediatrics_age_distribution.R
+```
+
+#### Figure 2 B
+```
+scripts/pediatrics/resp_noresp_marker_ranking_heatmap.R
+```
+
+#### Figure 2 C
+```
+scripts/pediatrics/resp_delta_lm_frac_bubble.R
+```
+
+#### Figure 2 D
+```
+scripts/pediatrics/resp_unstim_spline_heatmap.R
+```
+
+#### Figure 2 E
+```
+scripts/pediatrics/resp_unstim_mag_ranking.R
+```
