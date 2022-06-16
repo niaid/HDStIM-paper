@@ -8,8 +8,8 @@ library(ComplexHeatmap)
 library(circlize)
 library(DescTools)
 
-results_folder <- file.path("results", "pediatrics")
-figures_folder <- file.path("figures", "pediatrics")
+results_folder <- file.path("results", "pediatric")
+figures_folder <- file.path("figures", "pediatric")
 
 stop()
 # Figures path.

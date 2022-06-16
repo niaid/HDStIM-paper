@@ -6,8 +6,8 @@ library(tidyverse)
 library(ComplexHeatmap)
 library(circlize)
 
-results_folder <- file.path("results", "pediatrics")
-figures_folder <- file.path("figures", "pediatrics")
+results_folder <- file.path("results", "pediatric")
+figures_folder <- file.path("figures", "pediatric")
 
 # Load fraction lm data based on ranks. 
 frac_lm <- read_tsv(file.path(results_folder, "resp_unstim_frac_spline_rank_no_gender.tsv"))

@@ -7,8 +7,8 @@ library(tidyverse)
 library(ComplexHeatmap)
 library(circlize)
 
-results_folder <- file.path("results", "pediatrics")
-figures_folder <- file.path("figures", "pediatrics")
+results_folder <- file.path("results", "pediatric")
+figures_folder <- file.path("figures", "pediatric")
 
 # CASE
 # Load fraction lm data based on ranks. 

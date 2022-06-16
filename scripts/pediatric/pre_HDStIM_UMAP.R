@@ -6,18 +6,18 @@
 library(tidyverse)
 library(uwot)
 
-results_folder <- file.path("results", "pediatrics")
-figures_folder <- file.path("figures", "pediatrics")
+results_folder <- file.path("results", "pediatric")
+figures_folder <- file.path("figures", "pediatric")
 
 # Load exported data after manual merging of clusters. 
 dat <- readRDS(file.path(results_folder, "dat_all_meta.rds"))
 dat <- as_tibble(dat)
 
 # Load panel file.
-panel <- read.table(file.path("meta", "pediatrics_stim_panel.txt"), sep = "\t", header = TRUE)
+panel <- read.table(file.path("meta", "pediatric_stim_panel.txt"), sep = "\t", header = TRUE)
 
 # Load args file.
-args_file <- read.table(file.path("meta", "pediatrics_fcs_info.txt"), sep = "\t", header = TRUE)
+args_file <- read.table(file.path("meta", "pediatric_fcs_info.txt"), sep = "\t", header = TRUE)
 
 # Fetch state markers.
 state_markers <- as.character(panel[panel$marker_class == "state", ][["antigen"]]) %>%

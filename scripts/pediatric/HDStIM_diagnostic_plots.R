@@ -5,8 +5,8 @@
 library(HDStIM)
 library(tidyverse)
 
-results_folder <- file.path("results", "pediatrics")
-figures_folder <- file.path("figures", "pediatrics")
+results_folder <- file.path("results", "pediatric")
+figures_folder <- file.path("figures", "pediatric")
 
 # Selected data. 
 selected_data <- readRDS(file.path(results_folder, "selected_data_all.rds"))

@@ -5,8 +5,8 @@
 
 library(tidyverse)
 
-results_folder <- file.path("results", "pediatrics")
-figures_folder <- file.path("figures", "pediatrics")
+results_folder <- file.path("results", "pediatric")
+figures_folder <- file.path("figures", "pediatric")
 
 # CALCULATE PER SUBJECT FRACTIONS
 # Selected data. 
@@ -52,7 +52,7 @@ age <- selected_data$response_mapping_main %>%
 # Load per subject fraction data.
 df_frac <- read_tsv(file.path(results_folder, "responding_unstim_per_subj_frac_m_f.tsv")) %>% 
   dplyr::rename("frac" = freq)
-sub_dat <- read_tsv(file.path("meta", "pediatrics_subject_data.txt"))
+sub_dat <- read_tsv(file.path("meta", "pediatric_subject_data.txt"))
 
 # Add condition/group to to fraction data.
 df_lm <- left_join(df_frac, dplyr::select(sub_dat, patient_id, group), by = "patient_id")

@@ -1,21 +1,21 @@
 #!/usr/bin/env Rscript --vanilla
 
-# PURPOSE: Generate stats and age distribution plots for the pediatrics dataset. 
+# PURPOSE: Generate stats and age distribution plots for the pediatric dataset. 
 
 library(tidyverse)
 
-results_folder <- file.path("results", "pediatrics")
-figures_folder <- file.path("figures", "pediatrics")
+results_folder <- file.path("results", "pediatric")
+figures_folder <- file.path("figures", "pediatric")
 
 # Selected data. 
 selected_data <- readRDS(file.path(results_folder, "selected_data_all.rds"))
 state_markers <- selected_data$state_markers
 
 # Panel data.
-panel <- read_tsv(file.path("meta", "pediatrics_stim_panel.txt"))
+panel <- read_tsv(file.path("meta", "pediatric_stim_panel.txt"))
 
 # Args file.
-args <- read_tsv(file.path("meta", "pediatrics_fcs_info.txt"))
+args <- read_tsv(file.path("meta", "pediatric_fcs_info.txt"))
 
 # Number of case and control subjects.
 case_subj <- dplyr::filter(args, condition == "Case")
@@ -78,4 +78,4 @@ hp <- ggplot(all_subj, aes(x = age_at_sample, fill = gender)) +
   theme(legend.text = element_text(size = 14)) +
   theme(legend.title = element_text(size = 14))
 
-ggsave("pediatrics_age_distribution.png", plot = hp, path = figures_folder, width = 6, height = 4, dpi = 300)
+ggsave("pediatric_age_distribution.png", plot = hp, path = figures_folder, width = 6, height = 4, dpi = 300)

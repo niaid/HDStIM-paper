@@ -5,8 +5,8 @@
 
 library(tidyverse)
 
-results_folder <- file.path("results", "pediatrics")
-figures_folder <- file.path("figures", "pediatrics")
+results_folder <- file.path("results", "pediatric")
+figures_folder <- file.path("figures", "pediatric")
 
 # Load fraction lm data based on ranks. 
 frac_lm_unstim <- read_tsv(file.path(results_folder, "resp_unstim_frac_lm_rank.tsv")) %>% 
@@ -31,7 +31,7 @@ bplt <- ggplot(comb_dat, aes(x=stim_type, y=cell_population, size=estimate, colo
   scale_colour_gradient(low = "red", high = "white", limits=c(0, 0.05)) +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
         text = element_text(size = 12))
-ggsave("resp_unstim_delta_lm_rank_bubble_plot.png", plot = bplt, path = figures_folder,
-       width = 6, height = 4, dpi = 300)
+  # ggsave("resp_unstim_delta_lm_rank_bubble_plot.png", plot = bplt, path = figures_folder,
+  #        width = 6, height = 4, dpi = 300)
 
 
