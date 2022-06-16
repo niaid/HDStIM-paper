@@ -50,7 +50,9 @@ scripts/pediatric/resp_noresp_marker_ranking_heatmap.R
 
 #### Figure 2 C
 ```
-scripts/pediatric/resp_delta_lm_frac_bubble.R
+scripts/pediatric/resp_unstim_frac_lm_rank.R
+scripts/pediatric/delta_frac_lm_rank.R
+scripts/pediatric/resp_unstim_delta_lm_frac_bubble.R
 ```
 
 #### Figure 2 D
