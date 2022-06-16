@@ -65,7 +65,8 @@ scripts/pediatrics/resp_unstim_mag_ranking.R
 
 #### Supplementary Figure 2 A
 ```
-fcripts/pediatrics/lm_frac_case_and_control_heatmaps.R
+scripts/pediatrics/lm_frac_case_and_control.R
+scripts/pediatrics/lm_frac_case_and_control_heatmaps.R
 ```
 
 #### Supplementary Figure 2 B
