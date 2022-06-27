@@ -1,6 +1,15 @@
 # HDStIM-paper
 Code to reproduce analysis for the HDStIM paper.
 
+## Directory structure
+```
+HDStIM-paper
++-- data
++-- results
++-- figures
++-- meta
++-- scripts
+```
 ## Bone marrow dataset
 ### HDStIM run and marker ranking
 ```
