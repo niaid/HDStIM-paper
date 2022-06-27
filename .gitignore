@@ -2,6 +2,7 @@
 results
 data
 figures
+zenodo_upload
 *.DS_*
 
 # History files
