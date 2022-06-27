@@ -12,7 +12,7 @@ scripts/bone_marrow/HDStIM_marker_ranking.R
 ```
 scripts/bone_marrow/HDStIM_vs_Bendall_paper.R
 ```
-#### Figure 1 C & D
+#### Figure 1 C & D. Supplementary figures 3 A & B
 ```
 scripts/bone_marrow/HDStIM_diagnostic_plots.R
 ```
@@ -29,7 +29,7 @@ scripts/bone_marrow/stimulated_vs_unstimulated_fc_IFNa.R
 scripts/bone_marrow/stimulated_well_heatmap_IFNa.R
 ```
 
-## Pediatrics dataset
+## Pediatric dataset
 ## HDStIM run and diagnostic plots (not in the paper)
 ```
 scripts/pediatric/HDStIM_run.R 
