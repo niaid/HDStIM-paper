@@ -97,25 +97,26 @@ for(i in 1:nrow(df_stats_out)){
   mat_decision[st,cp] <- df_stats_out[[i, "decision"]]
 }
 
-file_n <- file.path(figures_folder, "resp_unstim_mag_ranking_heatmap_.png")
+file_n <- file.path(figures_folder, "resp_unstim_mag_ranking_heatmap_v2.png")
 
 c_breaks <- c(rep("U_A", 14), rep("U_G", 4), rep("U_L", 2), rep("U_T", 8))
-png(filename = file_n, width = 9, height = 4.5, units = "in", res = 300)
+png(filename = file_n, width = 9, height = 4.5, units = "in", res = 600)
 colnames(mat) <- str_split_fixed(colnames(mat), " ~ ",2)[,1]
 hmap <- ComplexHeatmap::Heatmap(mat, cluster_rows = TRUE, cluster_columns = TRUE,
                                 heatmap_legend_param = list(title = "Mean\nImportance"),
                                 column_split = c_breaks,
                                 cell_fun = function(j, i, x, y, width, height, fill) {
                                   if(mat_decision[i, j] == "Confirmed"){
-                                    grid.text("C", x, y, gp = gpar(fontsize = 6))
+                                    grid.text("C", x, y, gp = gpar(fontsize = 9))
                                   }else if(mat_decision[i, j] == "Tentative"){
-                                    grid.text("T", x, y, gp = gpar(fontsize = 6))
+                                    grid.text("T", x, y, gp = gpar(fontsize = 9))
                                   }
                                   
                                 },
-                                column_names_gp = gpar(fontsize = 10),
-                                row_names_gp = gpar(fontsize = 10)
-)
+                                column_names_gp = gpar(fontsize = 12),
+                                row_names_gp = gpar(fontsize = 11),
+                                show_column_dend = FALSE,
+                                show_row_dend = FALSE)
 draw(hmap)
 dev.off()
 

@@ -4,6 +4,7 @@
 # responding cells at the baseline and delta. 
 
 library(tidyverse)
+library(ComplexHeatmap)
 
 results_folder <- file.path("results", "pediatric")
 figures_folder <- file.path("figures", "pediatric")
@@ -31,7 +32,39 @@ bplt <- ggplot(comb_dat, aes(x=stim_type, y=cell_population, size=estimate, colo
   scale_colour_gradient(low = "red", high = "white", limits=c(0, 0.05)) +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
         text = element_text(size = 12))
-  # ggsave("resp_unstim_delta_lm_rank_bubble_plot.png", plot = bplt, path = figures_folder,
-  #        width = 6, height = 4, dpi = 300)
+  #ggsave("resp_unstim_delta_lm_rank_bubble_plot_v2.png", plot = bplt, path = figures_folder,
+   #       width = 6, height = 4, dpi = 300)
 
 
+# Convert data frame to matrix and plot a heatmap instead of a bubble plot.
+  mate <- dplyr::select(comb_dat, cell_population, stim_type, estimate) %>%
+    spread(key = stim_type, value = estimate) %>%
+    column_to_rownames(var = "cell_population") %>%
+    as.matrix()
+  mate <- mate[c(5,1, setdiff(1:nrow(mate), c(1,5))),]
+  matp <- dplyr::select(comb_dat, cell_population, stim_type, p.value) %>%
+    spread(key = stim_type, value = p.value) %>%
+    column_to_rownames(var = "cell_population") %>%
+    as.matrix()
+  matp <- matp[c(5,1, setdiff(1:nrow(matp), c(1,5))),]
+  col_fun = colorRamp2(c(0, 1, 3), c("blue", "white", "red"))
+  col_fun(seq(0, 3))
+  cbreaks <- c(rep("Baseline\nResponse", 4), rep("In vitro\nResponse", 4))
+  hmap <- ComplexHeatmap::Heatmap(mate, cluster_rows = FALSE, cluster_columns = FALSE,
+                                  heatmap_legend_param = list(title = "Effect\nSize"),
+                                  cell_fun = function(j, i, x, y, width, height, fill){
+                                    if(!is.na(matp[i, j])){
+                                      if(matp[i, j] < 0.05) {
+                                        grid.text(sprintf("*"), x, y, gp = gpar(fontsize = 14 ))
+                                      }
+                                    }
+                                  },
+                                  column_names_gp = gpar(fontsize = 13),
+                                  column_title_gp = gpar(fontsize = 16),
+                                  row_names_gp = gpar(fontsize = 13),
+                                  column_split = cbreaks)
+  file_n <- file.path(figures_folder, "resp_unstim_delta_lm_rank_heatmap.png")
+  png(filename = file_n, width = 7, height = 5, units = "in", res = 600)
+  draw(hmap)
+  dev.off()
+  

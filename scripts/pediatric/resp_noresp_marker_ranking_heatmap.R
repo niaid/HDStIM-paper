@@ -11,7 +11,6 @@ library(DescTools)
 results_folder <- file.path("results", "pediatric")
 figures_folder <- file.path("figures", "pediatric")
 
-stop()
 # Figures path.
 # path <- file.path(figures_folder, "resp_noresp_marker_ranking")
 
@@ -22,7 +21,6 @@ stop()
 # att_stats <- marker_ranking_boruta(selected_data, path = path, n_cells = 5000, max_runs = 100, seed_val = 123, verbose = 1)
 # write_tsv(att_stats, file.path(results_folder, "boruta_att_stats.tsv"))
 
-stop()
 # Read Boruta run results and plot heatmaps with importance scores across cell-population and state markers.
 # For each stimulation.
 att_stats <- read_tsv( file.path(results_folder, "boruta_att_stats.tsv"))
@@ -52,25 +50,34 @@ stim_a_ht <- Heatmap(as.matrix.xtabs(stim_a_in),
      column_title = "A",
         heatmap_legend_param = list(title = "Marker\nRank"),
           col = col_fun,
-         show_heatmap_legend = FALSE)
+         show_heatmap_legend = FALSE,
+          show_column_dend = FALSE,
+     column_names_gp = gpar(fontsize = 13))
 
 stim_t_ht <- Heatmap(as.matrix.xtabs(stim_t_in),
      column_title = "T",
         heatmap_legend_param = list(title = "Marker\nRank"),
-          col = col_fun, show_heatmap_legend = FALSE)
+          col = col_fun, show_heatmap_legend = FALSE,
+     show_column_dend = FALSE,
+     column_names_gp = gpar(fontsize = 13))
 
 stim_l_ht <- Heatmap(as.matrix.xtabs(stim_l_in),
      column_title = "L",
         heatmap_legend_param = list(title = "Marker\nRank"),
-          col = col_fun, show_heatmap_legend = FALSE)
+          col = col_fun, show_heatmap_legend = FALSE,
+     show_column_dend = FALSE,
+     column_names_gp = gpar(fontsize = 13))
 
 stim_g_ht <- Heatmap(as.matrix.xtabs(stim_g_in),
      column_title = "G",
         heatmap_legend_param = list(title = "Marker\nRank"),
-          col = col_fun)
+          col = col_fun,
+     show_column_dend = FALSE,
+     column_names_gp = gpar(fontsize = 13)
+     )
 
 ht <- stim_a_ht + stim_t_ht + stim_g_ht + stim_l_ht
-png(filename = file.path(figures_folder, "resp_noresp_boruta_all.png"), width = 10, height = 5.5, units = "in", res = 300)
-draw(ht, padding = unit(c(10, 5, 5, 5), "mm"))
+png(filename = file.path(figures_folder, "resp_noresp_boruta_all_v2.png"), width = 7, height = 5, units = "in", res = 600)
+draw(ht, padding = unit(c(10, 5, 5, 5), "mm"), show_row_dend = FALSE)
 dev.off()
 
