@@ -83,7 +83,25 @@ ht <- Heatmap(in_mat, show_column_dend = FALSE,
               row_names_gp = gpar(fontsize = 16),
               column_names_gp = gpar(fontsize = 15),
               column_title_gp = gpar(fontsize = 20))
-png(file.path(figures_folder, "boruta_z_heatmap_horizontal_stim_breaks_no_dendo.png"), width = 30, height = 8, units = "in", res = 300)
-draw(ht)
+#png(file.path(figures_folder, "boruta_z_heatmap_horizontal_stim_breaks_no_dendo.png"), width = 30, height = 8, units = "in", res = 300)
+#draw(ht)
+#dev.off()
+
+# Plot a heatmap for only INFa.
+inf_dat <- df_z_out %>% dplyr::select(starts_with("IFNa"))
+inf_mat <- as.matrix(inf_dat)
+c_breaks <- colnames(inf_mat)
+c_breaks <- as.character(data.frame(strsplit(c_breaks, "_"))[1,])
+colnames(inf_mat) <- as.character(data.frame(strsplit(colnames(inf_mat), "_"))[2,])
+infht <- Heatmap(inf_mat, show_column_dend = FALSE, 
+              show_row_dend = FALSE,
+              heatmap_legend_param = list(title = "Z-Score",fontsize = 14,
+                                          title_position = "leftcenter-rot"),
+              row_names_gp = gpar(fontsize = 14),
+              column_names_gp = gpar(fontsize = 14),
+              column_title = "IFNa",
+              column_title_gp = gpar(fontsize = 16))
+png(file.path(figures_folder, "boruta_z_heatmap_IFNa.png"), width = 4.5, height = 5.5, units = "in", res = 600)
+draw(infht)
 dev.off()
 

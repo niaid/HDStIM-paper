@@ -157,9 +157,12 @@ mfp <- ggplot(mfp_dat, aes(x = count_marker, y = -log10(p.value), color = frac))
        y = "HD Analysis\nFisher's -log10(p-value)",
        color = "Multimodal\nFraction") +
   scale_x_continuous(breaks = seq(from = 0, to = max_m, by = 1 )) +
-  scale_color_gradient(low="blue", high="red", na.value="black", breaks = seq(0,1,0.1))
-ggsave("no.mark_vs_f_p.value_frac.png", path = figures_folder, plot = mfp,
-       width = 7, height = 5, units = "in", dpi = 300)
+  scale_color_gradient(low="blue", high="red", na.value="black", breaks = seq(0,1,0.1)) +
+  theme(axis.text = element_text(size = 16)) +
+  theme(axis.title.x = element_text(size = 16)) +
+  theme(axis.title.y = element_text(size = 14))
+ggsave("no.mark_vs_f_p.value_frac_v2.png", path = figures_folder, plot = mfp,
+       width = 9, height = 3, units = "in", dpi = 600)
 
 ## Genereate a graph with multiple cutoffs for the diptest. 
 dip_bstats <- merge(df_dip_out, bstats) %>%
@@ -188,18 +191,18 @@ ggsave("dip_mult_cutoff.png", path = figures_folder, plot = dippt,
 # and put an astrix on the marker that median based method found.
 bstats <-read_tsv(file.path(results_folder, "K_clust_boruta_stats.tsv"))
 onedat <- merge(one_b, bstats, by = c("stim_type", "cell_population")) %>%
-  dplyr::mutate("cellpop_stim" = paste0(cell_population, " ~ ", stim_type))
+  dplyr::mutate("cellpop_stim" = paste0(cell_population, "~", stim_type))
 twodat <- merge(two_b, bstats, by = c("stim_type", "cell_population")) %>%
-  dplyr::mutate("cellpop_stim" = paste0(cell_population, " ~ ", stim_type))
+  dplyr::mutate("cellpop_stim" = paste0(cell_population, "~", stim_type))
 threedat <- merge(three_b, bstats, by = c("stim_type", "cell_population")) %>%
-  dplyr::mutate("cellpop_stim" = paste0(cell_population, " ~ ", stim_type))
+  dplyr::mutate("cellpop_stim" = paste0(cell_population, "~", stim_type))
 
 tabs3_one <- merge(one_b, tabs3, by = c("stim_type", "cell_population")) %>% 
-  dplyr::mutate("cellpop_stim" = paste0(cell_population, " ~ ", stim_type))
+  dplyr::mutate("cellpop_stim" = paste0(cell_population, "~", stim_type))
 tabs3_two <- merge(two_b, tabs3, by = c("stim_type", "cell_population")) %>% 
-  dplyr::mutate("cellpop_stim" = paste0(cell_population, " ~ ", stim_type))
+  dplyr::mutate("cellpop_stim" = paste0(cell_population, "~", stim_type))
 tabs3_three <- merge(three_b, tabs3, by = c("stim_type", "cell_population")) %>% 
-  dplyr::mutate("cellpop_stim" = paste0(cell_population, " ~ ", stim_type))
+  dplyr::mutate("cellpop_stim" = paste0(cell_population, "~", stim_type))
 
 df_1_out <- data.frame()
 tmp <- as.character(unique(tabs3_one$cellpop_stim))
@@ -263,18 +266,21 @@ mat123 <- rescale(mat123, to = c(0,1))
 
 col_fun = colorRamp2(c(min(mat123), mean(mat123), max(mat123)), c("#56B4E9", "#009E73", "#E69F00"))
 col_fun(seq(min(mat123), mean(mat123), max(mat123)))
-
+colnames(mat123) <- str_replace_all(colnames(mat123), c("#1" = "", "#2" = "", "#3" = ""))
 mat123ht <- Heatmap(mat123, cluster_columns = FALSE, cluster_rows = FALSE,
-               heatmap_legend_param = list(title = "Importance"),
+               heatmap_legend_param = list(title = "Importance", title_position = "leftcenter-rot", 
+                                           title_gp = gpar(fontsize = 14, fontface = "bold"),
+                                           legend_height = unit(4, "cm")),
                col = col_fun,
                column_split = col_breaks,
                cell_fun = function(j, i, x, y, width, height, fill) {
                  if(tmat123[i, j] == 1){
                    grid.text("*", x, y, gp = gpar(fontsize = 14))
                  }
-               }
-               )
-png(file.path(figures_folder, "boruta_column123_sig.png"), width = 14, height = 8, units = "in", res = 300)
+               },
+               column_title_gp = gpar(fontsize = 14, fontface = "bold"),
+               column_names_gp = gpar(fontsize = 13))
+png(file.path(figures_folder, "boruta_column123_sig_v2.png"), width = 12, height = 6, units = "in", res = 600)
 draw(mat123ht)
 dev.off()
 
