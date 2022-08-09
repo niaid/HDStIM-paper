@@ -69,13 +69,16 @@ max(all_female$age_at_sample)
 
 # Plot a histogram. 
 all_subj <- rbind(all_male, all_female)
+all_subj$gender <-  str_replace_all(all_subj$gender, c("M"= "Male", "F" = "Female"))
+
 hp <- ggplot(all_subj, aes(x = age_at_sample, fill = gender)) +
   geom_histogram(binwidth = 1, color = "black", alpha=0.9) +
   labs(x = "Age", y = "Count", fill = "Gender") +
-  scale_x_continuous(name = "Age", breaks = c(2:16)) +
-  theme(axis.text = element_text(size = 16)) +
-  theme(axis.title = element_text(size = 18)) +
+  scale_x_continuous(name = "Age", breaks = c(2:17)) +
+  theme(axis.text = element_text(size = 14)) +
+  theme(axis.title = element_text(size = 14)) +
   theme(legend.text = element_text(size = 14)) +
-  theme(legend.title = element_text(size = 14))
+  theme(legend.title = element_text(size = 14)) 
+  #   theme(axis.text.x = element_text(angle = 45, vjust = 0.1, hjust=1))
 
-ggsave("pediatric_age_distribution.png", plot = hp, path = figures_folder, width = 6, height = 4, dpi = 300)
+ggsave("pediatric_age_distribution.png", plot = hp, path = figures_folder, width = 7, height = 4, dpi = 300)
