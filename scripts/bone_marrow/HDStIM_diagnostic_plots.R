@@ -31,18 +31,20 @@ for(i in 1:length(pe)){
   temp <- tibble("entry" = i, "cp" = cp, "st" = st)
   ke_out <- bind_rows(ke_out, temp)
 }
-
-kplt <- function(ggobj){
+write_tsv(ke_out, file.path(figures_folder, "ke_out.tsv"))
+kplt <- function(ggobj, markers){
   ggplt <- ggobj +
-    geom_rect(data = subset(ggplot_build(ggobj$plot$data), state_marker %in% c("pP38", "pSTAT3")), 
-              fill = NA, colour = "red", xmin = -Inf,xmax = Inf,
-              ymin = -Inf,ymax = Inf) +
     theme(plot.title = element_text(size = 25)) +
     theme(axis.text = element_text(size = 20)) +
     theme(axis.title.x = element_text(size = 22)) +
     theme(axis.title.y = element_text(size = 22)) +
-    theme(legend.text = element_text(size = 22))+
-    theme(legend.title = element_text(size = 22))
+    theme(strip.text = element_text(size = 20)) +
+    theme(legend.text = element_text(size = 20))+
+    theme(legend.title = element_text(size = 20)) +
+    theme(legend.position = c(0.9,0.05)) +
+    geom_rect(data = subset(ggplot_build(ggobj)$plot$data, state_marker %in% markers), 
+              fill = NA, colour = "red", size=2, xmin = -Inf,xmax = Inf,
+              ymin = -Inf,ymax = Inf)
   
     return(ggplt)
 }
@@ -50,7 +52,14 @@ kplt <- function(ggobj){
 pop1 <- dplyr::filter(ke_out, cp == "Immature B" & st == "PVO4") %>%
   dplyr::pull(entry)
 
-pop1_fig <- kplt(pe[[pop1]])
+pop1_fig <- kplt(pe[[pop1]], c("pP38", "pSTAT3"))
 ggsave("exprs_Immature_B_PVO4_v2.png", path = figures_folder, plot = pop1_fig,
+       width = 12, height = 10, units = "in", dpi = 600)
+
+pop2 <- dplyr::filter(ke_out, cp == "MEP" & st == "GCSF") %>%
+  dplyr::pull(entry)
+
+pop2_fig <- kplt(pe[[pop2]], c("pCREB", "pERK1_2", "pH3", "pP38", "pS6", "pSTAT3", "pSTAT5"))
+ggsave("exprs_MEP_GCSF_v2.png", path = figures_folder, plot = pop2_fig,
        width = 12, height = 10, units = "in", dpi = 600)
 

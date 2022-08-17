@@ -4,7 +4,6 @@
 # and re-analysis by HDStIM.
 # Figure 1 B & E.
 # Supplementary Figure 1 A & B.
-
 library(tidyverse)
 library(circlize)
 library(ggrepel)
@@ -153,7 +152,7 @@ mfp_dat <- left_join(p_m_count, dip_bstats_frac)
 mfp <- ggplot(mfp_dat, aes(x = count_marker, y = -log10(p.value), color = frac)) +
   geom_point() +
   geom_hline(yintercept=-log10(0.05), linetype="dashed", color = "red") +
-  labs(x = "Individual Marker Analysis\nMarkers Significant Per Cell Population-Stimulation", 
+  labs(x = "Individual Marker Analysis\nMarkers Significant Per SPC", 
        y = "HD Analysis\nFisher's -log10(p-value)",
        color = "Multimodal\nFraction") +
   scale_x_continuous(breaks = seq(from = 0, to = max_m, by = 1 )) +

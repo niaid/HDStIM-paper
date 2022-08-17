@@ -5,6 +5,7 @@
 
 library(tidyverse)
 library(ComplexHeatmap)
+library(circlize)
 
 results_folder <- file.path("results", "pediatric")
 figures_folder <- file.path("figures", "pediatric")
@@ -49,7 +50,7 @@ bplt <- ggplot(comb_dat, aes(x=stim_type, y=cell_population, size=estimate, colo
   matp <- matp[c(5,1, setdiff(1:nrow(matp), c(1,5))),]
   col_fun = colorRamp2(c(0, 1, 3), c("blue", "white", "red"))
   col_fun(seq(0, 3))
-  cbreaks <- c(rep("Baseline\nResponse", 4), rep("In vitro\nResponse", 4))
+  cbreaks <- c(rep("Baseline/Tonic\nActivation", 4), rep("In vitro\nResponse", 4))
   hmap <- ComplexHeatmap::Heatmap(mate, cluster_rows = FALSE, cluster_columns = FALSE,
                                   heatmap_legend_param = list(title = "Effect\nSize"),
                                   cell_fun = function(j, i, x, y, width, height, fill){
