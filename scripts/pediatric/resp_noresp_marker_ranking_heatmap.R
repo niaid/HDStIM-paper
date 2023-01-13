@@ -30,6 +30,7 @@ att_stats <- read_tsv( file.path(results_folder, "boruta_att_stats.tsv"))
 # Typo correction
 att_stats$cell_population <- stringr::str_replace(att_stats$cell_population, "Niave cytotoxic T cells", "Naive cytotoxic T cells")
 att_stats$cell_population <- stringr::str_replace(att_stats$cell_population, "Niave T helper cells", "Naive T helper cells")
+att_stats$state_marker <- stringr::str_replace(att_stats$state_marker, "pERK1_2", "pERK1/2")
 
 stim_a <- att_stats %>% dplyr::filter(stim_type == "A")
 stim_t <- att_stats %>% dplyr::filter(stim_type == "T")
@@ -49,28 +50,28 @@ stim_g_in <- xtabs(imp_idx ~ state_marker + cell_population, stim_g)
 col_fun = colorRamp2(c(0, 10), c("yellow", "black"))
 
 stim_a_ht <- Heatmap(as.matrix.xtabs(stim_a_in),
-     column_title = "A",
+     column_title = "IFNa",
         heatmap_legend_param = list(title = "Marker\nRank"),
           col = col_fun,
          show_heatmap_legend = FALSE)
 
 stim_t_ht <- Heatmap(as.matrix.xtabs(stim_t_in),
-     column_title = "T",
+     column_title = "TCR",
         heatmap_legend_param = list(title = "Marker\nRank"),
           col = col_fun, show_heatmap_legend = FALSE)
 
 stim_l_ht <- Heatmap(as.matrix.xtabs(stim_l_in),
-     column_title = "L",
+     column_title = "LPS",
         heatmap_legend_param = list(title = "Marker\nRank"),
           col = col_fun, show_heatmap_legend = FALSE)
 
 stim_g_ht <- Heatmap(as.matrix.xtabs(stim_g_in),
-     column_title = "G",
+     column_title = "IFNg",
         heatmap_legend_param = list(title = "Marker\nRank"),
           col = col_fun)
 
 ht <- stim_a_ht + stim_t_ht + stim_g_ht + stim_l_ht
-png(filename = file.path(figures_folder, "resp_noresp_boruta_all.png"), width = 10, height = 5.5, units = "in", res = 300)
+png(filename = file.path(figures_folder, "resp_noresp_boruta_all_v2.png"), width = 10, height = 5.5, units = "in", res = 300)
 draw(ht, padding = unit(c(10, 5, 5, 5), "mm"))
 dev.off()
 

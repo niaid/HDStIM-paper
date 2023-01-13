@@ -73,35 +73,69 @@ for(i in 1:nrow(frac_t)){
 }
 
 
-# Plot for U_A
+# Plot for U_A and U_T
 col_fun = colorRamp2(c(-20, 0, 25), c("blue", "white", "red"))
 col_fun(seq(-20, 25))
-hmap_a <- ComplexHeatmap::Heatmap(mat_a, cluster_rows = FALSE, cluster_columns = FALSE,
-                                heatmap_legend_param = list(title = "Estimate"),
-                                row_title = "U_A",
-                                row_title_side = "left",
-                                column_title = "Age Group",
-                                column_title_side = "bottom",
-                                column_names_side = "top",
-                                column_names_rot = 0,
-                                column_names_centered = TRUE)
 
-# Plot for U_T
-hmap_t <- ComplexHeatmap::Heatmap(mat_t, cluster_rows = FALSE, cluster_columns = FALSE,
-                                  heatmap_legend_param = list(title = "Estimate"),
-                                  row_title = "U_T",
-                                  row_title_side = "left",
-                                  column_title = "Age Group",
-                                  column_title_side = "bottom",
-                                  column_names_side = "top",
-                                  column_names_rot = 0,
-                                  column_names_centered = TRUE,
-                                  show_heatmap_legend = FALSE)
-
-
-file_n <- file.path(figures_folder, "spline_heatmap_all.png")
-png(filename = file_n, width = 5, height = 3, units = "in", res = 300)
-hmap_all <- hmap_a %v% hmap_t
-draw(hmap_all)
+mat_all <- rbind(mat_a, mat_t)
+r_breaks <- c(rep("U_IFNa", 3), rep("U_TCR", 6))
+ht <- Heatmap(mat_all, 
+              cluster_rows = FALSE,
+              cluster_columns = FALSE,
+              row_split = r_breaks,
+              column_title = "Age Group",
+              column_title_side = "bottom",
+              column_names_side = "top",
+              column_names_rot =0,
+              column_names_centered = TRUE,
+              width = ncol(mat_all)*unit(20, "mm"),
+              heatmap_legend_param = list(title = "Effect\nSize",fontsize = 14,
+                                          legend_height = unit(2, "cm"),
+                                          legend_width = unit(1, "cm"),
+                                          legend_position = "bottom"),
+              row_names_gp = gpar(fontsize = 14),
+              column_names_gp = gpar(fontsize = 15),
+              column_title_gp = gpar(fontsize = 16), 
+              show_heatmap_legend = FALSE)
+png(file.path(figures_folder, "spline_heatmap_v2.png"), width = 7, 
+    height = 5, units = "in", res = 600)
+draw(ht)
 dev.off()
 
+
+stop()
+# hmap_a <- ComplexHeatmap::Heatmap(mat_a, cluster_rows = FALSE, cluster_columns = FALSE,
+#                                 row_title = "U_A",
+#                                 row_title_side = "left",
+#                                 column_title = "Age Group",
+#                                 column_title_side = "bottom",
+#                                 column_names_side = "top",
+#                                 column_names_rot = 0,
+#                                 column_names_centered = TRUE,
+#                                 show_heatmap_legend = FALSE)
+# 
+# Plot for U_T
+# hmap_t <- ComplexHeatmap::Heatmap(mat_t, cluster_rows = FALSE, cluster_columns = FALSE,
+#                                   row_title = "U_T",
+#                                   row_title_side = "left",
+#                                   column_title = "Age Group",
+#                                   column_title_side = "bottom",
+#                                   column_names_side = "top",
+#                                   column_names_rot = 0,
+#                                   column_names_centered = TRUE,
+#                                   heatmap_legend_param = list(title = "Effect\nSize"))
+# 
+# 
+# file_a <- file.path(figures_folder, "spline_heatmap_a.png")
+# png(filename = file_a, width = 7, height = 2, units = "in", res = 600)
+# hmap_all <- hmap_a %v% hmap_t
+# draw(hmap_a)
+# dev.off()
+# 
+# file_t <- file.path(figures_folder, "spline_heatmap_t.png")
+# png(filename = file_t, width = 7, height = 3, units = "in", res = 600)
+# hmap_all <- hmap_a %v% hmap_t
+# draw(hmap_t)
+# dev.off()
+# 
+#  heatmap_legend_param = list(title = "Effect\nSize", title_gp = gpar(fontsize = 4), labels_gp = gpar(fontsize = 4),  at = c(-2, 0, 2)),
