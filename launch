@@ -1,4 +1,10 @@
 #!/bin/bash
 
+<<<<<<< HEAD
+#module load Anaconda3/2020.07
+#singularity shell --bind "$PWD" /hpcdata/chi/containers/platform_specific/cytof/cytofworkflow4.sif
+singularity shell --bind "$PWD,/hpcdata/chi/users/farmerr2/bin/R/4.2" /hpcdata/chi/containers/r_with_libs/r-4.2.1.sif
+=======
 module load Anaconda3/2020.07
 singularity shell --bind "$PWD" /hpcdata/chi/containers/platform_specific/cytof/cytofworkflow4.sif
+>>>>>>> f53a9a75ae010f08d22c5f5352ba051e34784fe2
