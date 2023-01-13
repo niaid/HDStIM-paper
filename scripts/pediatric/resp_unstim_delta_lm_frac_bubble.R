@@ -22,11 +22,16 @@ comb_dat <- bind_rows(tibble("dataset" = "unstim", frac_lm_unstim),
 # Typo correction
 comb_dat$cell_population <- stringr::str_replace(comb_dat$cell_population, "Niave cytotoxic T cells", "Naive cytotoxic T cells")
 comb_dat$cell_population <- stringr::str_replace(comb_dat$cell_population, "Niave T helper cells", "Naive T helper cells")
+comb_dat$stim_type <- stringr::str_replace_all(comb_dat$stim_type, c("A" = "IFNa", "T" = "TCR", 
+                                                                     "G" = "IFNg", "L" = "LPS"))
+
 
 # Bubble plot with estimate is denoted by the size of the bubble
 # and p.value by the color.
-comb_dat$stim_type <- factor(comb_dat$stim_type, levels = c("U_A", "U_T", "U_G", "U_L",
-                                                            "A", "T", "G", "L"))
+comb_dat$stim_type <- factor(comb_dat$stim_type, levels = c("U_IFNa", "U_TCR", 
+                                                            "U_IFNg", "U_LPS",
+                                                            "IFNa", "TCR", 
+                                                            "IFNg", "LPS"))
 bplt <- ggplot(comb_dat, aes(x=stim_type, y=cell_population, size=estimate, color=p.value)) +
   geom_point() +
   labs(x = "Experimental Condition", y = "Cell Population", size = "Estimate", color = "P-Value") +
@@ -64,7 +69,7 @@ bplt <- ggplot(comb_dat, aes(x=stim_type, y=cell_population, size=estimate, colo
                                   column_title_gp = gpar(fontsize = 16),
                                   row_names_gp = gpar(fontsize = 13),
                                   column_split = cbreaks)
-  file_n <- file.path(figures_folder, "resp_unstim_delta_lm_rank_heatmap.png")
+  file_n <- file.path(figures_folder, "resp_unstim_delta_lm_rank_heatmap_v2.png")
   png(filename = file_n, width = 7, height = 5, units = "in", res = 600)
   draw(hmap)
   dev.off()

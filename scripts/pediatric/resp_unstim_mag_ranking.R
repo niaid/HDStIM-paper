@@ -75,6 +75,8 @@ df_stats_out <- df_stats_out[order(df_stats_out$stim_type),]
 # Typo correction
 df_stats_out$cell_population <- stringr::str_replace(df_stats_out$cell_population, "Niave cytotoxic T cells", "Naive cytotoxic T cells")
 df_stats_out$cell_population <- stringr::str_replace(df_stats_out$cell_population, "Niave T helper cells", "Naive T helper cells")
+df_stats_out$state_marker <- stringr::str_replace(df_stats_out$state_marker, "pERK1_2", "pERK1/2")
+
 
 c_names <- as.character(unique(paste0(df_stats_out$cell_population," ~ ", df_stats_out$stim_type)))
 r_names <- as.character(unique(df_stats_out$state_marker))
@@ -97,9 +99,9 @@ for(i in 1:nrow(df_stats_out)){
   mat_decision[st,cp] <- df_stats_out[[i, "decision"]]
 }
 
-file_n <- file.path(figures_folder, "resp_unstim_mag_ranking_heatmap_v2.png")
+file_n <- file.path(figures_folder, "resp_unstim_mag_ranking_heatmap_v3.png")
 
-c_breaks <- c(rep("U_A", 14), rep("U_G", 4), rep("U_L", 2), rep("U_T", 8))
+c_breaks <- c(rep("U_IFNa", 14), rep("U_IFNg", 4), rep("U_LPS", 2), rep("U_TCR", 8))
 png(filename = file_n, width = 9, height = 4.5, units = "in", res = 600)
 colnames(mat) <- str_split_fixed(colnames(mat), " ~ ",2)[,1]
 hmap <- ComplexHeatmap::Heatmap(mat, cluster_rows = TRUE, cluster_columns = TRUE,

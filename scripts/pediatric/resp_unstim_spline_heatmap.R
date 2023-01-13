@@ -97,13 +97,13 @@ ht <- Heatmap(mat_all,
               column_names_gp = gpar(fontsize = 15),
               column_title_gp = gpar(fontsize = 16), 
               show_heatmap_legend = FALSE)
-png(file.path(figures_folder, "spline_heatmap_v2.png"), width = 7, 
-    height = 5, units = "in", res = 600)
+png(file.path(figures_folder, "spline_heatmap_v2.png"), width = 6, 
+    height = 4, units = "in", res = 600)
 draw(ht)
 dev.off()
 
 
-
+stop()
 # OLD CODE
 # hmap_a <- ComplexHeatmap::Heatmap(mat_a, cluster_rows = FALSE, cluster_columns = FALSE,
 #                                 row_title = "U_A",

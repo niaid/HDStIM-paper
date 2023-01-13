@@ -78,7 +78,9 @@ stim_g_ht <- Heatmap(as.matrix.xtabs(stim_g_in),
      )
 
 ht <- stim_a_ht + stim_t_ht + stim_g_ht + stim_l_ht
-png(filename = file.path(figures_folder, "resp_noresp_boruta_all_v2.png"), width = 7, height = 5, units = "in", res = 600)
+png(filename = file.path(figures_folder, "resp_noresp_boruta_all_v2.png"), 
+    width = 7, height = 5, units = "in", res = 600)
 draw(ht, padding = unit(c(10, 5, 5, 5), "mm"), show_row_dend = FALSE)
+#draw(ht, show_row_dend = FALSE)
 dev.off()
 
