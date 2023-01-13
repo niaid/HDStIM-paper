@@ -103,7 +103,8 @@ draw(ht)
 dev.off()
 
 
-stop()
+
+# OLD CODE
 # hmap_a <- ComplexHeatmap::Heatmap(mat_a, cluster_rows = FALSE, cluster_columns = FALSE,
 #                                 row_title = "U_A",
 #                                 row_title_side = "left",
@@ -114,7 +115,7 @@ stop()
 #                                 column_names_centered = TRUE,
 #                                 show_heatmap_legend = FALSE)
 # 
-# Plot for U_T
+# #Plot for U_T
 # hmap_t <- ComplexHeatmap::Heatmap(mat_t, cluster_rows = FALSE, cluster_columns = FALSE,
 #                                   row_title = "U_T",
 #                                   row_title_side = "left",
@@ -126,16 +127,11 @@ stop()
 #                                   heatmap_legend_param = list(title = "Effect\nSize"))
 # 
 # 
-# file_a <- file.path(figures_folder, "spline_heatmap_a.png")
-# png(filename = file_a, width = 7, height = 2, units = "in", res = 600)
+# file_a <- file.path(figures_folder, "spline_heatmap_all.png")
+# png(filename = file_a, width = 7, height = 5, units = "in", res = 600)
 # hmap_all <- hmap_a %v% hmap_t
-# draw(hmap_a)
+# draw(hmap_all)
 # dev.off()
-# 
-# file_t <- file.path(figures_folder, "spline_heatmap_t.png")
-# png(filename = file_t, width = 7, height = 3, units = "in", res = 600)
-# hmap_all <- hmap_a %v% hmap_t
-# draw(hmap_t)
-# dev.off()
-# 
+
 #  heatmap_legend_param = list(title = "Effect\nSize", title_gp = gpar(fontsize = 4), labels_gp = gpar(fontsize = 4),  at = c(-2, 0, 2)),
+
