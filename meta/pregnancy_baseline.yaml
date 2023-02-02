@@ -1,0 +1,19 @@
+analysis_name: pregnancy_baseline
+analysis_type: stimulation # stimulation or phenotyping. it is required by one of the scripts to decide whether to plot or not.
+data_location: pregnancy/original-fcs # Within data folder.
+args_file: pregnancy_baseline_fcs_info.txt # Within meta folder.
+panel_file: pregnancy_phospho_panel.txt # Within meta folder.
+condition_levels: 
+    - IFNa
+    - IL
+    - LPS
+    - Unstim
+cofactor: 5 # 5 for cytof and 150 for flow data.
+FACS: FALSE # TRUE for flow data.
+resample: TRUE # take all the cells
+resample_no_cells: 100000 # this will not have any effect
+no_of_clusters: 20
+meta_string: meta20
+tsne_no_cells: 500
+umap_no_cells: 1000
+    #merging1_file: phospho_mini_noqc_20_merging1.txt

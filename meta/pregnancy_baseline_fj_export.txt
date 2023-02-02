@@ -1,0 +1,1728 @@
+fcs_file	sample_id	patient_id	condition	stim_type	cell_population
+PTLG001_BL_IFNa_null_B cells.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	B cells
+PTLG001_BL_IFNa_null_CD14- CD16-.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD14- CD16-
+PTLG001_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG001_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG001_BL_IFNa_null_CD3- CD19-.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD3- CD19-
+PTLG001_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD3- CD19- NK cells
+PTLG001_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD4- CD8- T cells
+PTLG001_BL_IFNa_null_CD4+ T cells.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD4+ T cells
+PTLG001_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD4+ Th1 mem
+PTLG001_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD4+ Th1 naive
+PTLG001_BL_IFNa_null_CD4+ T mem.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD4+ T mem
+PTLG001_BL_IFNa_null_CD4+ T naive.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD4+ T naive
+PTLG001_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG001_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG001_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG001_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG001_BL_IFNa_null_CD8+ T cells.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	CD8+ T cells
+PTLG001_BL_IFNa_null_Classical MCs.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	Classical MCs
+PTLG001_BL_IFNa_null_gd T cells.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	gd T cells
+PTLG001_BL_IFNa_null_Granulocytes.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	Granulocytes
+PTLG001_BL_IFNa_null_Intermediate MCs.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	Intermediate MCs
+PTLG001_BL_IFNa_null_Leukocytes.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	Leukocytes
+PTLG001_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG001_BL_IFNa_null_mDCs.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	mDCs
+PTLG001_BL_IFNa_null_Mononuclear cells.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	Mononuclear cells
+PTLG001_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	Mononuclear cells T cells
+PTLG001_BL_IFNa_null_Non-classical MCs.fcs	PTLG001_IFNa	PTLG001	IFNa	IFNa	Non-classical MCs
+PTLG001_BL_IL_null_B cells.fcs	PTLG001_IL	PTLG001	IL	IL	B cells
+PTLG001_BL_IL_null_CD14- CD16-.fcs	PTLG001_IL	PTLG001	IL	IL	CD14- CD16-
+PTLG001_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG001_IL	PTLG001	IL	IL	CD25+ CD8+ T mem
+PTLG001_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG001_IL	PTLG001	IL	IL	CD25+ CD8+ T naive
+PTLG001_BL_IL_null_CD3- CD19-.fcs	PTLG001_IL	PTLG001	IL	IL	CD3- CD19-
+PTLG001_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG001_IL	PTLG001	IL	IL	CD3- CD19- NK cells
+PTLG001_BL_IL_null_CD4- CD8- T cells.fcs	PTLG001_IL	PTLG001	IL	IL	CD4- CD8- T cells
+PTLG001_BL_IL_null_CD4+ T cells.fcs	PTLG001_IL	PTLG001	IL	IL	CD4+ T cells
+PTLG001_BL_IL_null_CD4+ Th1 mem.fcs	PTLG001_IL	PTLG001	IL	IL	CD4+ Th1 mem
+PTLG001_BL_IL_null_CD4+ Th1 naive.fcs	PTLG001_IL	PTLG001	IL	IL	CD4+ Th1 naive
+PTLG001_BL_IL_null_CD4+ T mem.fcs	PTLG001_IL	PTLG001	IL	IL	CD4+ T mem
+PTLG001_BL_IL_null_CD4+ T naive.fcs	PTLG001_IL	PTLG001	IL	IL	CD4+ T naive
+PTLG001_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG001_IL	PTLG001	IL	IL	CD56+ CD16- NK cells
+PTLG001_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG001_IL	PTLG001	IL	IL	CD56+ CD16+ NK cells
+PTLG001_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG001_IL	PTLG001	IL	IL	CD8+ T cells CD8+ T mem
+PTLG001_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG001_IL	PTLG001	IL	IL	CD8+ T cells CD8+ T naive
+PTLG001_BL_IL_null_CD8+ T cells.fcs	PTLG001_IL	PTLG001	IL	IL	CD8+ T cells
+PTLG001_BL_IL_null_Classical MCs.fcs	PTLG001_IL	PTLG001	IL	IL	Classical MCs
+PTLG001_BL_IL_null_gd T cells.fcs	PTLG001_IL	PTLG001	IL	IL	gd T cells
+PTLG001_BL_IL_null_Granulocytes.fcs	PTLG001_IL	PTLG001	IL	IL	Granulocytes
+PTLG001_BL_IL_null_Intermediate MCs.fcs	PTLG001_IL	PTLG001	IL	IL	Intermediate MCs
+PTLG001_BL_IL_null_Leukocytes.fcs	PTLG001_IL	PTLG001	IL	IL	Leukocytes
+PTLG001_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG001_IL	PTLG001	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG001_BL_IL_null_mDCs.fcs	PTLG001_IL	PTLG001	IL	IL	mDCs
+PTLG001_BL_IL_null_Mononuclear cells.fcs	PTLG001_IL	PTLG001	IL	IL	Mononuclear cells
+PTLG001_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG001_IL	PTLG001	IL	IL	Mononuclear cells T cells
+PTLG001_BL_IL_null_Non-classical MCs.fcs	PTLG001_IL	PTLG001	IL	IL	Non-classical MCs
+PTLG001_BL_LPS_null_B cells.fcs	PTLG001_LPS	PTLG001	LPS	LPS	B cells
+PTLG001_BL_LPS_null_CD14- CD16-.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD14- CD16-
+PTLG001_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD25+ CD8+ T mem
+PTLG001_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD25+ CD8+ T naive
+PTLG001_BL_LPS_null_CD3- CD19-.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD3- CD19-
+PTLG001_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD3- CD19- NK cells
+PTLG001_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD4- CD8- T cells
+PTLG001_BL_LPS_null_CD4+ T cells.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD4+ T cells
+PTLG001_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD4+ Th1 mem
+PTLG001_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD4+ Th1 naive
+PTLG001_BL_LPS_null_CD4+ T mem.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD4+ T mem
+PTLG001_BL_LPS_null_CD4+ T naive.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD4+ T naive
+PTLG001_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD56+ CD16- NK cells
+PTLG001_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD56+ CD16+ NK cells
+PTLG001_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG001_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG001_BL_LPS_null_CD8+ T cells.fcs	PTLG001_LPS	PTLG001	LPS	LPS	CD8+ T cells
+PTLG001_BL_LPS_null_Classical MCs.fcs	PTLG001_LPS	PTLG001	LPS	LPS	Classical MCs
+PTLG001_BL_LPS_null_gd T cells.fcs	PTLG001_LPS	PTLG001	LPS	LPS	gd T cells
+PTLG001_BL_LPS_null_Granulocytes.fcs	PTLG001_LPS	PTLG001	LPS	LPS	Granulocytes
+PTLG001_BL_LPS_null_Intermediate MCs.fcs	PTLG001_LPS	PTLG001	LPS	LPS	Intermediate MCs
+PTLG001_BL_LPS_null_Leukocytes.fcs	PTLG001_LPS	PTLG001	LPS	LPS	Leukocytes
+PTLG001_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG001_LPS	PTLG001	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG001_BL_LPS_null_mDCs.fcs	PTLG001_LPS	PTLG001	LPS	LPS	mDCs
+PTLG001_BL_LPS_null_Mononuclear cells.fcs	PTLG001_LPS	PTLG001	LPS	LPS	Mononuclear cells
+PTLG001_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG001_LPS	PTLG001	LPS	LPS	Mononuclear cells T cells
+PTLG001_BL_LPS_null_Non-classical MCs.fcs	PTLG001_LPS	PTLG001	LPS	LPS	Non-classical MCs
+PTLG001_BL_Unstim_null_B cells.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	B cells
+PTLG001_BL_Unstim_null_CD14- CD16-.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD14- CD16-
+PTLG001_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG001_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG001_BL_Unstim_null_CD3- CD19-.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD3- CD19-
+PTLG001_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD3- CD19- NK cells
+PTLG001_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD4- CD8- T cells
+PTLG001_BL_Unstim_null_CD4+ T cells.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD4+ T cells
+PTLG001_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD4+ Th1 mem
+PTLG001_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD4+ Th1 naive
+PTLG001_BL_Unstim_null_CD4+ T mem.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD4+ T mem
+PTLG001_BL_Unstim_null_CD4+ T naive.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD4+ T naive
+PTLG001_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG001_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG001_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG001_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG001_BL_Unstim_null_CD8+ T cells.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	CD8+ T cells
+PTLG001_BL_Unstim_null_Classical MCs.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	Classical MCs
+PTLG001_BL_Unstim_null_gd T cells.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	gd T cells
+PTLG001_BL_Unstim_null_Granulocytes.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	Granulocytes
+PTLG001_BL_Unstim_null_Intermediate MCs.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	Intermediate MCs
+PTLG001_BL_Unstim_null_Leukocytes.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	Leukocytes
+PTLG001_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG001_BL_Unstim_null_mDCs.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	mDCs
+PTLG001_BL_Unstim_null_Mononuclear cells.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	Mononuclear cells
+PTLG001_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	Mononuclear cells T cells
+PTLG001_BL_Unstim_null_Non-classical MCs.fcs	PTLG001_Unstim	PTLG001	Unstim	Unstim	Non-classical MCs
+PTLG002_BL_IFNa_null_B cells.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	B cells
+PTLG002_BL_IFNa_null_CD14- CD16-.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD14- CD16-
+PTLG002_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG002_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG002_BL_IFNa_null_CD3- CD19-.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD3- CD19-
+PTLG002_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD3- CD19- NK cells
+PTLG002_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD4- CD8- T cells
+PTLG002_BL_IFNa_null_CD4+ T cells.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD4+ T cells
+PTLG002_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD4+ Th1 mem
+PTLG002_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD4+ Th1 naive
+PTLG002_BL_IFNa_null_CD4+ T mem.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD4+ T mem
+PTLG002_BL_IFNa_null_CD4+ T naive.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD4+ T naive
+PTLG002_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG002_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG002_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG002_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG002_BL_IFNa_null_CD8+ T cells.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	CD8+ T cells
+PTLG002_BL_IFNa_null_Classical MCs.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	Classical MCs
+PTLG002_BL_IFNa_null_gd T cells.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	gd T cells
+PTLG002_BL_IFNa_null_Granulocytes.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	Granulocytes
+PTLG002_BL_IFNa_null_Intermediate MCs.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	Intermediate MCs
+PTLG002_BL_IFNa_null_Leukocytes.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	Leukocytes
+PTLG002_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG002_BL_IFNa_null_mDCs.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	mDCs
+PTLG002_BL_IFNa_null_Mononuclear cells.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	Mononuclear cells
+PTLG002_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	Mononuclear cells T cells
+PTLG002_BL_IFNa_null_Non-classical MCs.fcs	PTLG002_IFNa	PTLG002	IFNa	IFNa	Non-classical MCs
+PTLG002_BL_IL_null_B cells.fcs	PTLG002_IL	PTLG002	IL	IL	B cells
+PTLG002_BL_IL_null_CD14- CD16-.fcs	PTLG002_IL	PTLG002	IL	IL	CD14- CD16-
+PTLG002_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG002_IL	PTLG002	IL	IL	CD25+ CD8+ T mem
+PTLG002_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG002_IL	PTLG002	IL	IL	CD25+ CD8+ T naive
+PTLG002_BL_IL_null_CD3- CD19-.fcs	PTLG002_IL	PTLG002	IL	IL	CD3- CD19-
+PTLG002_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG002_IL	PTLG002	IL	IL	CD3- CD19- NK cells
+PTLG002_BL_IL_null_CD4- CD8- T cells.fcs	PTLG002_IL	PTLG002	IL	IL	CD4- CD8- T cells
+PTLG002_BL_IL_null_CD4+ T cells.fcs	PTLG002_IL	PTLG002	IL	IL	CD4+ T cells
+PTLG002_BL_IL_null_CD4+ Th1 mem.fcs	PTLG002_IL	PTLG002	IL	IL	CD4+ Th1 mem
+PTLG002_BL_IL_null_CD4+ Th1 naive.fcs	PTLG002_IL	PTLG002	IL	IL	CD4+ Th1 naive
+PTLG002_BL_IL_null_CD4+ T mem.fcs	PTLG002_IL	PTLG002	IL	IL	CD4+ T mem
+PTLG002_BL_IL_null_CD4+ T naive.fcs	PTLG002_IL	PTLG002	IL	IL	CD4+ T naive
+PTLG002_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG002_IL	PTLG002	IL	IL	CD56+ CD16- NK cells
+PTLG002_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG002_IL	PTLG002	IL	IL	CD56+ CD16+ NK cells
+PTLG002_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG002_IL	PTLG002	IL	IL	CD8+ T cells CD8+ T mem
+PTLG002_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG002_IL	PTLG002	IL	IL	CD8+ T cells CD8+ T naive
+PTLG002_BL_IL_null_CD8+ T cells.fcs	PTLG002_IL	PTLG002	IL	IL	CD8+ T cells
+PTLG002_BL_IL_null_Classical MCs.fcs	PTLG002_IL	PTLG002	IL	IL	Classical MCs
+PTLG002_BL_IL_null_gd T cells.fcs	PTLG002_IL	PTLG002	IL	IL	gd T cells
+PTLG002_BL_IL_null_Granulocytes.fcs	PTLG002_IL	PTLG002	IL	IL	Granulocytes
+PTLG002_BL_IL_null_Intermediate MCs.fcs	PTLG002_IL	PTLG002	IL	IL	Intermediate MCs
+PTLG002_BL_IL_null_Leukocytes.fcs	PTLG002_IL	PTLG002	IL	IL	Leukocytes
+PTLG002_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG002_IL	PTLG002	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG002_BL_IL_null_mDCs.fcs	PTLG002_IL	PTLG002	IL	IL	mDCs
+PTLG002_BL_IL_null_Mononuclear cells.fcs	PTLG002_IL	PTLG002	IL	IL	Mononuclear cells
+PTLG002_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG002_IL	PTLG002	IL	IL	Mononuclear cells T cells
+PTLG002_BL_IL_null_Non-classical MCs.fcs	PTLG002_IL	PTLG002	IL	IL	Non-classical MCs
+PTLG002_BL_LPS_null_B cells.fcs	PTLG002_LPS	PTLG002	LPS	LPS	B cells
+PTLG002_BL_LPS_null_CD14- CD16-.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD14- CD16-
+PTLG002_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD25+ CD8+ T mem
+PTLG002_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD25+ CD8+ T naive
+PTLG002_BL_LPS_null_CD3- CD19-.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD3- CD19-
+PTLG002_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD3- CD19- NK cells
+PTLG002_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD4- CD8- T cells
+PTLG002_BL_LPS_null_CD4+ T cells.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD4+ T cells
+PTLG002_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD4+ Th1 mem
+PTLG002_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD4+ Th1 naive
+PTLG002_BL_LPS_null_CD4+ T mem.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD4+ T mem
+PTLG002_BL_LPS_null_CD4+ T naive.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD4+ T naive
+PTLG002_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD56+ CD16- NK cells
+PTLG002_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD56+ CD16+ NK cells
+PTLG002_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG002_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG002_BL_LPS_null_CD8+ T cells.fcs	PTLG002_LPS	PTLG002	LPS	LPS	CD8+ T cells
+PTLG002_BL_LPS_null_Classical MCs.fcs	PTLG002_LPS	PTLG002	LPS	LPS	Classical MCs
+PTLG002_BL_LPS_null_gd T cells.fcs	PTLG002_LPS	PTLG002	LPS	LPS	gd T cells
+PTLG002_BL_LPS_null_Granulocytes.fcs	PTLG002_LPS	PTLG002	LPS	LPS	Granulocytes
+PTLG002_BL_LPS_null_Intermediate MCs.fcs	PTLG002_LPS	PTLG002	LPS	LPS	Intermediate MCs
+PTLG002_BL_LPS_null_Leukocytes.fcs	PTLG002_LPS	PTLG002	LPS	LPS	Leukocytes
+PTLG002_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG002_LPS	PTLG002	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG002_BL_LPS_null_mDCs.fcs	PTLG002_LPS	PTLG002	LPS	LPS	mDCs
+PTLG002_BL_LPS_null_Mononuclear cells.fcs	PTLG002_LPS	PTLG002	LPS	LPS	Mononuclear cells
+PTLG002_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG002_LPS	PTLG002	LPS	LPS	Mononuclear cells T cells
+PTLG002_BL_LPS_null_Non-classical MCs.fcs	PTLG002_LPS	PTLG002	LPS	LPS	Non-classical MCs
+PTLG002_BL_Unstim_null_B cells.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	B cells
+PTLG002_BL_Unstim_null_CD14- CD16-.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD14- CD16-
+PTLG002_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG002_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG002_BL_Unstim_null_CD3- CD19-.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD3- CD19-
+PTLG002_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD3- CD19- NK cells
+PTLG002_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD4- CD8- T cells
+PTLG002_BL_Unstim_null_CD4+ T cells.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD4+ T cells
+PTLG002_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD4+ Th1 mem
+PTLG002_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD4+ Th1 naive
+PTLG002_BL_Unstim_null_CD4+ T mem.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD4+ T mem
+PTLG002_BL_Unstim_null_CD4+ T naive.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD4+ T naive
+PTLG002_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG002_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG002_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG002_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG002_BL_Unstim_null_CD8+ T cells.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	CD8+ T cells
+PTLG002_BL_Unstim_null_Classical MCs.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	Classical MCs
+PTLG002_BL_Unstim_null_gd T cells.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	gd T cells
+PTLG002_BL_Unstim_null_Granulocytes.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	Granulocytes
+PTLG002_BL_Unstim_null_Intermediate MCs.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	Intermediate MCs
+PTLG002_BL_Unstim_null_Leukocytes.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	Leukocytes
+PTLG002_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG002_BL_Unstim_null_mDCs.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	mDCs
+PTLG002_BL_Unstim_null_Mononuclear cells.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	Mononuclear cells
+PTLG002_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	Mononuclear cells T cells
+PTLG002_BL_Unstim_null_Non-classical MCs.fcs	PTLG002_Unstim	PTLG002	Unstim	Unstim	Non-classical MCs
+PTLG003_BL_IFNa_null_B cells.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	B cells
+PTLG003_BL_IFNa_null_CD14- CD16-.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD14- CD16-
+PTLG003_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG003_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG003_BL_IFNa_null_CD3- CD19-.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD3- CD19-
+PTLG003_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD3- CD19- NK cells
+PTLG003_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD4- CD8- T cells
+PTLG003_BL_IFNa_null_CD4+ T cells.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD4+ T cells
+PTLG003_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD4+ Th1 mem
+PTLG003_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD4+ Th1 naive
+PTLG003_BL_IFNa_null_CD4+ T mem.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD4+ T mem
+PTLG003_BL_IFNa_null_CD4+ T naive.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD4+ T naive
+PTLG003_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG003_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG003_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG003_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG003_BL_IFNa_null_CD8+ T cells.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	CD8+ T cells
+PTLG003_BL_IFNa_null_Classical MCs.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	Classical MCs
+PTLG003_BL_IFNa_null_gd T cells.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	gd T cells
+PTLG003_BL_IFNa_null_Granulocytes.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	Granulocytes
+PTLG003_BL_IFNa_null_Intermediate MCs.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	Intermediate MCs
+PTLG003_BL_IFNa_null_Leukocytes.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	Leukocytes
+PTLG003_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG003_BL_IFNa_null_mDCs.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	mDCs
+PTLG003_BL_IFNa_null_Mononuclear cells.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	Mononuclear cells
+PTLG003_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	Mononuclear cells T cells
+PTLG003_BL_IFNa_null_Non-classical MCs.fcs	PTLG003_IFNa	PTLG003	IFNa	IFNa	Non-classical MCs
+PTLG003_BL_IL_null_B cells.fcs	PTLG003_IL	PTLG003	IL	IL	B cells
+PTLG003_BL_IL_null_CD14- CD16-.fcs	PTLG003_IL	PTLG003	IL	IL	CD14- CD16-
+PTLG003_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG003_IL	PTLG003	IL	IL	CD25+ CD8+ T mem
+PTLG003_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG003_IL	PTLG003	IL	IL	CD25+ CD8+ T naive
+PTLG003_BL_IL_null_CD3- CD19-.fcs	PTLG003_IL	PTLG003	IL	IL	CD3- CD19-
+PTLG003_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG003_IL	PTLG003	IL	IL	CD3- CD19- NK cells
+PTLG003_BL_IL_null_CD4- CD8- T cells.fcs	PTLG003_IL	PTLG003	IL	IL	CD4- CD8- T cells
+PTLG003_BL_IL_null_CD4+ T cells.fcs	PTLG003_IL	PTLG003	IL	IL	CD4+ T cells
+PTLG003_BL_IL_null_CD4+ Th1 mem.fcs	PTLG003_IL	PTLG003	IL	IL	CD4+ Th1 mem
+PTLG003_BL_IL_null_CD4+ Th1 naive.fcs	PTLG003_IL	PTLG003	IL	IL	CD4+ Th1 naive
+PTLG003_BL_IL_null_CD4+ T mem.fcs	PTLG003_IL	PTLG003	IL	IL	CD4+ T mem
+PTLG003_BL_IL_null_CD4+ T naive.fcs	PTLG003_IL	PTLG003	IL	IL	CD4+ T naive
+PTLG003_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG003_IL	PTLG003	IL	IL	CD56+ CD16- NK cells
+PTLG003_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG003_IL	PTLG003	IL	IL	CD56+ CD16+ NK cells
+PTLG003_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG003_IL	PTLG003	IL	IL	CD8+ T cells CD8+ T mem
+PTLG003_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG003_IL	PTLG003	IL	IL	CD8+ T cells CD8+ T naive
+PTLG003_BL_IL_null_CD8+ T cells.fcs	PTLG003_IL	PTLG003	IL	IL	CD8+ T cells
+PTLG003_BL_IL_null_Classical MCs.fcs	PTLG003_IL	PTLG003	IL	IL	Classical MCs
+PTLG003_BL_IL_null_gd T cells.fcs	PTLG003_IL	PTLG003	IL	IL	gd T cells
+PTLG003_BL_IL_null_Granulocytes.fcs	PTLG003_IL	PTLG003	IL	IL	Granulocytes
+PTLG003_BL_IL_null_Intermediate MCs.fcs	PTLG003_IL	PTLG003	IL	IL	Intermediate MCs
+PTLG003_BL_IL_null_Leukocytes.fcs	PTLG003_IL	PTLG003	IL	IL	Leukocytes
+PTLG003_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG003_IL	PTLG003	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG003_BL_IL_null_mDCs.fcs	PTLG003_IL	PTLG003	IL	IL	mDCs
+PTLG003_BL_IL_null_Mononuclear cells.fcs	PTLG003_IL	PTLG003	IL	IL	Mononuclear cells
+PTLG003_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG003_IL	PTLG003	IL	IL	Mononuclear cells T cells
+PTLG003_BL_IL_null_Non-classical MCs.fcs	PTLG003_IL	PTLG003	IL	IL	Non-classical MCs
+PTLG003_BL_LPS_null_B cells.fcs	PTLG003_LPS	PTLG003	LPS	LPS	B cells
+PTLG003_BL_LPS_null_CD14- CD16-.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD14- CD16-
+PTLG003_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD25+ CD8+ T mem
+PTLG003_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD25+ CD8+ T naive
+PTLG003_BL_LPS_null_CD3- CD19-.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD3- CD19-
+PTLG003_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD3- CD19- NK cells
+PTLG003_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD4- CD8- T cells
+PTLG003_BL_LPS_null_CD4+ T cells.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD4+ T cells
+PTLG003_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD4+ Th1 mem
+PTLG003_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD4+ Th1 naive
+PTLG003_BL_LPS_null_CD4+ T mem.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD4+ T mem
+PTLG003_BL_LPS_null_CD4+ T naive.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD4+ T naive
+PTLG003_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD56+ CD16- NK cells
+PTLG003_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD56+ CD16+ NK cells
+PTLG003_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG003_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG003_BL_LPS_null_CD8+ T cells.fcs	PTLG003_LPS	PTLG003	LPS	LPS	CD8+ T cells
+PTLG003_BL_LPS_null_Classical MCs.fcs	PTLG003_LPS	PTLG003	LPS	LPS	Classical MCs
+PTLG003_BL_LPS_null_gd T cells.fcs	PTLG003_LPS	PTLG003	LPS	LPS	gd T cells
+PTLG003_BL_LPS_null_Granulocytes.fcs	PTLG003_LPS	PTLG003	LPS	LPS	Granulocytes
+PTLG003_BL_LPS_null_Intermediate MCs.fcs	PTLG003_LPS	PTLG003	LPS	LPS	Intermediate MCs
+PTLG003_BL_LPS_null_Leukocytes.fcs	PTLG003_LPS	PTLG003	LPS	LPS	Leukocytes
+PTLG003_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG003_LPS	PTLG003	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG003_BL_LPS_null_mDCs.fcs	PTLG003_LPS	PTLG003	LPS	LPS	mDCs
+PTLG003_BL_LPS_null_Mononuclear cells.fcs	PTLG003_LPS	PTLG003	LPS	LPS	Mononuclear cells
+PTLG003_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG003_LPS	PTLG003	LPS	LPS	Mononuclear cells T cells
+PTLG003_BL_LPS_null_Non-classical MCs.fcs	PTLG003_LPS	PTLG003	LPS	LPS	Non-classical MCs
+PTLG003_BL_Unstim_null_B cells.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	B cells
+PTLG003_BL_Unstim_null_CD14- CD16-.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD14- CD16-
+PTLG003_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG003_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG003_BL_Unstim_null_CD3- CD19-.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD3- CD19-
+PTLG003_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD3- CD19- NK cells
+PTLG003_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD4- CD8- T cells
+PTLG003_BL_Unstim_null_CD4+ T cells.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD4+ T cells
+PTLG003_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD4+ Th1 mem
+PTLG003_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD4+ Th1 naive
+PTLG003_BL_Unstim_null_CD4+ T mem.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD4+ T mem
+PTLG003_BL_Unstim_null_CD4+ T naive.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD4+ T naive
+PTLG003_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG003_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG003_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG003_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG003_BL_Unstim_null_CD8+ T cells.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	CD8+ T cells
+PTLG003_BL_Unstim_null_Classical MCs.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	Classical MCs
+PTLG003_BL_Unstim_null_gd T cells.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	gd T cells
+PTLG003_BL_Unstim_null_Granulocytes.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	Granulocytes
+PTLG003_BL_Unstim_null_Intermediate MCs.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	Intermediate MCs
+PTLG003_BL_Unstim_null_Leukocytes.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	Leukocytes
+PTLG003_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG003_BL_Unstim_null_mDCs.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	mDCs
+PTLG003_BL_Unstim_null_Mononuclear cells.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	Mononuclear cells
+PTLG003_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	Mononuclear cells T cells
+PTLG003_BL_Unstim_null_Non-classical MCs.fcs	PTLG003_Unstim	PTLG003	Unstim	Unstim	Non-classical MCs
+PTLG004_BL_IFNa_null_B cells.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	B cells
+PTLG004_BL_IFNa_null_CD14- CD16-.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD14- CD16-
+PTLG004_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG004_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG004_BL_IFNa_null_CD3- CD19-.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD3- CD19-
+PTLG004_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD3- CD19- NK cells
+PTLG004_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD4- CD8- T cells
+PTLG004_BL_IFNa_null_CD4+ T cells.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD4+ T cells
+PTLG004_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD4+ Th1 mem
+PTLG004_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD4+ Th1 naive
+PTLG004_BL_IFNa_null_CD4+ T mem.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD4+ T mem
+PTLG004_BL_IFNa_null_CD4+ T naive.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD4+ T naive
+PTLG004_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG004_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG004_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG004_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG004_BL_IFNa_null_CD8+ T cells.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	CD8+ T cells
+PTLG004_BL_IFNa_null_Classical MCs.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	Classical MCs
+PTLG004_BL_IFNa_null_gd T cells.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	gd T cells
+PTLG004_BL_IFNa_null_Granulocytes.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	Granulocytes
+PTLG004_BL_IFNa_null_Intermediate MCs.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	Intermediate MCs
+PTLG004_BL_IFNa_null_Leukocytes.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	Leukocytes
+PTLG004_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG004_BL_IFNa_null_mDCs.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	mDCs
+PTLG004_BL_IFNa_null_Mononuclear cells.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	Mononuclear cells
+PTLG004_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	Mononuclear cells T cells
+PTLG004_BL_IFNa_null_Non-classical MCs.fcs	PTLG004_IFNa	PTLG004	IFNa	IFNa	Non-classical MCs
+PTLG004_BL_IL_null_B cells.fcs	PTLG004_IL	PTLG004	IL	IL	B cells
+PTLG004_BL_IL_null_CD14- CD16-.fcs	PTLG004_IL	PTLG004	IL	IL	CD14- CD16-
+PTLG004_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG004_IL	PTLG004	IL	IL	CD25+ CD8+ T mem
+PTLG004_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG004_IL	PTLG004	IL	IL	CD25+ CD8+ T naive
+PTLG004_BL_IL_null_CD3- CD19-.fcs	PTLG004_IL	PTLG004	IL	IL	CD3- CD19-
+PTLG004_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG004_IL	PTLG004	IL	IL	CD3- CD19- NK cells
+PTLG004_BL_IL_null_CD4- CD8- T cells.fcs	PTLG004_IL	PTLG004	IL	IL	CD4- CD8- T cells
+PTLG004_BL_IL_null_CD4+ T cells.fcs	PTLG004_IL	PTLG004	IL	IL	CD4+ T cells
+PTLG004_BL_IL_null_CD4+ Th1 mem.fcs	PTLG004_IL	PTLG004	IL	IL	CD4+ Th1 mem
+PTLG004_BL_IL_null_CD4+ Th1 naive.fcs	PTLG004_IL	PTLG004	IL	IL	CD4+ Th1 naive
+PTLG004_BL_IL_null_CD4+ T mem.fcs	PTLG004_IL	PTLG004	IL	IL	CD4+ T mem
+PTLG004_BL_IL_null_CD4+ T naive.fcs	PTLG004_IL	PTLG004	IL	IL	CD4+ T naive
+PTLG004_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG004_IL	PTLG004	IL	IL	CD56+ CD16- NK cells
+PTLG004_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG004_IL	PTLG004	IL	IL	CD56+ CD16+ NK cells
+PTLG004_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG004_IL	PTLG004	IL	IL	CD8+ T cells CD8+ T mem
+PTLG004_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG004_IL	PTLG004	IL	IL	CD8+ T cells CD8+ T naive
+PTLG004_BL_IL_null_CD8+ T cells.fcs	PTLG004_IL	PTLG004	IL	IL	CD8+ T cells
+PTLG004_BL_IL_null_Classical MCs.fcs	PTLG004_IL	PTLG004	IL	IL	Classical MCs
+PTLG004_BL_IL_null_gd T cells.fcs	PTLG004_IL	PTLG004	IL	IL	gd T cells
+PTLG004_BL_IL_null_Granulocytes.fcs	PTLG004_IL	PTLG004	IL	IL	Granulocytes
+PTLG004_BL_IL_null_Intermediate MCs.fcs	PTLG004_IL	PTLG004	IL	IL	Intermediate MCs
+PTLG004_BL_IL_null_Leukocytes.fcs	PTLG004_IL	PTLG004	IL	IL	Leukocytes
+PTLG004_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG004_IL	PTLG004	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG004_BL_IL_null_mDCs.fcs	PTLG004_IL	PTLG004	IL	IL	mDCs
+PTLG004_BL_IL_null_Mononuclear cells.fcs	PTLG004_IL	PTLG004	IL	IL	Mononuclear cells
+PTLG004_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG004_IL	PTLG004	IL	IL	Mononuclear cells T cells
+PTLG004_BL_IL_null_Non-classical MCs.fcs	PTLG004_IL	PTLG004	IL	IL	Non-classical MCs
+PTLG004_BL_LPS_null_B cells.fcs	PTLG004_LPS	PTLG004	LPS	LPS	B cells
+PTLG004_BL_LPS_null_CD14- CD16-.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD14- CD16-
+PTLG004_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD25+ CD8+ T mem
+PTLG004_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD25+ CD8+ T naive
+PTLG004_BL_LPS_null_CD3- CD19-.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD3- CD19-
+PTLG004_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD3- CD19- NK cells
+PTLG004_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD4- CD8- T cells
+PTLG004_BL_LPS_null_CD4+ T cells.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD4+ T cells
+PTLG004_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD4+ Th1 mem
+PTLG004_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD4+ Th1 naive
+PTLG004_BL_LPS_null_CD4+ T mem.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD4+ T mem
+PTLG004_BL_LPS_null_CD4+ T naive.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD4+ T naive
+PTLG004_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD56+ CD16- NK cells
+PTLG004_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD56+ CD16+ NK cells
+PTLG004_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG004_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG004_BL_LPS_null_CD8+ T cells.fcs	PTLG004_LPS	PTLG004	LPS	LPS	CD8+ T cells
+PTLG004_BL_LPS_null_Classical MCs.fcs	PTLG004_LPS	PTLG004	LPS	LPS	Classical MCs
+PTLG004_BL_LPS_null_gd T cells.fcs	PTLG004_LPS	PTLG004	LPS	LPS	gd T cells
+PTLG004_BL_LPS_null_Granulocytes.fcs	PTLG004_LPS	PTLG004	LPS	LPS	Granulocytes
+PTLG004_BL_LPS_null_Intermediate MCs.fcs	PTLG004_LPS	PTLG004	LPS	LPS	Intermediate MCs
+PTLG004_BL_LPS_null_Leukocytes.fcs	PTLG004_LPS	PTLG004	LPS	LPS	Leukocytes
+PTLG004_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG004_LPS	PTLG004	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG004_BL_LPS_null_mDCs.fcs	PTLG004_LPS	PTLG004	LPS	LPS	mDCs
+PTLG004_BL_LPS_null_Mononuclear cells.fcs	PTLG004_LPS	PTLG004	LPS	LPS	Mononuclear cells
+PTLG004_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG004_LPS	PTLG004	LPS	LPS	Mononuclear cells T cells
+PTLG004_BL_LPS_null_Non-classical MCs.fcs	PTLG004_LPS	PTLG004	LPS	LPS	Non-classical MCs
+PTLG004_BL_Unstim_null_B cells.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	B cells
+PTLG004_BL_Unstim_null_CD14- CD16-.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD14- CD16-
+PTLG004_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG004_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG004_BL_Unstim_null_CD3- CD19-.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD3- CD19-
+PTLG004_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD3- CD19- NK cells
+PTLG004_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD4- CD8- T cells
+PTLG004_BL_Unstim_null_CD4+ T cells.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD4+ T cells
+PTLG004_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD4+ Th1 mem
+PTLG004_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD4+ Th1 naive
+PTLG004_BL_Unstim_null_CD4+ T mem.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD4+ T mem
+PTLG004_BL_Unstim_null_CD4+ T naive.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD4+ T naive
+PTLG004_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG004_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG004_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG004_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG004_BL_Unstim_null_CD8+ T cells.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	CD8+ T cells
+PTLG004_BL_Unstim_null_Classical MCs.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	Classical MCs
+PTLG004_BL_Unstim_null_gd T cells.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	gd T cells
+PTLG004_BL_Unstim_null_Granulocytes.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	Granulocytes
+PTLG004_BL_Unstim_null_Intermediate MCs.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	Intermediate MCs
+PTLG004_BL_Unstim_null_Leukocytes.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	Leukocytes
+PTLG004_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG004_BL_Unstim_null_mDCs.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	mDCs
+PTLG004_BL_Unstim_null_Mononuclear cells.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	Mononuclear cells
+PTLG004_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	Mononuclear cells T cells
+PTLG004_BL_Unstim_null_Non-classical MCs.fcs	PTLG004_Unstim	PTLG004	Unstim	Unstim	Non-classical MCs
+PTLG005_BL_IFNa_null_B cells.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	B cells
+PTLG005_BL_IFNa_null_CD14- CD16-.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD14- CD16-
+PTLG005_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG005_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG005_BL_IFNa_null_CD3- CD19-.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD3- CD19-
+PTLG005_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD3- CD19- NK cells
+PTLG005_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD4- CD8- T cells
+PTLG005_BL_IFNa_null_CD4+ T cells.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD4+ T cells
+PTLG005_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD4+ Th1 mem
+PTLG005_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD4+ Th1 naive
+PTLG005_BL_IFNa_null_CD4+ T mem.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD4+ T mem
+PTLG005_BL_IFNa_null_CD4+ T naive.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD4+ T naive
+PTLG005_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG005_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG005_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG005_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG005_BL_IFNa_null_CD8+ T cells.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	CD8+ T cells
+PTLG005_BL_IFNa_null_Classical MCs.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	Classical MCs
+PTLG005_BL_IFNa_null_gd T cells.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	gd T cells
+PTLG005_BL_IFNa_null_Granulocytes.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	Granulocytes
+PTLG005_BL_IFNa_null_Intermediate MCs.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	Intermediate MCs
+PTLG005_BL_IFNa_null_Leukocytes.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	Leukocytes
+PTLG005_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG005_BL_IFNa_null_mDCs.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	mDCs
+PTLG005_BL_IFNa_null_Mononuclear cells.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	Mononuclear cells
+PTLG005_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	Mononuclear cells T cells
+PTLG005_BL_IFNa_null_Non-classical MCs.fcs	PTLG005_IFNa	PTLG005	IFNa	IFNa	Non-classical MCs
+PTLG005_BL_IL_null_B cells.fcs	PTLG005_IL	PTLG005	IL	IL	B cells
+PTLG005_BL_IL_null_CD14- CD16-.fcs	PTLG005_IL	PTLG005	IL	IL	CD14- CD16-
+PTLG005_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG005_IL	PTLG005	IL	IL	CD25+ CD8+ T mem
+PTLG005_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG005_IL	PTLG005	IL	IL	CD25+ CD8+ T naive
+PTLG005_BL_IL_null_CD3- CD19-.fcs	PTLG005_IL	PTLG005	IL	IL	CD3- CD19-
+PTLG005_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG005_IL	PTLG005	IL	IL	CD3- CD19- NK cells
+PTLG005_BL_IL_null_CD4- CD8- T cells.fcs	PTLG005_IL	PTLG005	IL	IL	CD4- CD8- T cells
+PTLG005_BL_IL_null_CD4+ T cells.fcs	PTLG005_IL	PTLG005	IL	IL	CD4+ T cells
+PTLG005_BL_IL_null_CD4+ Th1 mem.fcs	PTLG005_IL	PTLG005	IL	IL	CD4+ Th1 mem
+PTLG005_BL_IL_null_CD4+ Th1 naive.fcs	PTLG005_IL	PTLG005	IL	IL	CD4+ Th1 naive
+PTLG005_BL_IL_null_CD4+ T mem.fcs	PTLG005_IL	PTLG005	IL	IL	CD4+ T mem
+PTLG005_BL_IL_null_CD4+ T naive.fcs	PTLG005_IL	PTLG005	IL	IL	CD4+ T naive
+PTLG005_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG005_IL	PTLG005	IL	IL	CD56+ CD16+ NK cells
+PTLG005_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG005_IL	PTLG005	IL	IL	CD8+ T cells CD8+ T mem
+PTLG005_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG005_IL	PTLG005	IL	IL	CD8+ T cells CD8+ T naive
+PTLG005_BL_IL_null_CD8+ T cells.fcs	PTLG005_IL	PTLG005	IL	IL	CD8+ T cells
+PTLG005_BL_IL_null_Classical MCs.fcs	PTLG005_IL	PTLG005	IL	IL	Classical MCs
+PTLG005_BL_IL_null_gd T cells.fcs	PTLG005_IL	PTLG005	IL	IL	gd T cells
+PTLG005_BL_IL_null_Granulocytes.fcs	PTLG005_IL	PTLG005	IL	IL	Granulocytes
+PTLG005_BL_IL_null_Intermediate MCs.fcs	PTLG005_IL	PTLG005	IL	IL	Intermediate MCs
+PTLG005_BL_IL_null_Leukocytes.fcs	PTLG005_IL	PTLG005	IL	IL	Leukocytes
+PTLG005_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG005_IL	PTLG005	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG005_BL_IL_null_mDCs.fcs	PTLG005_IL	PTLG005	IL	IL	mDCs
+PTLG005_BL_IL_null_Mononuclear cells.fcs	PTLG005_IL	PTLG005	IL	IL	Mononuclear cells
+PTLG005_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG005_IL	PTLG005	IL	IL	Mononuclear cells T cells
+PTLG005_BL_IL_null_Non-classical MCs.fcs	PTLG005_IL	PTLG005	IL	IL	Non-classical MCs
+PTLG005_BL_LPS_null_B cells.fcs	PTLG005_LPS	PTLG005	LPS	LPS	B cells
+PTLG005_BL_LPS_null_CD14- CD16-.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD14- CD16-
+PTLG005_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD25+ CD8+ T mem
+PTLG005_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD25+ CD8+ T naive
+PTLG005_BL_LPS_null_CD3- CD19-.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD3- CD19-
+PTLG005_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD3- CD19- NK cells
+PTLG005_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD4- CD8- T cells
+PTLG005_BL_LPS_null_CD4+ T cells.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD4+ T cells
+PTLG005_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD4+ Th1 mem
+PTLG005_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD4+ Th1 naive
+PTLG005_BL_LPS_null_CD4+ T mem.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD4+ T mem
+PTLG005_BL_LPS_null_CD4+ T naive.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD4+ T naive
+PTLG005_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD56+ CD16- NK cells
+PTLG005_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD56+ CD16+ NK cells
+PTLG005_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG005_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG005_BL_LPS_null_CD8+ T cells.fcs	PTLG005_LPS	PTLG005	LPS	LPS	CD8+ T cells
+PTLG005_BL_LPS_null_Classical MCs.fcs	PTLG005_LPS	PTLG005	LPS	LPS	Classical MCs
+PTLG005_BL_LPS_null_gd T cells.fcs	PTLG005_LPS	PTLG005	LPS	LPS	gd T cells
+PTLG005_BL_LPS_null_Granulocytes.fcs	PTLG005_LPS	PTLG005	LPS	LPS	Granulocytes
+PTLG005_BL_LPS_null_Intermediate MCs.fcs	PTLG005_LPS	PTLG005	LPS	LPS	Intermediate MCs
+PTLG005_BL_LPS_null_Leukocytes.fcs	PTLG005_LPS	PTLG005	LPS	LPS	Leukocytes
+PTLG005_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG005_LPS	PTLG005	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG005_BL_LPS_null_mDCs.fcs	PTLG005_LPS	PTLG005	LPS	LPS	mDCs
+PTLG005_BL_LPS_null_Mononuclear cells.fcs	PTLG005_LPS	PTLG005	LPS	LPS	Mononuclear cells
+PTLG005_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG005_LPS	PTLG005	LPS	LPS	Mononuclear cells T cells
+PTLG005_BL_LPS_null_Non-classical MCs.fcs	PTLG005_LPS	PTLG005	LPS	LPS	Non-classical MCs
+PTLG005_BL_Unstim_null_B cells.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	B cells
+PTLG005_BL_Unstim_null_CD14- CD16-.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD14- CD16-
+PTLG005_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG005_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG005_BL_Unstim_null_CD3- CD19-.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD3- CD19-
+PTLG005_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD3- CD19- NK cells
+PTLG005_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD4- CD8- T cells
+PTLG005_BL_Unstim_null_CD4+ T cells.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD4+ T cells
+PTLG005_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD4+ Th1 mem
+PTLG005_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD4+ Th1 naive
+PTLG005_BL_Unstim_null_CD4+ T mem.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD4+ T mem
+PTLG005_BL_Unstim_null_CD4+ T naive.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD4+ T naive
+PTLG005_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG005_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG005_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG005_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG005_BL_Unstim_null_CD8+ T cells.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	CD8+ T cells
+PTLG005_BL_Unstim_null_Classical MCs.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	Classical MCs
+PTLG005_BL_Unstim_null_gd T cells.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	gd T cells
+PTLG005_BL_Unstim_null_Granulocytes.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	Granulocytes
+PTLG005_BL_Unstim_null_Intermediate MCs.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	Intermediate MCs
+PTLG005_BL_Unstim_null_Leukocytes.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	Leukocytes
+PTLG005_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG005_BL_Unstim_null_mDCs.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	mDCs
+PTLG005_BL_Unstim_null_Mononuclear cells.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	Mononuclear cells
+PTLG005_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	Mononuclear cells T cells
+PTLG005_BL_Unstim_null_Non-classical MCs.fcs	PTLG005_Unstim	PTLG005	Unstim	Unstim	Non-classical MCs
+PTLG007_BL_IFNa_null_B cells.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	B cells
+PTLG007_BL_IFNa_null_CD14- CD16-.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD14- CD16-
+PTLG007_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG007_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG007_BL_IFNa_null_CD3- CD19-.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD3- CD19-
+PTLG007_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD3- CD19- NK cells
+PTLG007_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD4- CD8- T cells
+PTLG007_BL_IFNa_null_CD4+ T cells.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD4+ T cells
+PTLG007_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD4+ Th1 mem
+PTLG007_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD4+ Th1 naive
+PTLG007_BL_IFNa_null_CD4+ T mem.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD4+ T mem
+PTLG007_BL_IFNa_null_CD4+ T naive.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD4+ T naive
+PTLG007_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG007_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG007_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG007_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG007_BL_IFNa_null_CD8+ T cells.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	CD8+ T cells
+PTLG007_BL_IFNa_null_Classical MCs.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	Classical MCs
+PTLG007_BL_IFNa_null_gd T cells.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	gd T cells
+PTLG007_BL_IFNa_null_Granulocytes.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	Granulocytes
+PTLG007_BL_IFNa_null_Intermediate MCs.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	Intermediate MCs
+PTLG007_BL_IFNa_null_Leukocytes.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	Leukocytes
+PTLG007_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG007_BL_IFNa_null_mDCs.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	mDCs
+PTLG007_BL_IFNa_null_Mononuclear cells.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	Mononuclear cells
+PTLG007_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	Mononuclear cells T cells
+PTLG007_BL_IFNa_null_Non-classical MCs.fcs	PTLG007_IFNa	PTLG007	IFNa	IFNa	Non-classical MCs
+PTLG007_BL_IL_null_B cells.fcs	PTLG007_IL	PTLG007	IL	IL	B cells
+PTLG007_BL_IL_null_CD14- CD16-.fcs	PTLG007_IL	PTLG007	IL	IL	CD14- CD16-
+PTLG007_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG007_IL	PTLG007	IL	IL	CD25+ CD8+ T mem
+PTLG007_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG007_IL	PTLG007	IL	IL	CD25+ CD8+ T naive
+PTLG007_BL_IL_null_CD3- CD19-.fcs	PTLG007_IL	PTLG007	IL	IL	CD3- CD19-
+PTLG007_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG007_IL	PTLG007	IL	IL	CD3- CD19- NK cells
+PTLG007_BL_IL_null_CD4- CD8- T cells.fcs	PTLG007_IL	PTLG007	IL	IL	CD4- CD8- T cells
+PTLG007_BL_IL_null_CD4+ T cells.fcs	PTLG007_IL	PTLG007	IL	IL	CD4+ T cells
+PTLG007_BL_IL_null_CD4+ Th1 mem.fcs	PTLG007_IL	PTLG007	IL	IL	CD4+ Th1 mem
+PTLG007_BL_IL_null_CD4+ Th1 naive.fcs	PTLG007_IL	PTLG007	IL	IL	CD4+ Th1 naive
+PTLG007_BL_IL_null_CD4+ T mem.fcs	PTLG007_IL	PTLG007	IL	IL	CD4+ T mem
+PTLG007_BL_IL_null_CD4+ T naive.fcs	PTLG007_IL	PTLG007	IL	IL	CD4+ T naive
+PTLG007_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG007_IL	PTLG007	IL	IL	CD56+ CD16- NK cells
+PTLG007_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG007_IL	PTLG007	IL	IL	CD56+ CD16+ NK cells
+PTLG007_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG007_IL	PTLG007	IL	IL	CD8+ T cells CD8+ T mem
+PTLG007_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG007_IL	PTLG007	IL	IL	CD8+ T cells CD8+ T naive
+PTLG007_BL_IL_null_CD8+ T cells.fcs	PTLG007_IL	PTLG007	IL	IL	CD8+ T cells
+PTLG007_BL_IL_null_Classical MCs.fcs	PTLG007_IL	PTLG007	IL	IL	Classical MCs
+PTLG007_BL_IL_null_gd T cells.fcs	PTLG007_IL	PTLG007	IL	IL	gd T cells
+PTLG007_BL_IL_null_Granulocytes.fcs	PTLG007_IL	PTLG007	IL	IL	Granulocytes
+PTLG007_BL_IL_null_Intermediate MCs.fcs	PTLG007_IL	PTLG007	IL	IL	Intermediate MCs
+PTLG007_BL_IL_null_Leukocytes.fcs	PTLG007_IL	PTLG007	IL	IL	Leukocytes
+PTLG007_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG007_IL	PTLG007	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG007_BL_IL_null_mDCs.fcs	PTLG007_IL	PTLG007	IL	IL	mDCs
+PTLG007_BL_IL_null_Mononuclear cells.fcs	PTLG007_IL	PTLG007	IL	IL	Mononuclear cells
+PTLG007_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG007_IL	PTLG007	IL	IL	Mononuclear cells T cells
+PTLG007_BL_IL_null_Non-classical MCs.fcs	PTLG007_IL	PTLG007	IL	IL	Non-classical MCs
+PTLG007_BL_LPS_null_B cells.fcs	PTLG007_LPS	PTLG007	LPS	LPS	B cells
+PTLG007_BL_LPS_null_CD14- CD16-.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD14- CD16-
+PTLG007_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD25+ CD8+ T mem
+PTLG007_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD25+ CD8+ T naive
+PTLG007_BL_LPS_null_CD3- CD19-.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD3- CD19-
+PTLG007_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD3- CD19- NK cells
+PTLG007_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD4- CD8- T cells
+PTLG007_BL_LPS_null_CD4+ T cells.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD4+ T cells
+PTLG007_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD4+ Th1 mem
+PTLG007_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD4+ Th1 naive
+PTLG007_BL_LPS_null_CD4+ T mem.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD4+ T mem
+PTLG007_BL_LPS_null_CD4+ T naive.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD4+ T naive
+PTLG007_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD56+ CD16- NK cells
+PTLG007_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD56+ CD16+ NK cells
+PTLG007_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG007_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG007_BL_LPS_null_CD8+ T cells.fcs	PTLG007_LPS	PTLG007	LPS	LPS	CD8+ T cells
+PTLG007_BL_LPS_null_Classical MCs.fcs	PTLG007_LPS	PTLG007	LPS	LPS	Classical MCs
+PTLG007_BL_LPS_null_gd T cells.fcs	PTLG007_LPS	PTLG007	LPS	LPS	gd T cells
+PTLG007_BL_LPS_null_Granulocytes.fcs	PTLG007_LPS	PTLG007	LPS	LPS	Granulocytes
+PTLG007_BL_LPS_null_Intermediate MCs.fcs	PTLG007_LPS	PTLG007	LPS	LPS	Intermediate MCs
+PTLG007_BL_LPS_null_Leukocytes.fcs	PTLG007_LPS	PTLG007	LPS	LPS	Leukocytes
+PTLG007_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG007_LPS	PTLG007	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG007_BL_LPS_null_mDCs.fcs	PTLG007_LPS	PTLG007	LPS	LPS	mDCs
+PTLG007_BL_LPS_null_Mononuclear cells.fcs	PTLG007_LPS	PTLG007	LPS	LPS	Mononuclear cells
+PTLG007_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG007_LPS	PTLG007	LPS	LPS	Mononuclear cells T cells
+PTLG007_BL_LPS_null_Non-classical MCs.fcs	PTLG007_LPS	PTLG007	LPS	LPS	Non-classical MCs
+PTLG007_BL_Unstim_null_B cells.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	B cells
+PTLG007_BL_Unstim_null_CD14- CD16-.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD14- CD16-
+PTLG007_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG007_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG007_BL_Unstim_null_CD3- CD19-.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD3- CD19-
+PTLG007_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD3- CD19- NK cells
+PTLG007_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD4- CD8- T cells
+PTLG007_BL_Unstim_null_CD4+ T cells.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD4+ T cells
+PTLG007_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD4+ Th1 mem
+PTLG007_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD4+ Th1 naive
+PTLG007_BL_Unstim_null_CD4+ T mem.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD4+ T mem
+PTLG007_BL_Unstim_null_CD4+ T naive.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD4+ T naive
+PTLG007_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG007_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG007_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG007_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG007_BL_Unstim_null_CD8+ T cells.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	CD8+ T cells
+PTLG007_BL_Unstim_null_Classical MCs.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	Classical MCs
+PTLG007_BL_Unstim_null_gd T cells.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	gd T cells
+PTLG007_BL_Unstim_null_Granulocytes.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	Granulocytes
+PTLG007_BL_Unstim_null_Intermediate MCs.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	Intermediate MCs
+PTLG007_BL_Unstim_null_Leukocytes.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	Leukocytes
+PTLG007_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG007_BL_Unstim_null_mDCs.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	mDCs
+PTLG007_BL_Unstim_null_Mononuclear cells.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	Mononuclear cells
+PTLG007_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	Mononuclear cells T cells
+PTLG007_BL_Unstim_null_Non-classical MCs.fcs	PTLG007_Unstim	PTLG007	Unstim	Unstim	Non-classical MCs
+PTLG008_BL_IFNa_null_B cells.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	B cells
+PTLG008_BL_IFNa_null_CD14- CD16-.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD14- CD16-
+PTLG008_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG008_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG008_BL_IFNa_null_CD3- CD19-.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD3- CD19-
+PTLG008_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD3- CD19- NK cells
+PTLG008_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD4- CD8- T cells
+PTLG008_BL_IFNa_null_CD4+ T cells.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD4+ T cells
+PTLG008_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD4+ Th1 mem
+PTLG008_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD4+ Th1 naive
+PTLG008_BL_IFNa_null_CD4+ T mem.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD4+ T mem
+PTLG008_BL_IFNa_null_CD4+ T naive.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD4+ T naive
+PTLG008_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG008_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG008_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG008_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG008_BL_IFNa_null_CD8+ T cells.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	CD8+ T cells
+PTLG008_BL_IFNa_null_Classical MCs.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	Classical MCs
+PTLG008_BL_IFNa_null_gd T cells.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	gd T cells
+PTLG008_BL_IFNa_null_Granulocytes.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	Granulocytes
+PTLG008_BL_IFNa_null_Intermediate MCs.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	Intermediate MCs
+PTLG008_BL_IFNa_null_Leukocytes.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	Leukocytes
+PTLG008_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG008_BL_IFNa_null_mDCs.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	mDCs
+PTLG008_BL_IFNa_null_Mononuclear cells.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	Mononuclear cells
+PTLG008_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	Mononuclear cells T cells
+PTLG008_BL_IFNa_null_Non-classical MCs.fcs	PTLG008_IFNa	PTLG008	IFNa	IFNa	Non-classical MCs
+PTLG008_BL_IL_null_B cells.fcs	PTLG008_IL	PTLG008	IL	IL	B cells
+PTLG008_BL_IL_null_CD14- CD16-.fcs	PTLG008_IL	PTLG008	IL	IL	CD14- CD16-
+PTLG008_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG008_IL	PTLG008	IL	IL	CD25+ CD8+ T mem
+PTLG008_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG008_IL	PTLG008	IL	IL	CD25+ CD8+ T naive
+PTLG008_BL_IL_null_CD3- CD19-.fcs	PTLG008_IL	PTLG008	IL	IL	CD3- CD19-
+PTLG008_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG008_IL	PTLG008	IL	IL	CD3- CD19- NK cells
+PTLG008_BL_IL_null_CD4- CD8- T cells.fcs	PTLG008_IL	PTLG008	IL	IL	CD4- CD8- T cells
+PTLG008_BL_IL_null_CD4+ T cells.fcs	PTLG008_IL	PTLG008	IL	IL	CD4+ T cells
+PTLG008_BL_IL_null_CD4+ Th1 mem.fcs	PTLG008_IL	PTLG008	IL	IL	CD4+ Th1 mem
+PTLG008_BL_IL_null_CD4+ Th1 naive.fcs	PTLG008_IL	PTLG008	IL	IL	CD4+ Th1 naive
+PTLG008_BL_IL_null_CD4+ T mem.fcs	PTLG008_IL	PTLG008	IL	IL	CD4+ T mem
+PTLG008_BL_IL_null_CD4+ T naive.fcs	PTLG008_IL	PTLG008	IL	IL	CD4+ T naive
+PTLG008_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG008_IL	PTLG008	IL	IL	CD56+ CD16- NK cells
+PTLG008_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG008_IL	PTLG008	IL	IL	CD56+ CD16+ NK cells
+PTLG008_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG008_IL	PTLG008	IL	IL	CD8+ T cells CD8+ T mem
+PTLG008_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG008_IL	PTLG008	IL	IL	CD8+ T cells CD8+ T naive
+PTLG008_BL_IL_null_CD8+ T cells.fcs	PTLG008_IL	PTLG008	IL	IL	CD8+ T cells
+PTLG008_BL_IL_null_Classical MCs.fcs	PTLG008_IL	PTLG008	IL	IL	Classical MCs
+PTLG008_BL_IL_null_gd T cells.fcs	PTLG008_IL	PTLG008	IL	IL	gd T cells
+PTLG008_BL_IL_null_Granulocytes.fcs	PTLG008_IL	PTLG008	IL	IL	Granulocytes
+PTLG008_BL_IL_null_Intermediate MCs.fcs	PTLG008_IL	PTLG008	IL	IL	Intermediate MCs
+PTLG008_BL_IL_null_Leukocytes.fcs	PTLG008_IL	PTLG008	IL	IL	Leukocytes
+PTLG008_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG008_IL	PTLG008	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG008_BL_IL_null_mDCs.fcs	PTLG008_IL	PTLG008	IL	IL	mDCs
+PTLG008_BL_IL_null_Mononuclear cells.fcs	PTLG008_IL	PTLG008	IL	IL	Mononuclear cells
+PTLG008_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG008_IL	PTLG008	IL	IL	Mononuclear cells T cells
+PTLG008_BL_IL_null_Non-classical MCs.fcs	PTLG008_IL	PTLG008	IL	IL	Non-classical MCs
+PTLG008_BL_LPS_null_B cells.fcs	PTLG008_LPS	PTLG008	LPS	LPS	B cells
+PTLG008_BL_LPS_null_CD14- CD16-.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD14- CD16-
+PTLG008_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD25+ CD8+ T mem
+PTLG008_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD25+ CD8+ T naive
+PTLG008_BL_LPS_null_CD3- CD19-.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD3- CD19-
+PTLG008_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD3- CD19- NK cells
+PTLG008_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD4- CD8- T cells
+PTLG008_BL_LPS_null_CD4+ T cells.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD4+ T cells
+PTLG008_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD4+ Th1 mem
+PTLG008_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD4+ Th1 naive
+PTLG008_BL_LPS_null_CD4+ T mem.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD4+ T mem
+PTLG008_BL_LPS_null_CD4+ T naive.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD4+ T naive
+PTLG008_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD56+ CD16- NK cells
+PTLG008_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD56+ CD16+ NK cells
+PTLG008_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG008_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG008_BL_LPS_null_CD8+ T cells.fcs	PTLG008_LPS	PTLG008	LPS	LPS	CD8+ T cells
+PTLG008_BL_LPS_null_Classical MCs.fcs	PTLG008_LPS	PTLG008	LPS	LPS	Classical MCs
+PTLG008_BL_LPS_null_gd T cells.fcs	PTLG008_LPS	PTLG008	LPS	LPS	gd T cells
+PTLG008_BL_LPS_null_Granulocytes.fcs	PTLG008_LPS	PTLG008	LPS	LPS	Granulocytes
+PTLG008_BL_LPS_null_Intermediate MCs.fcs	PTLG008_LPS	PTLG008	LPS	LPS	Intermediate MCs
+PTLG008_BL_LPS_null_Leukocytes.fcs	PTLG008_LPS	PTLG008	LPS	LPS	Leukocytes
+PTLG008_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG008_LPS	PTLG008	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG008_BL_LPS_null_mDCs.fcs	PTLG008_LPS	PTLG008	LPS	LPS	mDCs
+PTLG008_BL_LPS_null_Mononuclear cells.fcs	PTLG008_LPS	PTLG008	LPS	LPS	Mononuclear cells
+PTLG008_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG008_LPS	PTLG008	LPS	LPS	Mononuclear cells T cells
+PTLG008_BL_LPS_null_Non-classical MCs.fcs	PTLG008_LPS	PTLG008	LPS	LPS	Non-classical MCs
+PTLG008_BL_Unstim_null_B cells.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	B cells
+PTLG008_BL_Unstim_null_CD14- CD16-.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD14- CD16-
+PTLG008_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG008_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG008_BL_Unstim_null_CD3- CD19-.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD3- CD19-
+PTLG008_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD3- CD19- NK cells
+PTLG008_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD4- CD8- T cells
+PTLG008_BL_Unstim_null_CD4+ T cells.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD4+ T cells
+PTLG008_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD4+ Th1 mem
+PTLG008_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD4+ Th1 naive
+PTLG008_BL_Unstim_null_CD4+ T mem.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD4+ T mem
+PTLG008_BL_Unstim_null_CD4+ T naive.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD4+ T naive
+PTLG008_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG008_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG008_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG008_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG008_BL_Unstim_null_CD8+ T cells.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	CD8+ T cells
+PTLG008_BL_Unstim_null_Classical MCs.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	Classical MCs
+PTLG008_BL_Unstim_null_gd T cells.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	gd T cells
+PTLG008_BL_Unstim_null_Granulocytes.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	Granulocytes
+PTLG008_BL_Unstim_null_Intermediate MCs.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	Intermediate MCs
+PTLG008_BL_Unstim_null_Leukocytes.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	Leukocytes
+PTLG008_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG008_BL_Unstim_null_mDCs.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	mDCs
+PTLG008_BL_Unstim_null_Mononuclear cells.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	Mononuclear cells
+PTLG008_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	Mononuclear cells T cells
+PTLG008_BL_Unstim_null_Non-classical MCs.fcs	PTLG008_Unstim	PTLG008	Unstim	Unstim	Non-classical MCs
+PTLG009_BL_IFNa_null_B cells.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	B cells
+PTLG009_BL_IFNa_null_CD14- CD16-.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD14- CD16-
+PTLG009_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG009_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG009_BL_IFNa_null_CD3- CD19-.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD3- CD19-
+PTLG009_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD3- CD19- NK cells
+PTLG009_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD4- CD8- T cells
+PTLG009_BL_IFNa_null_CD4+ T cells.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD4+ T cells
+PTLG009_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD4+ Th1 mem
+PTLG009_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD4+ Th1 naive
+PTLG009_BL_IFNa_null_CD4+ T mem.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD4+ T mem
+PTLG009_BL_IFNa_null_CD4+ T naive.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD4+ T naive
+PTLG009_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG009_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG009_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG009_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG009_BL_IFNa_null_CD8+ T cells.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	CD8+ T cells
+PTLG009_BL_IFNa_null_Classical MCs.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	Classical MCs
+PTLG009_BL_IFNa_null_gd T cells.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	gd T cells
+PTLG009_BL_IFNa_null_Granulocytes.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	Granulocytes
+PTLG009_BL_IFNa_null_Intermediate MCs.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	Intermediate MCs
+PTLG009_BL_IFNa_null_Leukocytes.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	Leukocytes
+PTLG009_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG009_BL_IFNa_null_mDCs.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	mDCs
+PTLG009_BL_IFNa_null_Mononuclear cells.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	Mononuclear cells
+PTLG009_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	Mononuclear cells T cells
+PTLG009_BL_IFNa_null_Non-classical MCs.fcs	PTLG009_IFNa	PTLG009	IFNa	IFNa	Non-classical MCs
+PTLG009_BL_IL_null_B cells.fcs	PTLG009_IL	PTLG009	IL	IL	B cells
+PTLG009_BL_IL_null_CD14- CD16-.fcs	PTLG009_IL	PTLG009	IL	IL	CD14- CD16-
+PTLG009_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG009_IL	PTLG009	IL	IL	CD25+ CD8+ T mem
+PTLG009_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG009_IL	PTLG009	IL	IL	CD25+ CD8+ T naive
+PTLG009_BL_IL_null_CD3- CD19-.fcs	PTLG009_IL	PTLG009	IL	IL	CD3- CD19-
+PTLG009_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG009_IL	PTLG009	IL	IL	CD3- CD19- NK cells
+PTLG009_BL_IL_null_CD4- CD8- T cells.fcs	PTLG009_IL	PTLG009	IL	IL	CD4- CD8- T cells
+PTLG009_BL_IL_null_CD4+ T cells.fcs	PTLG009_IL	PTLG009	IL	IL	CD4+ T cells
+PTLG009_BL_IL_null_CD4+ Th1 mem.fcs	PTLG009_IL	PTLG009	IL	IL	CD4+ Th1 mem
+PTLG009_BL_IL_null_CD4+ Th1 naive.fcs	PTLG009_IL	PTLG009	IL	IL	CD4+ Th1 naive
+PTLG009_BL_IL_null_CD4+ T mem.fcs	PTLG009_IL	PTLG009	IL	IL	CD4+ T mem
+PTLG009_BL_IL_null_CD4+ T naive.fcs	PTLG009_IL	PTLG009	IL	IL	CD4+ T naive
+PTLG009_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG009_IL	PTLG009	IL	IL	CD56+ CD16- NK cells
+PTLG009_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG009_IL	PTLG009	IL	IL	CD56+ CD16+ NK cells
+PTLG009_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG009_IL	PTLG009	IL	IL	CD8+ T cells CD8+ T mem
+PTLG009_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG009_IL	PTLG009	IL	IL	CD8+ T cells CD8+ T naive
+PTLG009_BL_IL_null_CD8+ T cells.fcs	PTLG009_IL	PTLG009	IL	IL	CD8+ T cells
+PTLG009_BL_IL_null_Classical MCs.fcs	PTLG009_IL	PTLG009	IL	IL	Classical MCs
+PTLG009_BL_IL_null_gd T cells.fcs	PTLG009_IL	PTLG009	IL	IL	gd T cells
+PTLG009_BL_IL_null_Granulocytes.fcs	PTLG009_IL	PTLG009	IL	IL	Granulocytes
+PTLG009_BL_IL_null_Intermediate MCs.fcs	PTLG009_IL	PTLG009	IL	IL	Intermediate MCs
+PTLG009_BL_IL_null_Leukocytes.fcs	PTLG009_IL	PTLG009	IL	IL	Leukocytes
+PTLG009_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG009_IL	PTLG009	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG009_BL_IL_null_mDCs.fcs	PTLG009_IL	PTLG009	IL	IL	mDCs
+PTLG009_BL_IL_null_Mononuclear cells.fcs	PTLG009_IL	PTLG009	IL	IL	Mononuclear cells
+PTLG009_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG009_IL	PTLG009	IL	IL	Mononuclear cells T cells
+PTLG009_BL_IL_null_Non-classical MCs.fcs	PTLG009_IL	PTLG009	IL	IL	Non-classical MCs
+PTLG009_BL_LPS_null_B cells.fcs	PTLG009_LPS	PTLG009	LPS	LPS	B cells
+PTLG009_BL_LPS_null_CD14- CD16-.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD14- CD16-
+PTLG009_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD25+ CD8+ T mem
+PTLG009_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD25+ CD8+ T naive
+PTLG009_BL_LPS_null_CD3- CD19-.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD3- CD19-
+PTLG009_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD3- CD19- NK cells
+PTLG009_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD4- CD8- T cells
+PTLG009_BL_LPS_null_CD4+ T cells.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD4+ T cells
+PTLG009_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD4+ Th1 mem
+PTLG009_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD4+ Th1 naive
+PTLG009_BL_LPS_null_CD4+ T mem.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD4+ T mem
+PTLG009_BL_LPS_null_CD4+ T naive.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD4+ T naive
+PTLG009_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD56+ CD16- NK cells
+PTLG009_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD56+ CD16+ NK cells
+PTLG009_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG009_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG009_BL_LPS_null_CD8+ T cells.fcs	PTLG009_LPS	PTLG009	LPS	LPS	CD8+ T cells
+PTLG009_BL_LPS_null_Classical MCs.fcs	PTLG009_LPS	PTLG009	LPS	LPS	Classical MCs
+PTLG009_BL_LPS_null_gd T cells.fcs	PTLG009_LPS	PTLG009	LPS	LPS	gd T cells
+PTLG009_BL_LPS_null_Granulocytes.fcs	PTLG009_LPS	PTLG009	LPS	LPS	Granulocytes
+PTLG009_BL_LPS_null_Intermediate MCs.fcs	PTLG009_LPS	PTLG009	LPS	LPS	Intermediate MCs
+PTLG009_BL_LPS_null_Leukocytes.fcs	PTLG009_LPS	PTLG009	LPS	LPS	Leukocytes
+PTLG009_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG009_LPS	PTLG009	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG009_BL_LPS_null_mDCs.fcs	PTLG009_LPS	PTLG009	LPS	LPS	mDCs
+PTLG009_BL_LPS_null_Mononuclear cells.fcs	PTLG009_LPS	PTLG009	LPS	LPS	Mononuclear cells
+PTLG009_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG009_LPS	PTLG009	LPS	LPS	Mononuclear cells T cells
+PTLG009_BL_LPS_null_Non-classical MCs.fcs	PTLG009_LPS	PTLG009	LPS	LPS	Non-classical MCs
+PTLG009_BL_Unstim_null_B cells.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	B cells
+PTLG009_BL_Unstim_null_CD14- CD16-.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD14- CD16-
+PTLG009_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG009_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG009_BL_Unstim_null_CD3- CD19-.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD3- CD19-
+PTLG009_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD3- CD19- NK cells
+PTLG009_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD4- CD8- T cells
+PTLG009_BL_Unstim_null_CD4+ T cells.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD4+ T cells
+PTLG009_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD4+ Th1 mem
+PTLG009_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD4+ Th1 naive
+PTLG009_BL_Unstim_null_CD4+ T mem.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD4+ T mem
+PTLG009_BL_Unstim_null_CD4+ T naive.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD4+ T naive
+PTLG009_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG009_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG009_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG009_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG009_BL_Unstim_null_CD8+ T cells.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	CD8+ T cells
+PTLG009_BL_Unstim_null_Classical MCs.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	Classical MCs
+PTLG009_BL_Unstim_null_gd T cells.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	gd T cells
+PTLG009_BL_Unstim_null_Granulocytes.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	Granulocytes
+PTLG009_BL_Unstim_null_Intermediate MCs.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	Intermediate MCs
+PTLG009_BL_Unstim_null_Leukocytes.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	Leukocytes
+PTLG009_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG009_BL_Unstim_null_mDCs.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	mDCs
+PTLG009_BL_Unstim_null_Mononuclear cells.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	Mononuclear cells
+PTLG009_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	Mononuclear cells T cells
+PTLG009_BL_Unstim_null_Non-classical MCs.fcs	PTLG009_Unstim	PTLG009	Unstim	Unstim	Non-classical MCs
+PTLG010_BL_IFNa_null_B cells.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	B cells
+PTLG010_BL_IFNa_null_CD14- CD16-.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD14- CD16-
+PTLG010_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG010_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG010_BL_IFNa_null_CD3- CD19-.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD3- CD19-
+PTLG010_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD3- CD19- NK cells
+PTLG010_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD4- CD8- T cells
+PTLG010_BL_IFNa_null_CD4+ T cells.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD4+ T cells
+PTLG010_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD4+ Th1 mem
+PTLG010_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD4+ Th1 naive
+PTLG010_BL_IFNa_null_CD4+ T mem.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD4+ T mem
+PTLG010_BL_IFNa_null_CD4+ T naive.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD4+ T naive
+PTLG010_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG010_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG010_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG010_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG010_BL_IFNa_null_CD8+ T cells.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	CD8+ T cells
+PTLG010_BL_IFNa_null_Classical MCs.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	Classical MCs
+PTLG010_BL_IFNa_null_gd T cells.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	gd T cells
+PTLG010_BL_IFNa_null_Granulocytes.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	Granulocytes
+PTLG010_BL_IFNa_null_Intermediate MCs.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	Intermediate MCs
+PTLG010_BL_IFNa_null_Leukocytes.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	Leukocytes
+PTLG010_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG010_BL_IFNa_null_mDCs.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	mDCs
+PTLG010_BL_IFNa_null_Mononuclear cells.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	Mononuclear cells
+PTLG010_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	Mononuclear cells T cells
+PTLG010_BL_IFNa_null_Non-classical MCs.fcs	PTLG010_IFNa	PTLG010	IFNa	IFNa	Non-classical MCs
+PTLG010_BL_IL_null_B cells.fcs	PTLG010_IL	PTLG010	IL	IL	B cells
+PTLG010_BL_IL_null_CD14- CD16-.fcs	PTLG010_IL	PTLG010	IL	IL	CD14- CD16-
+PTLG010_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG010_IL	PTLG010	IL	IL	CD25+ CD8+ T mem
+PTLG010_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG010_IL	PTLG010	IL	IL	CD25+ CD8+ T naive
+PTLG010_BL_IL_null_CD3- CD19-.fcs	PTLG010_IL	PTLG010	IL	IL	CD3- CD19-
+PTLG010_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG010_IL	PTLG010	IL	IL	CD3- CD19- NK cells
+PTLG010_BL_IL_null_CD4- CD8- T cells.fcs	PTLG010_IL	PTLG010	IL	IL	CD4- CD8- T cells
+PTLG010_BL_IL_null_CD4+ T cells.fcs	PTLG010_IL	PTLG010	IL	IL	CD4+ T cells
+PTLG010_BL_IL_null_CD4+ Th1 mem.fcs	PTLG010_IL	PTLG010	IL	IL	CD4+ Th1 mem
+PTLG010_BL_IL_null_CD4+ Th1 naive.fcs	PTLG010_IL	PTLG010	IL	IL	CD4+ Th1 naive
+PTLG010_BL_IL_null_CD4+ T mem.fcs	PTLG010_IL	PTLG010	IL	IL	CD4+ T mem
+PTLG010_BL_IL_null_CD4+ T naive.fcs	PTLG010_IL	PTLG010	IL	IL	CD4+ T naive
+PTLG010_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG010_IL	PTLG010	IL	IL	CD56+ CD16- NK cells
+PTLG010_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG010_IL	PTLG010	IL	IL	CD56+ CD16+ NK cells
+PTLG010_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG010_IL	PTLG010	IL	IL	CD8+ T cells CD8+ T mem
+PTLG010_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG010_IL	PTLG010	IL	IL	CD8+ T cells CD8+ T naive
+PTLG010_BL_IL_null_CD8+ T cells.fcs	PTLG010_IL	PTLG010	IL	IL	CD8+ T cells
+PTLG010_BL_IL_null_Classical MCs.fcs	PTLG010_IL	PTLG010	IL	IL	Classical MCs
+PTLG010_BL_IL_null_gd T cells.fcs	PTLG010_IL	PTLG010	IL	IL	gd T cells
+PTLG010_BL_IL_null_Granulocytes.fcs	PTLG010_IL	PTLG010	IL	IL	Granulocytes
+PTLG010_BL_IL_null_Intermediate MCs.fcs	PTLG010_IL	PTLG010	IL	IL	Intermediate MCs
+PTLG010_BL_IL_null_Leukocytes.fcs	PTLG010_IL	PTLG010	IL	IL	Leukocytes
+PTLG010_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG010_IL	PTLG010	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG010_BL_IL_null_mDCs.fcs	PTLG010_IL	PTLG010	IL	IL	mDCs
+PTLG010_BL_IL_null_Mononuclear cells.fcs	PTLG010_IL	PTLG010	IL	IL	Mononuclear cells
+PTLG010_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG010_IL	PTLG010	IL	IL	Mononuclear cells T cells
+PTLG010_BL_IL_null_Non-classical MCs.fcs	PTLG010_IL	PTLG010	IL	IL	Non-classical MCs
+PTLG010_BL_LPS_null_B cells.fcs	PTLG010_LPS	PTLG010	LPS	LPS	B cells
+PTLG010_BL_LPS_null_CD14- CD16-.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD14- CD16-
+PTLG010_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD25+ CD8+ T mem
+PTLG010_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD25+ CD8+ T naive
+PTLG010_BL_LPS_null_CD3- CD19-.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD3- CD19-
+PTLG010_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD3- CD19- NK cells
+PTLG010_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD4- CD8- T cells
+PTLG010_BL_LPS_null_CD4+ T cells.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD4+ T cells
+PTLG010_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD4+ Th1 mem
+PTLG010_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD4+ Th1 naive
+PTLG010_BL_LPS_null_CD4+ T mem.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD4+ T mem
+PTLG010_BL_LPS_null_CD4+ T naive.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD4+ T naive
+PTLG010_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD56+ CD16- NK cells
+PTLG010_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD56+ CD16+ NK cells
+PTLG010_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG010_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG010_BL_LPS_null_CD8+ T cells.fcs	PTLG010_LPS	PTLG010	LPS	LPS	CD8+ T cells
+PTLG010_BL_LPS_null_Classical MCs.fcs	PTLG010_LPS	PTLG010	LPS	LPS	Classical MCs
+PTLG010_BL_LPS_null_gd T cells.fcs	PTLG010_LPS	PTLG010	LPS	LPS	gd T cells
+PTLG010_BL_LPS_null_Granulocytes.fcs	PTLG010_LPS	PTLG010	LPS	LPS	Granulocytes
+PTLG010_BL_LPS_null_Intermediate MCs.fcs	PTLG010_LPS	PTLG010	LPS	LPS	Intermediate MCs
+PTLG010_BL_LPS_null_Leukocytes.fcs	PTLG010_LPS	PTLG010	LPS	LPS	Leukocytes
+PTLG010_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG010_LPS	PTLG010	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG010_BL_LPS_null_mDCs.fcs	PTLG010_LPS	PTLG010	LPS	LPS	mDCs
+PTLG010_BL_LPS_null_Mononuclear cells.fcs	PTLG010_LPS	PTLG010	LPS	LPS	Mononuclear cells
+PTLG010_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG010_LPS	PTLG010	LPS	LPS	Mononuclear cells T cells
+PTLG010_BL_LPS_null_Non-classical MCs.fcs	PTLG010_LPS	PTLG010	LPS	LPS	Non-classical MCs
+PTLG010_BL_Unstim_null_B cells.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	B cells
+PTLG010_BL_Unstim_null_CD14- CD16-.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD14- CD16-
+PTLG010_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG010_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG010_BL_Unstim_null_CD3- CD19-.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD3- CD19-
+PTLG010_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD3- CD19- NK cells
+PTLG010_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD4- CD8- T cells
+PTLG010_BL_Unstim_null_CD4+ T cells.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD4+ T cells
+PTLG010_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD4+ Th1 mem
+PTLG010_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD4+ Th1 naive
+PTLG010_BL_Unstim_null_CD4+ T mem.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD4+ T mem
+PTLG010_BL_Unstim_null_CD4+ T naive.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD4+ T naive
+PTLG010_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG010_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG010_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG010_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG010_BL_Unstim_null_CD8+ T cells.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	CD8+ T cells
+PTLG010_BL_Unstim_null_Classical MCs.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	Classical MCs
+PTLG010_BL_Unstim_null_gd T cells.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	gd T cells
+PTLG010_BL_Unstim_null_Granulocytes.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	Granulocytes
+PTLG010_BL_Unstim_null_Intermediate MCs.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	Intermediate MCs
+PTLG010_BL_Unstim_null_Leukocytes.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	Leukocytes
+PTLG010_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG010_BL_Unstim_null_mDCs.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	mDCs
+PTLG010_BL_Unstim_null_Mononuclear cells.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	Mononuclear cells
+PTLG010_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	Mononuclear cells T cells
+PTLG010_BL_Unstim_null_Non-classical MCs.fcs	PTLG010_Unstim	PTLG010	Unstim	Unstim	Non-classical MCs
+PTLG012_BL_IFNa_null_B cells.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	B cells
+PTLG012_BL_IFNa_null_CD14- CD16-.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD14- CD16-
+PTLG012_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG012_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG012_BL_IFNa_null_CD3- CD19-.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD3- CD19-
+PTLG012_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD3- CD19- NK cells
+PTLG012_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD4- CD8- T cells
+PTLG012_BL_IFNa_null_CD4+ T cells.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD4+ T cells
+PTLG012_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD4+ Th1 mem
+PTLG012_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD4+ Th1 naive
+PTLG012_BL_IFNa_null_CD4+ T mem.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD4+ T mem
+PTLG012_BL_IFNa_null_CD4+ T naive.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD4+ T naive
+PTLG012_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG012_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG012_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG012_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG012_BL_IFNa_null_CD8+ T cells.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	CD8+ T cells
+PTLG012_BL_IFNa_null_Classical MCs.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	Classical MCs
+PTLG012_BL_IFNa_null_gd T cells.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	gd T cells
+PTLG012_BL_IFNa_null_Granulocytes.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	Granulocytes
+PTLG012_BL_IFNa_null_Intermediate MCs.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	Intermediate MCs
+PTLG012_BL_IFNa_null_Leukocytes.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	Leukocytes
+PTLG012_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG012_BL_IFNa_null_mDCs.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	mDCs
+PTLG012_BL_IFNa_null_Mononuclear cells.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	Mononuclear cells
+PTLG012_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	Mononuclear cells T cells
+PTLG012_BL_IFNa_null_Non-classical MCs.fcs	PTLG012_IFNa	PTLG012	IFNa	IFNa	Non-classical MCs
+PTLG012_BL_IL_null_B cells.fcs	PTLG012_IL	PTLG012	IL	IL	B cells
+PTLG012_BL_IL_null_CD14- CD16-.fcs	PTLG012_IL	PTLG012	IL	IL	CD14- CD16-
+PTLG012_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG012_IL	PTLG012	IL	IL	CD25+ CD8+ T mem
+PTLG012_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG012_IL	PTLG012	IL	IL	CD25+ CD8+ T naive
+PTLG012_BL_IL_null_CD3- CD19-.fcs	PTLG012_IL	PTLG012	IL	IL	CD3- CD19-
+PTLG012_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG012_IL	PTLG012	IL	IL	CD3- CD19- NK cells
+PTLG012_BL_IL_null_CD4- CD8- T cells.fcs	PTLG012_IL	PTLG012	IL	IL	CD4- CD8- T cells
+PTLG012_BL_IL_null_CD4+ T cells.fcs	PTLG012_IL	PTLG012	IL	IL	CD4+ T cells
+PTLG012_BL_IL_null_CD4+ Th1 mem.fcs	PTLG012_IL	PTLG012	IL	IL	CD4+ Th1 mem
+PTLG012_BL_IL_null_CD4+ Th1 naive.fcs	PTLG012_IL	PTLG012	IL	IL	CD4+ Th1 naive
+PTLG012_BL_IL_null_CD4+ T mem.fcs	PTLG012_IL	PTLG012	IL	IL	CD4+ T mem
+PTLG012_BL_IL_null_CD4+ T naive.fcs	PTLG012_IL	PTLG012	IL	IL	CD4+ T naive
+PTLG012_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG012_IL	PTLG012	IL	IL	CD56+ CD16- NK cells
+PTLG012_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG012_IL	PTLG012	IL	IL	CD56+ CD16+ NK cells
+PTLG012_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG012_IL	PTLG012	IL	IL	CD8+ T cells CD8+ T mem
+PTLG012_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG012_IL	PTLG012	IL	IL	CD8+ T cells CD8+ T naive
+PTLG012_BL_IL_null_CD8+ T cells.fcs	PTLG012_IL	PTLG012	IL	IL	CD8+ T cells
+PTLG012_BL_IL_null_Classical MCs.fcs	PTLG012_IL	PTLG012	IL	IL	Classical MCs
+PTLG012_BL_IL_null_gd T cells.fcs	PTLG012_IL	PTLG012	IL	IL	gd T cells
+PTLG012_BL_IL_null_Granulocytes.fcs	PTLG012_IL	PTLG012	IL	IL	Granulocytes
+PTLG012_BL_IL_null_Intermediate MCs.fcs	PTLG012_IL	PTLG012	IL	IL	Intermediate MCs
+PTLG012_BL_IL_null_Leukocytes.fcs	PTLG012_IL	PTLG012	IL	IL	Leukocytes
+PTLG012_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG012_IL	PTLG012	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG012_BL_IL_null_mDCs.fcs	PTLG012_IL	PTLG012	IL	IL	mDCs
+PTLG012_BL_IL_null_Mononuclear cells.fcs	PTLG012_IL	PTLG012	IL	IL	Mononuclear cells
+PTLG012_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG012_IL	PTLG012	IL	IL	Mononuclear cells T cells
+PTLG012_BL_IL_null_Non-classical MCs.fcs	PTLG012_IL	PTLG012	IL	IL	Non-classical MCs
+PTLG012_BL_LPS_null_B cells.fcs	PTLG012_LPS	PTLG012	LPS	LPS	B cells
+PTLG012_BL_LPS_null_CD14- CD16-.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD14- CD16-
+PTLG012_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD25+ CD8+ T mem
+PTLG012_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD25+ CD8+ T naive
+PTLG012_BL_LPS_null_CD3- CD19-.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD3- CD19-
+PTLG012_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD3- CD19- NK cells
+PTLG012_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD4- CD8- T cells
+PTLG012_BL_LPS_null_CD4+ T cells.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD4+ T cells
+PTLG012_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD4+ Th1 mem
+PTLG012_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD4+ Th1 naive
+PTLG012_BL_LPS_null_CD4+ T mem.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD4+ T mem
+PTLG012_BL_LPS_null_CD4+ T naive.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD4+ T naive
+PTLG012_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD56+ CD16- NK cells
+PTLG012_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD56+ CD16+ NK cells
+PTLG012_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG012_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG012_BL_LPS_null_CD8+ T cells.fcs	PTLG012_LPS	PTLG012	LPS	LPS	CD8+ T cells
+PTLG012_BL_LPS_null_Classical MCs.fcs	PTLG012_LPS	PTLG012	LPS	LPS	Classical MCs
+PTLG012_BL_LPS_null_gd T cells.fcs	PTLG012_LPS	PTLG012	LPS	LPS	gd T cells
+PTLG012_BL_LPS_null_Granulocytes.fcs	PTLG012_LPS	PTLG012	LPS	LPS	Granulocytes
+PTLG012_BL_LPS_null_Intermediate MCs.fcs	PTLG012_LPS	PTLG012	LPS	LPS	Intermediate MCs
+PTLG012_BL_LPS_null_Leukocytes.fcs	PTLG012_LPS	PTLG012	LPS	LPS	Leukocytes
+PTLG012_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG012_LPS	PTLG012	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG012_BL_LPS_null_mDCs.fcs	PTLG012_LPS	PTLG012	LPS	LPS	mDCs
+PTLG012_BL_LPS_null_Mononuclear cells.fcs	PTLG012_LPS	PTLG012	LPS	LPS	Mononuclear cells
+PTLG012_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG012_LPS	PTLG012	LPS	LPS	Mononuclear cells T cells
+PTLG012_BL_LPS_null_Non-classical MCs.fcs	PTLG012_LPS	PTLG012	LPS	LPS	Non-classical MCs
+PTLG012_BL_Unstim_null_B cells.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	B cells
+PTLG012_BL_Unstim_null_CD14- CD16-.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD14- CD16-
+PTLG012_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG012_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG012_BL_Unstim_null_CD3- CD19-.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD3- CD19-
+PTLG012_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD3- CD19- NK cells
+PTLG012_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD4- CD8- T cells
+PTLG012_BL_Unstim_null_CD4+ T cells.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD4+ T cells
+PTLG012_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD4+ Th1 mem
+PTLG012_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD4+ Th1 naive
+PTLG012_BL_Unstim_null_CD4+ T mem.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD4+ T mem
+PTLG012_BL_Unstim_null_CD4+ T naive.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD4+ T naive
+PTLG012_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG012_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG012_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG012_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG012_BL_Unstim_null_CD8+ T cells.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	CD8+ T cells
+PTLG012_BL_Unstim_null_Classical MCs.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	Classical MCs
+PTLG012_BL_Unstim_null_gd T cells.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	gd T cells
+PTLG012_BL_Unstim_null_Granulocytes.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	Granulocytes
+PTLG012_BL_Unstim_null_Intermediate MCs.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	Intermediate MCs
+PTLG012_BL_Unstim_null_Leukocytes.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	Leukocytes
+PTLG012_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG012_BL_Unstim_null_mDCs.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	mDCs
+PTLG012_BL_Unstim_null_Mononuclear cells.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	Mononuclear cells
+PTLG012_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	Mononuclear cells T cells
+PTLG012_BL_Unstim_null_Non-classical MCs.fcs	PTLG012_Unstim	PTLG012	Unstim	Unstim	Non-classical MCs
+PTLG018_BL_IFNa_null_B cells.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	B cells
+PTLG018_BL_IFNa_null_CD14- CD16-.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD14- CD16-
+PTLG018_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG018_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG018_BL_IFNa_null_CD3- CD19-.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD3- CD19-
+PTLG018_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD3- CD19- NK cells
+PTLG018_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD4- CD8- T cells
+PTLG018_BL_IFNa_null_CD4+ T cells.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD4+ T cells
+PTLG018_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD4+ Th1 mem
+PTLG018_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD4+ Th1 naive
+PTLG018_BL_IFNa_null_CD4+ T mem.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD4+ T mem
+PTLG018_BL_IFNa_null_CD4+ T naive.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD4+ T naive
+PTLG018_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG018_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG018_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG018_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG018_BL_IFNa_null_CD8+ T cells.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	CD8+ T cells
+PTLG018_BL_IFNa_null_Classical MCs.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	Classical MCs
+PTLG018_BL_IFNa_null_gd T cells.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	gd T cells
+PTLG018_BL_IFNa_null_Granulocytes.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	Granulocytes
+PTLG018_BL_IFNa_null_Intermediate MCs.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	Intermediate MCs
+PTLG018_BL_IFNa_null_Leukocytes.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	Leukocytes
+PTLG018_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG018_BL_IFNa_null_mDCs.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	mDCs
+PTLG018_BL_IFNa_null_Mononuclear cells.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	Mononuclear cells
+PTLG018_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	Mononuclear cells T cells
+PTLG018_BL_IFNa_null_Non-classical MCs.fcs	PTLG018_IFNa	PTLG018	IFNa	IFNa	Non-classical MCs
+PTLG018_BL_IL_null_B cells.fcs	PTLG018_IL	PTLG018	IL	IL	B cells
+PTLG018_BL_IL_null_CD14- CD16-.fcs	PTLG018_IL	PTLG018	IL	IL	CD14- CD16-
+PTLG018_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG018_IL	PTLG018	IL	IL	CD25+ CD8+ T mem
+PTLG018_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG018_IL	PTLG018	IL	IL	CD25+ CD8+ T naive
+PTLG018_BL_IL_null_CD3- CD19-.fcs	PTLG018_IL	PTLG018	IL	IL	CD3- CD19-
+PTLG018_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG018_IL	PTLG018	IL	IL	CD3- CD19- NK cells
+PTLG018_BL_IL_null_CD4- CD8- T cells.fcs	PTLG018_IL	PTLG018	IL	IL	CD4- CD8- T cells
+PTLG018_BL_IL_null_CD4+ T cells.fcs	PTLG018_IL	PTLG018	IL	IL	CD4+ T cells
+PTLG018_BL_IL_null_CD4+ Th1 mem.fcs	PTLG018_IL	PTLG018	IL	IL	CD4+ Th1 mem
+PTLG018_BL_IL_null_CD4+ Th1 naive.fcs	PTLG018_IL	PTLG018	IL	IL	CD4+ Th1 naive
+PTLG018_BL_IL_null_CD4+ T mem.fcs	PTLG018_IL	PTLG018	IL	IL	CD4+ T mem
+PTLG018_BL_IL_null_CD4+ T naive.fcs	PTLG018_IL	PTLG018	IL	IL	CD4+ T naive
+PTLG018_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG018_IL	PTLG018	IL	IL	CD56+ CD16- NK cells
+PTLG018_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG018_IL	PTLG018	IL	IL	CD56+ CD16+ NK cells
+PTLG018_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG018_IL	PTLG018	IL	IL	CD8+ T cells CD8+ T mem
+PTLG018_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG018_IL	PTLG018	IL	IL	CD8+ T cells CD8+ T naive
+PTLG018_BL_IL_null_CD8+ T cells.fcs	PTLG018_IL	PTLG018	IL	IL	CD8+ T cells
+PTLG018_BL_IL_null_Classical MCs.fcs	PTLG018_IL	PTLG018	IL	IL	Classical MCs
+PTLG018_BL_IL_null_gd T cells.fcs	PTLG018_IL	PTLG018	IL	IL	gd T cells
+PTLG018_BL_IL_null_Granulocytes.fcs	PTLG018_IL	PTLG018	IL	IL	Granulocytes
+PTLG018_BL_IL_null_Intermediate MCs.fcs	PTLG018_IL	PTLG018	IL	IL	Intermediate MCs
+PTLG018_BL_IL_null_Leukocytes.fcs	PTLG018_IL	PTLG018	IL	IL	Leukocytes
+PTLG018_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG018_IL	PTLG018	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG018_BL_IL_null_mDCs.fcs	PTLG018_IL	PTLG018	IL	IL	mDCs
+PTLG018_BL_IL_null_Mononuclear cells.fcs	PTLG018_IL	PTLG018	IL	IL	Mononuclear cells
+PTLG018_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG018_IL	PTLG018	IL	IL	Mononuclear cells T cells
+PTLG018_BL_IL_null_Non-classical MCs.fcs	PTLG018_IL	PTLG018	IL	IL	Non-classical MCs
+PTLG018_BL_LPS_null_B cells.fcs	PTLG018_LPS	PTLG018	LPS	LPS	B cells
+PTLG018_BL_LPS_null_CD14- CD16-.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD14- CD16-
+PTLG018_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD25+ CD8+ T mem
+PTLG018_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD25+ CD8+ T naive
+PTLG018_BL_LPS_null_CD3- CD19-.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD3- CD19-
+PTLG018_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD3- CD19- NK cells
+PTLG018_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD4- CD8- T cells
+PTLG018_BL_LPS_null_CD4+ T cells.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD4+ T cells
+PTLG018_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD4+ Th1 mem
+PTLG018_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD4+ Th1 naive
+PTLG018_BL_LPS_null_CD4+ T mem.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD4+ T mem
+PTLG018_BL_LPS_null_CD4+ T naive.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD4+ T naive
+PTLG018_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD56+ CD16- NK cells
+PTLG018_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD56+ CD16+ NK cells
+PTLG018_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG018_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG018_BL_LPS_null_CD8+ T cells.fcs	PTLG018_LPS	PTLG018	LPS	LPS	CD8+ T cells
+PTLG018_BL_LPS_null_Classical MCs.fcs	PTLG018_LPS	PTLG018	LPS	LPS	Classical MCs
+PTLG018_BL_LPS_null_gd T cells.fcs	PTLG018_LPS	PTLG018	LPS	LPS	gd T cells
+PTLG018_BL_LPS_null_Granulocytes.fcs	PTLG018_LPS	PTLG018	LPS	LPS	Granulocytes
+PTLG018_BL_LPS_null_Intermediate MCs.fcs	PTLG018_LPS	PTLG018	LPS	LPS	Intermediate MCs
+PTLG018_BL_LPS_null_Leukocytes.fcs	PTLG018_LPS	PTLG018	LPS	LPS	Leukocytes
+PTLG018_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG018_LPS	PTLG018	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG018_BL_LPS_null_mDCs.fcs	PTLG018_LPS	PTLG018	LPS	LPS	mDCs
+PTLG018_BL_LPS_null_Mononuclear cells.fcs	PTLG018_LPS	PTLG018	LPS	LPS	Mononuclear cells
+PTLG018_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG018_LPS	PTLG018	LPS	LPS	Mononuclear cells T cells
+PTLG018_BL_LPS_null_Non-classical MCs.fcs	PTLG018_LPS	PTLG018	LPS	LPS	Non-classical MCs
+PTLG018_BL_Unstim_null_B cells.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	B cells
+PTLG018_BL_Unstim_null_CD14- CD16-.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD14- CD16-
+PTLG018_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG018_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG018_BL_Unstim_null_CD3- CD19-.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD3- CD19-
+PTLG018_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD3- CD19- NK cells
+PTLG018_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD4- CD8- T cells
+PTLG018_BL_Unstim_null_CD4+ T cells.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD4+ T cells
+PTLG018_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD4+ Th1 mem
+PTLG018_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD4+ Th1 naive
+PTLG018_BL_Unstim_null_CD4+ T mem.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD4+ T mem
+PTLG018_BL_Unstim_null_CD4+ T naive.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD4+ T naive
+PTLG018_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG018_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG018_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG018_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG018_BL_Unstim_null_CD8+ T cells.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	CD8+ T cells
+PTLG018_BL_Unstim_null_Classical MCs.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	Classical MCs
+PTLG018_BL_Unstim_null_gd T cells.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	gd T cells
+PTLG018_BL_Unstim_null_Granulocytes.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	Granulocytes
+PTLG018_BL_Unstim_null_Intermediate MCs.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	Intermediate MCs
+PTLG018_BL_Unstim_null_Leukocytes.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	Leukocytes
+PTLG018_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG018_BL_Unstim_null_mDCs.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	mDCs
+PTLG018_BL_Unstim_null_Mononuclear cells.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	Mononuclear cells
+PTLG018_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	Mononuclear cells T cells
+PTLG018_BL_Unstim_null_Non-classical MCs.fcs	PTLG018_Unstim	PTLG018	Unstim	Unstim	Non-classical MCs
+PTLG019_BL_IFNa_null_B cells.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	B cells
+PTLG019_BL_IFNa_null_CD14- CD16-.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD14- CD16-
+PTLG019_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG019_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG019_BL_IFNa_null_CD3- CD19-.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD3- CD19-
+PTLG019_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD3- CD19- NK cells
+PTLG019_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD4- CD8- T cells
+PTLG019_BL_IFNa_null_CD4+ T cells.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD4+ T cells
+PTLG019_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD4+ Th1 mem
+PTLG019_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD4+ Th1 naive
+PTLG019_BL_IFNa_null_CD4+ T mem.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD4+ T mem
+PTLG019_BL_IFNa_null_CD4+ T naive.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD4+ T naive
+PTLG019_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG019_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG019_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG019_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG019_BL_IFNa_null_CD8+ T cells.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	CD8+ T cells
+PTLG019_BL_IFNa_null_Classical MCs.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	Classical MCs
+PTLG019_BL_IFNa_null_gd T cells.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	gd T cells
+PTLG019_BL_IFNa_null_Granulocytes.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	Granulocytes
+PTLG019_BL_IFNa_null_Intermediate MCs.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	Intermediate MCs
+PTLG019_BL_IFNa_null_Leukocytes.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	Leukocytes
+PTLG019_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG019_BL_IFNa_null_mDCs.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	mDCs
+PTLG019_BL_IFNa_null_Mononuclear cells.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	Mononuclear cells
+PTLG019_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	Mononuclear cells T cells
+PTLG019_BL_IFNa_null_Non-classical MCs.fcs	PTLG019_IFNa	PTLG019	IFNa	IFNa	Non-classical MCs
+PTLG019_BL_IL_null_B cells.fcs	PTLG019_IL	PTLG019	IL	IL	B cells
+PTLG019_BL_IL_null_CD14- CD16-.fcs	PTLG019_IL	PTLG019	IL	IL	CD14- CD16-
+PTLG019_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG019_IL	PTLG019	IL	IL	CD25+ CD8+ T mem
+PTLG019_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG019_IL	PTLG019	IL	IL	CD25+ CD8+ T naive
+PTLG019_BL_IL_null_CD3- CD19-.fcs	PTLG019_IL	PTLG019	IL	IL	CD3- CD19-
+PTLG019_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG019_IL	PTLG019	IL	IL	CD3- CD19- NK cells
+PTLG019_BL_IL_null_CD4- CD8- T cells.fcs	PTLG019_IL	PTLG019	IL	IL	CD4- CD8- T cells
+PTLG019_BL_IL_null_CD4+ T cells.fcs	PTLG019_IL	PTLG019	IL	IL	CD4+ T cells
+PTLG019_BL_IL_null_CD4+ Th1 mem.fcs	PTLG019_IL	PTLG019	IL	IL	CD4+ Th1 mem
+PTLG019_BL_IL_null_CD4+ Th1 naive.fcs	PTLG019_IL	PTLG019	IL	IL	CD4+ Th1 naive
+PTLG019_BL_IL_null_CD4+ T mem.fcs	PTLG019_IL	PTLG019	IL	IL	CD4+ T mem
+PTLG019_BL_IL_null_CD4+ T naive.fcs	PTLG019_IL	PTLG019	IL	IL	CD4+ T naive
+PTLG019_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG019_IL	PTLG019	IL	IL	CD56+ CD16- NK cells
+PTLG019_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG019_IL	PTLG019	IL	IL	CD56+ CD16+ NK cells
+PTLG019_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG019_IL	PTLG019	IL	IL	CD8+ T cells CD8+ T mem
+PTLG019_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG019_IL	PTLG019	IL	IL	CD8+ T cells CD8+ T naive
+PTLG019_BL_IL_null_CD8+ T cells.fcs	PTLG019_IL	PTLG019	IL	IL	CD8+ T cells
+PTLG019_BL_IL_null_Classical MCs.fcs	PTLG019_IL	PTLG019	IL	IL	Classical MCs
+PTLG019_BL_IL_null_gd T cells.fcs	PTLG019_IL	PTLG019	IL	IL	gd T cells
+PTLG019_BL_IL_null_Granulocytes.fcs	PTLG019_IL	PTLG019	IL	IL	Granulocytes
+PTLG019_BL_IL_null_Intermediate MCs.fcs	PTLG019_IL	PTLG019	IL	IL	Intermediate MCs
+PTLG019_BL_IL_null_Leukocytes.fcs	PTLG019_IL	PTLG019	IL	IL	Leukocytes
+PTLG019_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG019_IL	PTLG019	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG019_BL_IL_null_mDCs.fcs	PTLG019_IL	PTLG019	IL	IL	mDCs
+PTLG019_BL_IL_null_Mononuclear cells.fcs	PTLG019_IL	PTLG019	IL	IL	Mononuclear cells
+PTLG019_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG019_IL	PTLG019	IL	IL	Mononuclear cells T cells
+PTLG019_BL_IL_null_Non-classical MCs.fcs	PTLG019_IL	PTLG019	IL	IL	Non-classical MCs
+PTLG019_BL_LPS_null_B cells.fcs	PTLG019_LPS	PTLG019	LPS	LPS	B cells
+PTLG019_BL_LPS_null_CD14- CD16-.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD14- CD16-
+PTLG019_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD25+ CD8+ T mem
+PTLG019_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD25+ CD8+ T naive
+PTLG019_BL_LPS_null_CD3- CD19-.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD3- CD19-
+PTLG019_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD3- CD19- NK cells
+PTLG019_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD4- CD8- T cells
+PTLG019_BL_LPS_null_CD4+ T cells.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD4+ T cells
+PTLG019_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD4+ Th1 mem
+PTLG019_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD4+ Th1 naive
+PTLG019_BL_LPS_null_CD4+ T mem.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD4+ T mem
+PTLG019_BL_LPS_null_CD4+ T naive.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD4+ T naive
+PTLG019_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD56+ CD16- NK cells
+PTLG019_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD56+ CD16+ NK cells
+PTLG019_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG019_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG019_BL_LPS_null_CD8+ T cells.fcs	PTLG019_LPS	PTLG019	LPS	LPS	CD8+ T cells
+PTLG019_BL_LPS_null_Classical MCs.fcs	PTLG019_LPS	PTLG019	LPS	LPS	Classical MCs
+PTLG019_BL_LPS_null_gd T cells.fcs	PTLG019_LPS	PTLG019	LPS	LPS	gd T cells
+PTLG019_BL_LPS_null_Granulocytes.fcs	PTLG019_LPS	PTLG019	LPS	LPS	Granulocytes
+PTLG019_BL_LPS_null_Intermediate MCs.fcs	PTLG019_LPS	PTLG019	LPS	LPS	Intermediate MCs
+PTLG019_BL_LPS_null_Leukocytes.fcs	PTLG019_LPS	PTLG019	LPS	LPS	Leukocytes
+PTLG019_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG019_LPS	PTLG019	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG019_BL_LPS_null_mDCs.fcs	PTLG019_LPS	PTLG019	LPS	LPS	mDCs
+PTLG019_BL_LPS_null_Mononuclear cells.fcs	PTLG019_LPS	PTLG019	LPS	LPS	Mononuclear cells
+PTLG019_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG019_LPS	PTLG019	LPS	LPS	Mononuclear cells T cells
+PTLG019_BL_LPS_null_Non-classical MCs.fcs	PTLG019_LPS	PTLG019	LPS	LPS	Non-classical MCs
+PTLG019_BL_Unstim_null_B cells.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	B cells
+PTLG019_BL_Unstim_null_CD14- CD16-.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD14- CD16-
+PTLG019_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG019_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG019_BL_Unstim_null_CD3- CD19-.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD3- CD19-
+PTLG019_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD3- CD19- NK cells
+PTLG019_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD4- CD8- T cells
+PTLG019_BL_Unstim_null_CD4+ T cells.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD4+ T cells
+PTLG019_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD4+ Th1 mem
+PTLG019_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD4+ Th1 naive
+PTLG019_BL_Unstim_null_CD4+ T mem.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD4+ T mem
+PTLG019_BL_Unstim_null_CD4+ T naive.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD4+ T naive
+PTLG019_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG019_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG019_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG019_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG019_BL_Unstim_null_CD8+ T cells.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	CD8+ T cells
+PTLG019_BL_Unstim_null_Classical MCs.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	Classical MCs
+PTLG019_BL_Unstim_null_gd T cells.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	gd T cells
+PTLG019_BL_Unstim_null_Granulocytes.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	Granulocytes
+PTLG019_BL_Unstim_null_Intermediate MCs.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	Intermediate MCs
+PTLG019_BL_Unstim_null_Leukocytes.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	Leukocytes
+PTLG019_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG019_BL_Unstim_null_mDCs.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	mDCs
+PTLG019_BL_Unstim_null_Mononuclear cells.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	Mononuclear cells
+PTLG019_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	Mononuclear cells T cells
+PTLG019_BL_Unstim_null_Non-classical MCs.fcs	PTLG019_Unstim	PTLG019	Unstim	Unstim	Non-classical MCs
+PTLG020_BL_IFNa_null_B cells.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	B cells
+PTLG020_BL_IFNa_null_CD14- CD16-.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD14- CD16-
+PTLG020_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG020_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG020_BL_IFNa_null_CD3- CD19-.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD3- CD19-
+PTLG020_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD3- CD19- NK cells
+PTLG020_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD4- CD8- T cells
+PTLG020_BL_IFNa_null_CD4+ T cells.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD4+ T cells
+PTLG020_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD4+ Th1 mem
+PTLG020_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD4+ Th1 naive
+PTLG020_BL_IFNa_null_CD4+ T mem.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD4+ T mem
+PTLG020_BL_IFNa_null_CD4+ T naive.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD4+ T naive
+PTLG020_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG020_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG020_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG020_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG020_BL_IFNa_null_CD8+ T cells.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	CD8+ T cells
+PTLG020_BL_IFNa_null_Classical MCs.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	Classical MCs
+PTLG020_BL_IFNa_null_gd T cells.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	gd T cells
+PTLG020_BL_IFNa_null_Granulocytes.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	Granulocytes
+PTLG020_BL_IFNa_null_Intermediate MCs.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	Intermediate MCs
+PTLG020_BL_IFNa_null_Leukocytes.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	Leukocytes
+PTLG020_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG020_BL_IFNa_null_mDCs.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	mDCs
+PTLG020_BL_IFNa_null_Mononuclear cells.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	Mononuclear cells
+PTLG020_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	Mononuclear cells T cells
+PTLG020_BL_IFNa_null_Non-classical MCs.fcs	PTLG020_IFNa	PTLG020	IFNa	IFNa	Non-classical MCs
+PTLG020_BL_IL_null_B cells.fcs	PTLG020_IL	PTLG020	IL	IL	B cells
+PTLG020_BL_IL_null_CD14- CD16-.fcs	PTLG020_IL	PTLG020	IL	IL	CD14- CD16-
+PTLG020_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG020_IL	PTLG020	IL	IL	CD25+ CD8+ T mem
+PTLG020_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG020_IL	PTLG020	IL	IL	CD25+ CD8+ T naive
+PTLG020_BL_IL_null_CD3- CD19-.fcs	PTLG020_IL	PTLG020	IL	IL	CD3- CD19-
+PTLG020_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG020_IL	PTLG020	IL	IL	CD3- CD19- NK cells
+PTLG020_BL_IL_null_CD4- CD8- T cells.fcs	PTLG020_IL	PTLG020	IL	IL	CD4- CD8- T cells
+PTLG020_BL_IL_null_CD4+ T cells.fcs	PTLG020_IL	PTLG020	IL	IL	CD4+ T cells
+PTLG020_BL_IL_null_CD4+ Th1 mem.fcs	PTLG020_IL	PTLG020	IL	IL	CD4+ Th1 mem
+PTLG020_BL_IL_null_CD4+ Th1 naive.fcs	PTLG020_IL	PTLG020	IL	IL	CD4+ Th1 naive
+PTLG020_BL_IL_null_CD4+ T mem.fcs	PTLG020_IL	PTLG020	IL	IL	CD4+ T mem
+PTLG020_BL_IL_null_CD4+ T naive.fcs	PTLG020_IL	PTLG020	IL	IL	CD4+ T naive
+PTLG020_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG020_IL	PTLG020	IL	IL	CD56+ CD16- NK cells
+PTLG020_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG020_IL	PTLG020	IL	IL	CD56+ CD16+ NK cells
+PTLG020_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG020_IL	PTLG020	IL	IL	CD8+ T cells CD8+ T mem
+PTLG020_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG020_IL	PTLG020	IL	IL	CD8+ T cells CD8+ T naive
+PTLG020_BL_IL_null_CD8+ T cells.fcs	PTLG020_IL	PTLG020	IL	IL	CD8+ T cells
+PTLG020_BL_IL_null_Classical MCs.fcs	PTLG020_IL	PTLG020	IL	IL	Classical MCs
+PTLG020_BL_IL_null_gd T cells.fcs	PTLG020_IL	PTLG020	IL	IL	gd T cells
+PTLG020_BL_IL_null_Granulocytes.fcs	PTLG020_IL	PTLG020	IL	IL	Granulocytes
+PTLG020_BL_IL_null_Intermediate MCs.fcs	PTLG020_IL	PTLG020	IL	IL	Intermediate MCs
+PTLG020_BL_IL_null_Leukocytes.fcs	PTLG020_IL	PTLG020	IL	IL	Leukocytes
+PTLG020_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG020_IL	PTLG020	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG020_BL_IL_null_mDCs.fcs	PTLG020_IL	PTLG020	IL	IL	mDCs
+PTLG020_BL_IL_null_Mononuclear cells.fcs	PTLG020_IL	PTLG020	IL	IL	Mononuclear cells
+PTLG020_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG020_IL	PTLG020	IL	IL	Mononuclear cells T cells
+PTLG020_BL_IL_null_Non-classical MCs.fcs	PTLG020_IL	PTLG020	IL	IL	Non-classical MCs
+PTLG020_BL_LPS_null_B cells.fcs	PTLG020_LPS	PTLG020	LPS	LPS	B cells
+PTLG020_BL_LPS_null_CD14- CD16-.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD14- CD16-
+PTLG020_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD25+ CD8+ T mem
+PTLG020_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD25+ CD8+ T naive
+PTLG020_BL_LPS_null_CD3- CD19-.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD3- CD19-
+PTLG020_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD3- CD19- NK cells
+PTLG020_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD4- CD8- T cells
+PTLG020_BL_LPS_null_CD4+ T cells.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD4+ T cells
+PTLG020_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD4+ Th1 mem
+PTLG020_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD4+ Th1 naive
+PTLG020_BL_LPS_null_CD4+ T mem.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD4+ T mem
+PTLG020_BL_LPS_null_CD4+ T naive.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD4+ T naive
+PTLG020_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD56+ CD16- NK cells
+PTLG020_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD56+ CD16+ NK cells
+PTLG020_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG020_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG020_BL_LPS_null_CD8+ T cells.fcs	PTLG020_LPS	PTLG020	LPS	LPS	CD8+ T cells
+PTLG020_BL_LPS_null_Classical MCs.fcs	PTLG020_LPS	PTLG020	LPS	LPS	Classical MCs
+PTLG020_BL_LPS_null_gd T cells.fcs	PTLG020_LPS	PTLG020	LPS	LPS	gd T cells
+PTLG020_BL_LPS_null_Granulocytes.fcs	PTLG020_LPS	PTLG020	LPS	LPS	Granulocytes
+PTLG020_BL_LPS_null_Intermediate MCs.fcs	PTLG020_LPS	PTLG020	LPS	LPS	Intermediate MCs
+PTLG020_BL_LPS_null_Leukocytes.fcs	PTLG020_LPS	PTLG020	LPS	LPS	Leukocytes
+PTLG020_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG020_LPS	PTLG020	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG020_BL_LPS_null_mDCs.fcs	PTLG020_LPS	PTLG020	LPS	LPS	mDCs
+PTLG020_BL_LPS_null_Mononuclear cells.fcs	PTLG020_LPS	PTLG020	LPS	LPS	Mononuclear cells
+PTLG020_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG020_LPS	PTLG020	LPS	LPS	Mononuclear cells T cells
+PTLG020_BL_LPS_null_Non-classical MCs.fcs	PTLG020_LPS	PTLG020	LPS	LPS	Non-classical MCs
+PTLG020_BL_Unstim_null_B cells.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	B cells
+PTLG020_BL_Unstim_null_CD14- CD16-.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD14- CD16-
+PTLG020_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG020_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG020_BL_Unstim_null_CD3- CD19-.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD3- CD19-
+PTLG020_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD3- CD19- NK cells
+PTLG020_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD4- CD8- T cells
+PTLG020_BL_Unstim_null_CD4+ T cells.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD4+ T cells
+PTLG020_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD4+ Th1 mem
+PTLG020_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD4+ Th1 naive
+PTLG020_BL_Unstim_null_CD4+ T mem.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD4+ T mem
+PTLG020_BL_Unstim_null_CD4+ T naive.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD4+ T naive
+PTLG020_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG020_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG020_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG020_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG020_BL_Unstim_null_CD8+ T cells.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	CD8+ T cells
+PTLG020_BL_Unstim_null_Classical MCs.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	Classical MCs
+PTLG020_BL_Unstim_null_gd T cells.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	gd T cells
+PTLG020_BL_Unstim_null_Granulocytes.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	Granulocytes
+PTLG020_BL_Unstim_null_Intermediate MCs.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	Intermediate MCs
+PTLG020_BL_Unstim_null_Leukocytes.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	Leukocytes
+PTLG020_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG020_BL_Unstim_null_mDCs.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	mDCs
+PTLG020_BL_Unstim_null_Mononuclear cells.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	Mononuclear cells
+PTLG020_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	Mononuclear cells T cells
+PTLG020_BL_Unstim_null_Non-classical MCs.fcs	PTLG020_Unstim	PTLG020	Unstim	Unstim	Non-classical MCs
+PTLG022_BL_IFNa_null_B cells.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	B cells
+PTLG022_BL_IFNa_null_CD14- CD16-.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD14- CD16-
+PTLG022_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG022_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG022_BL_IFNa_null_CD3- CD19-.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD3- CD19-
+PTLG022_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD3- CD19- NK cells
+PTLG022_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD4- CD8- T cells
+PTLG022_BL_IFNa_null_CD4+ T cells.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD4+ T cells
+PTLG022_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD4+ Th1 mem
+PTLG022_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD4+ Th1 naive
+PTLG022_BL_IFNa_null_CD4+ T mem.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD4+ T mem
+PTLG022_BL_IFNa_null_CD4+ T naive.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD4+ T naive
+PTLG022_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG022_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG022_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG022_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG022_BL_IFNa_null_CD8+ T cells.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	CD8+ T cells
+PTLG022_BL_IFNa_null_Classical MCs.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	Classical MCs
+PTLG022_BL_IFNa_null_gd T cells.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	gd T cells
+PTLG022_BL_IFNa_null_Granulocytes.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	Granulocytes
+PTLG022_BL_IFNa_null_Intermediate MCs.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	Intermediate MCs
+PTLG022_BL_IFNa_null_Leukocytes.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	Leukocytes
+PTLG022_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG022_BL_IFNa_null_mDCs.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	mDCs
+PTLG022_BL_IFNa_null_Mononuclear cells.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	Mononuclear cells
+PTLG022_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	Mononuclear cells T cells
+PTLG022_BL_IFNa_null_Non-classical MCs.fcs	PTLG022_IFNa	PTLG022	IFNa	IFNa	Non-classical MCs
+PTLG022_BL_IL_null_B cells.fcs	PTLG022_IL	PTLG022	IL	IL	B cells
+PTLG022_BL_IL_null_CD14- CD16-.fcs	PTLG022_IL	PTLG022	IL	IL	CD14- CD16-
+PTLG022_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG022_IL	PTLG022	IL	IL	CD25+ CD8+ T mem
+PTLG022_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG022_IL	PTLG022	IL	IL	CD25+ CD8+ T naive
+PTLG022_BL_IL_null_CD3- CD19-.fcs	PTLG022_IL	PTLG022	IL	IL	CD3- CD19-
+PTLG022_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG022_IL	PTLG022	IL	IL	CD3- CD19- NK cells
+PTLG022_BL_IL_null_CD4- CD8- T cells.fcs	PTLG022_IL	PTLG022	IL	IL	CD4- CD8- T cells
+PTLG022_BL_IL_null_CD4+ T cells.fcs	PTLG022_IL	PTLG022	IL	IL	CD4+ T cells
+PTLG022_BL_IL_null_CD4+ Th1 mem.fcs	PTLG022_IL	PTLG022	IL	IL	CD4+ Th1 mem
+PTLG022_BL_IL_null_CD4+ Th1 naive.fcs	PTLG022_IL	PTLG022	IL	IL	CD4+ Th1 naive
+PTLG022_BL_IL_null_CD4+ T mem.fcs	PTLG022_IL	PTLG022	IL	IL	CD4+ T mem
+PTLG022_BL_IL_null_CD4+ T naive.fcs	PTLG022_IL	PTLG022	IL	IL	CD4+ T naive
+PTLG022_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG022_IL	PTLG022	IL	IL	CD56+ CD16- NK cells
+PTLG022_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG022_IL	PTLG022	IL	IL	CD56+ CD16+ NK cells
+PTLG022_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG022_IL	PTLG022	IL	IL	CD8+ T cells CD8+ T mem
+PTLG022_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG022_IL	PTLG022	IL	IL	CD8+ T cells CD8+ T naive
+PTLG022_BL_IL_null_CD8+ T cells.fcs	PTLG022_IL	PTLG022	IL	IL	CD8+ T cells
+PTLG022_BL_IL_null_Classical MCs.fcs	PTLG022_IL	PTLG022	IL	IL	Classical MCs
+PTLG022_BL_IL_null_gd T cells.fcs	PTLG022_IL	PTLG022	IL	IL	gd T cells
+PTLG022_BL_IL_null_Granulocytes.fcs	PTLG022_IL	PTLG022	IL	IL	Granulocytes
+PTLG022_BL_IL_null_Intermediate MCs.fcs	PTLG022_IL	PTLG022	IL	IL	Intermediate MCs
+PTLG022_BL_IL_null_Leukocytes.fcs	PTLG022_IL	PTLG022	IL	IL	Leukocytes
+PTLG022_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG022_IL	PTLG022	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG022_BL_IL_null_mDCs.fcs	PTLG022_IL	PTLG022	IL	IL	mDCs
+PTLG022_BL_IL_null_Mononuclear cells.fcs	PTLG022_IL	PTLG022	IL	IL	Mononuclear cells
+PTLG022_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG022_IL	PTLG022	IL	IL	Mononuclear cells T cells
+PTLG022_BL_IL_null_Non-classical MCs.fcs	PTLG022_IL	PTLG022	IL	IL	Non-classical MCs
+PTLG022_BL_LPS_null_B cells.fcs	PTLG022_LPS	PTLG022	LPS	LPS	B cells
+PTLG022_BL_LPS_null_CD14- CD16-.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD14- CD16-
+PTLG022_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD25+ CD8+ T mem
+PTLG022_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD25+ CD8+ T naive
+PTLG022_BL_LPS_null_CD3- CD19-.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD3- CD19-
+PTLG022_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD3- CD19- NK cells
+PTLG022_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD4- CD8- T cells
+PTLG022_BL_LPS_null_CD4+ T cells.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD4+ T cells
+PTLG022_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD4+ Th1 mem
+PTLG022_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD4+ Th1 naive
+PTLG022_BL_LPS_null_CD4+ T mem.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD4+ T mem
+PTLG022_BL_LPS_null_CD4+ T naive.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD4+ T naive
+PTLG022_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD56+ CD16- NK cells
+PTLG022_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD56+ CD16+ NK cells
+PTLG022_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG022_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG022_BL_LPS_null_CD8+ T cells.fcs	PTLG022_LPS	PTLG022	LPS	LPS	CD8+ T cells
+PTLG022_BL_LPS_null_Classical MCs.fcs	PTLG022_LPS	PTLG022	LPS	LPS	Classical MCs
+PTLG022_BL_LPS_null_gd T cells.fcs	PTLG022_LPS	PTLG022	LPS	LPS	gd T cells
+PTLG022_BL_LPS_null_Granulocytes.fcs	PTLG022_LPS	PTLG022	LPS	LPS	Granulocytes
+PTLG022_BL_LPS_null_Intermediate MCs.fcs	PTLG022_LPS	PTLG022	LPS	LPS	Intermediate MCs
+PTLG022_BL_LPS_null_Leukocytes.fcs	PTLG022_LPS	PTLG022	LPS	LPS	Leukocytes
+PTLG022_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG022_LPS	PTLG022	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG022_BL_LPS_null_mDCs.fcs	PTLG022_LPS	PTLG022	LPS	LPS	mDCs
+PTLG022_BL_LPS_null_Mononuclear cells.fcs	PTLG022_LPS	PTLG022	LPS	LPS	Mononuclear cells
+PTLG022_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG022_LPS	PTLG022	LPS	LPS	Mononuclear cells T cells
+PTLG022_BL_LPS_null_Non-classical MCs.fcs	PTLG022_LPS	PTLG022	LPS	LPS	Non-classical MCs
+PTLG022_BL_Unstim_null_B cells.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	B cells
+PTLG022_BL_Unstim_null_CD14- CD16-.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD14- CD16-
+PTLG022_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG022_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG022_BL_Unstim_null_CD3- CD19-.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD3- CD19-
+PTLG022_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD3- CD19- NK cells
+PTLG022_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD4- CD8- T cells
+PTLG022_BL_Unstim_null_CD4+ T cells.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD4+ T cells
+PTLG022_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD4+ Th1 mem
+PTLG022_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD4+ Th1 naive
+PTLG022_BL_Unstim_null_CD4+ T mem.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD4+ T mem
+PTLG022_BL_Unstim_null_CD4+ T naive.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD4+ T naive
+PTLG022_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG022_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG022_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG022_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG022_BL_Unstim_null_CD8+ T cells.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	CD8+ T cells
+PTLG022_BL_Unstim_null_Classical MCs.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	Classical MCs
+PTLG022_BL_Unstim_null_gd T cells.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	gd T cells
+PTLG022_BL_Unstim_null_Granulocytes.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	Granulocytes
+PTLG022_BL_Unstim_null_Intermediate MCs.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	Intermediate MCs
+PTLG022_BL_Unstim_null_Leukocytes.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	Leukocytes
+PTLG022_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG022_BL_Unstim_null_mDCs.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	mDCs
+PTLG022_BL_Unstim_null_Mononuclear cells.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	Mononuclear cells
+PTLG022_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	Mononuclear cells T cells
+PTLG022_BL_Unstim_null_Non-classical MCs.fcs	PTLG022_Unstim	PTLG022	Unstim	Unstim	Non-classical MCs
+PTLG024_BL_IFNa_null_B cells.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	B cells
+PTLG024_BL_IFNa_null_CD14- CD16-.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD14- CD16-
+PTLG024_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG024_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG024_BL_IFNa_null_CD3- CD19-.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD3- CD19-
+PTLG024_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD3- CD19- NK cells
+PTLG024_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD4- CD8- T cells
+PTLG024_BL_IFNa_null_CD4+ T cells.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD4+ T cells
+PTLG024_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD4+ Th1 mem
+PTLG024_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD4+ Th1 naive
+PTLG024_BL_IFNa_null_CD4+ T mem.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD4+ T mem
+PTLG024_BL_IFNa_null_CD4+ T naive.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD4+ T naive
+PTLG024_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG024_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG024_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG024_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG024_BL_IFNa_null_CD8+ T cells.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	CD8+ T cells
+PTLG024_BL_IFNa_null_Classical MCs.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	Classical MCs
+PTLG024_BL_IFNa_null_gd T cells.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	gd T cells
+PTLG024_BL_IFNa_null_Granulocytes.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	Granulocytes
+PTLG024_BL_IFNa_null_Intermediate MCs.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	Intermediate MCs
+PTLG024_BL_IFNa_null_Leukocytes.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	Leukocytes
+PTLG024_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG024_BL_IFNa_null_mDCs.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	mDCs
+PTLG024_BL_IFNa_null_Mononuclear cells.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	Mononuclear cells
+PTLG024_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	Mononuclear cells T cells
+PTLG024_BL_IFNa_null_Non-classical MCs.fcs	PTLG024_IFNa	PTLG024	IFNa	IFNa	Non-classical MCs
+PTLG024_BL_IL_null_B cells.fcs	PTLG024_IL	PTLG024	IL	IL	B cells
+PTLG024_BL_IL_null_CD14- CD16-.fcs	PTLG024_IL	PTLG024	IL	IL	CD14- CD16-
+PTLG024_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG024_IL	PTLG024	IL	IL	CD25+ CD8+ T mem
+PTLG024_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG024_IL	PTLG024	IL	IL	CD25+ CD8+ T naive
+PTLG024_BL_IL_null_CD3- CD19-.fcs	PTLG024_IL	PTLG024	IL	IL	CD3- CD19-
+PTLG024_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG024_IL	PTLG024	IL	IL	CD3- CD19- NK cells
+PTLG024_BL_IL_null_CD4- CD8- T cells.fcs	PTLG024_IL	PTLG024	IL	IL	CD4- CD8- T cells
+PTLG024_BL_IL_null_CD4+ T cells.fcs	PTLG024_IL	PTLG024	IL	IL	CD4+ T cells
+PTLG024_BL_IL_null_CD4+ Th1 mem.fcs	PTLG024_IL	PTLG024	IL	IL	CD4+ Th1 mem
+PTLG024_BL_IL_null_CD4+ Th1 naive.fcs	PTLG024_IL	PTLG024	IL	IL	CD4+ Th1 naive
+PTLG024_BL_IL_null_CD4+ T mem.fcs	PTLG024_IL	PTLG024	IL	IL	CD4+ T mem
+PTLG024_BL_IL_null_CD4+ T naive.fcs	PTLG024_IL	PTLG024	IL	IL	CD4+ T naive
+PTLG024_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG024_IL	PTLG024	IL	IL	CD56+ CD16- NK cells
+PTLG024_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG024_IL	PTLG024	IL	IL	CD56+ CD16+ NK cells
+PTLG024_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG024_IL	PTLG024	IL	IL	CD8+ T cells CD8+ T mem
+PTLG024_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG024_IL	PTLG024	IL	IL	CD8+ T cells CD8+ T naive
+PTLG024_BL_IL_null_CD8+ T cells.fcs	PTLG024_IL	PTLG024	IL	IL	CD8+ T cells
+PTLG024_BL_IL_null_Classical MCs.fcs	PTLG024_IL	PTLG024	IL	IL	Classical MCs
+PTLG024_BL_IL_null_gd T cells.fcs	PTLG024_IL	PTLG024	IL	IL	gd T cells
+PTLG024_BL_IL_null_Granulocytes.fcs	PTLG024_IL	PTLG024	IL	IL	Granulocytes
+PTLG024_BL_IL_null_Intermediate MCs.fcs	PTLG024_IL	PTLG024	IL	IL	Intermediate MCs
+PTLG024_BL_IL_null_Leukocytes.fcs	PTLG024_IL	PTLG024	IL	IL	Leukocytes
+PTLG024_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG024_IL	PTLG024	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG024_BL_IL_null_mDCs.fcs	PTLG024_IL	PTLG024	IL	IL	mDCs
+PTLG024_BL_IL_null_Mononuclear cells.fcs	PTLG024_IL	PTLG024	IL	IL	Mononuclear cells
+PTLG024_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG024_IL	PTLG024	IL	IL	Mononuclear cells T cells
+PTLG024_BL_IL_null_Non-classical MCs.fcs	PTLG024_IL	PTLG024	IL	IL	Non-classical MCs
+PTLG024_BL_LPS_null_B cells.fcs	PTLG024_LPS	PTLG024	LPS	LPS	B cells
+PTLG024_BL_LPS_null_CD14- CD16-.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD14- CD16-
+PTLG024_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD25+ CD8+ T mem
+PTLG024_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD25+ CD8+ T naive
+PTLG024_BL_LPS_null_CD3- CD19-.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD3- CD19-
+PTLG024_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD3- CD19- NK cells
+PTLG024_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD4- CD8- T cells
+PTLG024_BL_LPS_null_CD4+ T cells.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD4+ T cells
+PTLG024_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD4+ Th1 mem
+PTLG024_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD4+ Th1 naive
+PTLG024_BL_LPS_null_CD4+ T mem.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD4+ T mem
+PTLG024_BL_LPS_null_CD4+ T naive.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD4+ T naive
+PTLG024_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD56+ CD16- NK cells
+PTLG024_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD56+ CD16+ NK cells
+PTLG024_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG024_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG024_BL_LPS_null_CD8+ T cells.fcs	PTLG024_LPS	PTLG024	LPS	LPS	CD8+ T cells
+PTLG024_BL_LPS_null_Classical MCs.fcs	PTLG024_LPS	PTLG024	LPS	LPS	Classical MCs
+PTLG024_BL_LPS_null_gd T cells.fcs	PTLG024_LPS	PTLG024	LPS	LPS	gd T cells
+PTLG024_BL_LPS_null_Granulocytes.fcs	PTLG024_LPS	PTLG024	LPS	LPS	Granulocytes
+PTLG024_BL_LPS_null_Intermediate MCs.fcs	PTLG024_LPS	PTLG024	LPS	LPS	Intermediate MCs
+PTLG024_BL_LPS_null_Leukocytes.fcs	PTLG024_LPS	PTLG024	LPS	LPS	Leukocytes
+PTLG024_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG024_LPS	PTLG024	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG024_BL_LPS_null_mDCs.fcs	PTLG024_LPS	PTLG024	LPS	LPS	mDCs
+PTLG024_BL_LPS_null_Mononuclear cells.fcs	PTLG024_LPS	PTLG024	LPS	LPS	Mononuclear cells
+PTLG024_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG024_LPS	PTLG024	LPS	LPS	Mononuclear cells T cells
+PTLG024_BL_LPS_null_Non-classical MCs.fcs	PTLG024_LPS	PTLG024	LPS	LPS	Non-classical MCs
+PTLG024_BL_Unstim_null_B cells.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	B cells
+PTLG024_BL_Unstim_null_CD14- CD16-.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD14- CD16-
+PTLG024_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG024_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG024_BL_Unstim_null_CD3- CD19-.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD3- CD19-
+PTLG024_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD3- CD19- NK cells
+PTLG024_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD4- CD8- T cells
+PTLG024_BL_Unstim_null_CD4+ T cells.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD4+ T cells
+PTLG024_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD4+ Th1 mem
+PTLG024_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD4+ Th1 naive
+PTLG024_BL_Unstim_null_CD4+ T mem.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD4+ T mem
+PTLG024_BL_Unstim_null_CD4+ T naive.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD4+ T naive
+PTLG024_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG024_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG024_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG024_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG024_BL_Unstim_null_CD8+ T cells.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	CD8+ T cells
+PTLG024_BL_Unstim_null_Classical MCs.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	Classical MCs
+PTLG024_BL_Unstim_null_gd T cells.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	gd T cells
+PTLG024_BL_Unstim_null_Granulocytes.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	Granulocytes
+PTLG024_BL_Unstim_null_Intermediate MCs.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	Intermediate MCs
+PTLG024_BL_Unstim_null_Leukocytes.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	Leukocytes
+PTLG024_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG024_BL_Unstim_null_mDCs.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	mDCs
+PTLG024_BL_Unstim_null_Mononuclear cells.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	Mononuclear cells
+PTLG024_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	Mononuclear cells T cells
+PTLG024_BL_Unstim_null_Non-classical MCs.fcs	PTLG024_Unstim	PTLG024	Unstim	Unstim	Non-classical MCs
+PTLG029_BL_IFNa_null_B cells.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	B cells
+PTLG029_BL_IFNa_null_CD14- CD16-.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD14- CD16-
+PTLG029_BL_IFNa_null_CD25+ CD8+ T mem.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD25+ CD8+ T mem
+PTLG029_BL_IFNa_null_CD25+ CD8+ T naive.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD25+ CD8+ T naive
+PTLG029_BL_IFNa_null_CD3- CD19-.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD3- CD19-
+PTLG029_BL_IFNa_null_CD3- CD19-_NK cells.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD3- CD19- NK cells
+PTLG029_BL_IFNa_null_CD4- CD8- T cells.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD4- CD8- T cells
+PTLG029_BL_IFNa_null_CD4+ T cells.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD4+ T cells
+PTLG029_BL_IFNa_null_CD4+ Th1 mem.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD4+ Th1 mem
+PTLG029_BL_IFNa_null_CD4+ Th1 naive.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD4+ Th1 naive
+PTLG029_BL_IFNa_null_CD4+ T mem.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD4+ T mem
+PTLG029_BL_IFNa_null_CD4+ T naive.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD4+ T naive
+PTLG029_BL_IFNa_null_CD56+ CD16- NK cells.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD56+ CD16- NK cells
+PTLG029_BL_IFNa_null_CD56+ CD16+ NK cells.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD56+ CD16+ NK cells
+PTLG029_BL_IFNa_null_CD8+ T cells_CD8+ T mem.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD8+ T cells CD8+ T mem
+PTLG029_BL_IFNa_null_CD8+ T cells_CD8+ T naive.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD8+ T cells CD8+ T naive
+PTLG029_BL_IFNa_null_CD8+ T cells.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	CD8+ T cells
+PTLG029_BL_IFNa_null_Classical MCs.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	Classical MCs
+PTLG029_BL_IFNa_null_gd T cells.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	gd T cells
+PTLG029_BL_IFNa_null_Granulocytes.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	Granulocytes
+PTLG029_BL_IFNa_null_Intermediate MCs.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	Intermediate MCs
+PTLG029_BL_IFNa_null_Leukocytes.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	Leukocytes
+PTLG029_BL_IFNa_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	lin- (CD66- CD3- CD19- CD7-)
+PTLG029_BL_IFNa_null_mDCs.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	mDCs
+PTLG029_BL_IFNa_null_Mononuclear cells.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	Mononuclear cells
+PTLG029_BL_IFNa_null_Mononuclear cells_T cells.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	Mononuclear cells T cells
+PTLG029_BL_IFNa_null_Non-classical MCs.fcs	PTLG029_IFNa	PTLG029	IFNa	IFNa	Non-classical MCs
+PTLG029_BL_IL_null_B cells.fcs	PTLG029_IL	PTLG029	IL	IL	B cells
+PTLG029_BL_IL_null_CD14- CD16-.fcs	PTLG029_IL	PTLG029	IL	IL	CD14- CD16-
+PTLG029_BL_IL_null_CD25+ CD8+ T mem.fcs	PTLG029_IL	PTLG029	IL	IL	CD25+ CD8+ T mem
+PTLG029_BL_IL_null_CD25+ CD8+ T naive.fcs	PTLG029_IL	PTLG029	IL	IL	CD25+ CD8+ T naive
+PTLG029_BL_IL_null_CD3- CD19-.fcs	PTLG029_IL	PTLG029	IL	IL	CD3- CD19-
+PTLG029_BL_IL_null_CD3- CD19-_NK cells.fcs	PTLG029_IL	PTLG029	IL	IL	CD3- CD19- NK cells
+PTLG029_BL_IL_null_CD4- CD8- T cells.fcs	PTLG029_IL	PTLG029	IL	IL	CD4- CD8- T cells
+PTLG029_BL_IL_null_CD4+ T cells.fcs	PTLG029_IL	PTLG029	IL	IL	CD4+ T cells
+PTLG029_BL_IL_null_CD4+ Th1 mem.fcs	PTLG029_IL	PTLG029	IL	IL	CD4+ Th1 mem
+PTLG029_BL_IL_null_CD4+ Th1 naive.fcs	PTLG029_IL	PTLG029	IL	IL	CD4+ Th1 naive
+PTLG029_BL_IL_null_CD4+ T mem.fcs	PTLG029_IL	PTLG029	IL	IL	CD4+ T mem
+PTLG029_BL_IL_null_CD4+ T naive.fcs	PTLG029_IL	PTLG029	IL	IL	CD4+ T naive
+PTLG029_BL_IL_null_CD56+ CD16- NK cells.fcs	PTLG029_IL	PTLG029	IL	IL	CD56+ CD16- NK cells
+PTLG029_BL_IL_null_CD56+ CD16+ NK cells.fcs	PTLG029_IL	PTLG029	IL	IL	CD56+ CD16+ NK cells
+PTLG029_BL_IL_null_CD8+ T cells_CD8+ T mem.fcs	PTLG029_IL	PTLG029	IL	IL	CD8+ T cells CD8+ T mem
+PTLG029_BL_IL_null_CD8+ T cells_CD8+ T naive.fcs	PTLG029_IL	PTLG029	IL	IL	CD8+ T cells CD8+ T naive
+PTLG029_BL_IL_null_CD8+ T cells.fcs	PTLG029_IL	PTLG029	IL	IL	CD8+ T cells
+PTLG029_BL_IL_null_Classical MCs.fcs	PTLG029_IL	PTLG029	IL	IL	Classical MCs
+PTLG029_BL_IL_null_gd T cells.fcs	PTLG029_IL	PTLG029	IL	IL	gd T cells
+PTLG029_BL_IL_null_Granulocytes.fcs	PTLG029_IL	PTLG029	IL	IL	Granulocytes
+PTLG029_BL_IL_null_Intermediate MCs.fcs	PTLG029_IL	PTLG029	IL	IL	Intermediate MCs
+PTLG029_BL_IL_null_Leukocytes.fcs	PTLG029_IL	PTLG029	IL	IL	Leukocytes
+PTLG029_BL_IL_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG029_IL	PTLG029	IL	IL	lin- (CD66- CD3- CD19- CD7-)
+PTLG029_BL_IL_null_mDCs.fcs	PTLG029_IL	PTLG029	IL	IL	mDCs
+PTLG029_BL_IL_null_Mononuclear cells.fcs	PTLG029_IL	PTLG029	IL	IL	Mononuclear cells
+PTLG029_BL_IL_null_Mononuclear cells_T cells.fcs	PTLG029_IL	PTLG029	IL	IL	Mononuclear cells T cells
+PTLG029_BL_IL_null_Non-classical MCs.fcs	PTLG029_IL	PTLG029	IL	IL	Non-classical MCs
+PTLG029_BL_LPS_null_B cells.fcs	PTLG029_LPS	PTLG029	LPS	LPS	B cells
+PTLG029_BL_LPS_null_CD14- CD16-.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD14- CD16-
+PTLG029_BL_LPS_null_CD25+ CD8+ T mem.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD25+ CD8+ T mem
+PTLG029_BL_LPS_null_CD25+ CD8+ T naive.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD25+ CD8+ T naive
+PTLG029_BL_LPS_null_CD3- CD19-.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD3- CD19-
+PTLG029_BL_LPS_null_CD3- CD19-_NK cells.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD3- CD19- NK cells
+PTLG029_BL_LPS_null_CD4- CD8- T cells.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD4- CD8- T cells
+PTLG029_BL_LPS_null_CD4+ T cells.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD4+ T cells
+PTLG029_BL_LPS_null_CD4+ Th1 mem.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD4+ Th1 mem
+PTLG029_BL_LPS_null_CD4+ Th1 naive.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD4+ Th1 naive
+PTLG029_BL_LPS_null_CD4+ T mem.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD4+ T mem
+PTLG029_BL_LPS_null_CD4+ T naive.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD4+ T naive
+PTLG029_BL_LPS_null_CD56+ CD16- NK cells.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD56+ CD16- NK cells
+PTLG029_BL_LPS_null_CD56+ CD16+ NK cells.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD56+ CD16+ NK cells
+PTLG029_BL_LPS_null_CD8+ T cells_CD8+ T mem.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD8+ T cells CD8+ T mem
+PTLG029_BL_LPS_null_CD8+ T cells_CD8+ T naive.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD8+ T cells CD8+ T naive
+PTLG029_BL_LPS_null_CD8+ T cells.fcs	PTLG029_LPS	PTLG029	LPS	LPS	CD8+ T cells
+PTLG029_BL_LPS_null_Classical MCs.fcs	PTLG029_LPS	PTLG029	LPS	LPS	Classical MCs
+PTLG029_BL_LPS_null_gd T cells.fcs	PTLG029_LPS	PTLG029	LPS	LPS	gd T cells
+PTLG029_BL_LPS_null_Granulocytes.fcs	PTLG029_LPS	PTLG029	LPS	LPS	Granulocytes
+PTLG029_BL_LPS_null_Intermediate MCs.fcs	PTLG029_LPS	PTLG029	LPS	LPS	Intermediate MCs
+PTLG029_BL_LPS_null_Leukocytes.fcs	PTLG029_LPS	PTLG029	LPS	LPS	Leukocytes
+PTLG029_BL_LPS_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG029_LPS	PTLG029	LPS	LPS	lin- (CD66- CD3- CD19- CD7-)
+PTLG029_BL_LPS_null_mDCs.fcs	PTLG029_LPS	PTLG029	LPS	LPS	mDCs
+PTLG029_BL_LPS_null_Mononuclear cells.fcs	PTLG029_LPS	PTLG029	LPS	LPS	Mononuclear cells
+PTLG029_BL_LPS_null_Mononuclear cells_T cells.fcs	PTLG029_LPS	PTLG029	LPS	LPS	Mononuclear cells T cells
+PTLG029_BL_LPS_null_Non-classical MCs.fcs	PTLG029_LPS	PTLG029	LPS	LPS	Non-classical MCs
+PTLG029_BL_Unstim_null_B cells.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	B cells
+PTLG029_BL_Unstim_null_CD14- CD16-.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD14- CD16-
+PTLG029_BL_Unstim_null_CD25+ CD8+ T mem.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD25+ CD8+ T mem
+PTLG029_BL_Unstim_null_CD25+ CD8+ T naive.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD25+ CD8+ T naive
+PTLG029_BL_Unstim_null_CD3- CD19-.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD3- CD19-
+PTLG029_BL_Unstim_null_CD3- CD19-_NK cells.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD3- CD19- NK cells
+PTLG029_BL_Unstim_null_CD4- CD8- T cells.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD4- CD8- T cells
+PTLG029_BL_Unstim_null_CD4+ T cells.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD4+ T cells
+PTLG029_BL_Unstim_null_CD4+ Th1 mem.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD4+ Th1 mem
+PTLG029_BL_Unstim_null_CD4+ Th1 naive.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD4+ Th1 naive
+PTLG029_BL_Unstim_null_CD4+ T mem.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD4+ T mem
+PTLG029_BL_Unstim_null_CD4+ T naive.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD4+ T naive
+PTLG029_BL_Unstim_null_CD56+ CD16- NK cells.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD56+ CD16- NK cells
+PTLG029_BL_Unstim_null_CD56+ CD16+ NK cells.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD56+ CD16+ NK cells
+PTLG029_BL_Unstim_null_CD8+ T cells_CD8+ T mem.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD8+ T cells CD8+ T mem
+PTLG029_BL_Unstim_null_CD8+ T cells_CD8+ T naive.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD8+ T cells CD8+ T naive
+PTLG029_BL_Unstim_null_CD8+ T cells.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	CD8+ T cells
+PTLG029_BL_Unstim_null_Classical MCs.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	Classical MCs
+PTLG029_BL_Unstim_null_gd T cells.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	gd T cells
+PTLG029_BL_Unstim_null_Granulocytes.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	Granulocytes
+PTLG029_BL_Unstim_null_Intermediate MCs.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	Intermediate MCs
+PTLG029_BL_Unstim_null_Leukocytes.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	Leukocytes
+PTLG029_BL_Unstim_null_lin- (CD66- CD3- CD19- CD7-).fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	lin- (CD66- CD3- CD19- CD7-)
+PTLG029_BL_Unstim_null_mDCs.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	mDCs
+PTLG029_BL_Unstim_null_Mononuclear cells.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	Mononuclear cells
+PTLG029_BL_Unstim_null_Mononuclear cells_T cells.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	Mononuclear cells T cells
+PTLG029_BL_Unstim_null_Non-classical MCs.fcs	PTLG029_Unstim	PTLG029	Unstim	Unstim	Non-classical MCs
