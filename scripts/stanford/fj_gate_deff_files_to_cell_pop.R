@@ -42,11 +42,11 @@ write_tsv(gate_counts, file.path(results_folder, "filtered-wsp-gate-counts.tsv")
 # There were 5 wsp that had a gate "Live" instaed of "Live Singles" make them different from the
 # remaining 96.
 wsp_with_live <- all_gates %>% dplyr::filter(gates == "/DNA/Intact cells/Live")
+write_tsv(wsp_with_live, file.path(results_folder, "5-wsp-with-live.tsv"))
 
 # Using the filtered-ws-gate-counts.tsv generate (manually by Excel) two files with the 28 terminal population
 # one for 96 wsp and the other for the 5 wsp that were different in gate names.
 
-### DONE SO far ###
 
 
 
