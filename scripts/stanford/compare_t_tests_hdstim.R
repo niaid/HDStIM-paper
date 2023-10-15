@@ -35,3 +35,11 @@ mfp <- ggplot(plot_dat, aes(x = t_count, y = f_log10_pval)) +
 ggsave("t_test_vs_hdstim.png", path = figures_folder, plot = mfp,
        width = 7, height = 4, units = "in", dpi = 600)
 
+
+one_to_3 <- dplyr::filter(t_res, t_count >= 1 & t_count <=3) %>%
+        inner_join(hdstim_res) %>%
+        dplyr::filter(f_significance == 1)
+
+zero <- dplyr::filter(t_res, t_count ==0) %>%
+        inner_join(hdstim_res) %>%
+        dplyr::filter(f_significance == 1)
